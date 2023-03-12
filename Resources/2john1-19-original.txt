@@ -1,0 +1,29 @@
+﻿CHAPTER 19 - AN ACT TO DEFINE THE NATIONAL CURRENCY OF BAUSTRALIA AND ITS VALUE IN RELATION TO PURE SILVER
+
+PREFACE
+
+1.   Whereas His Majesty has already set a standard for currency in Baustralia, it shall be defined in this Act.
+2.   This Act may be cited as the Boerc Act, 2019.
+
+BOERC
+
+3.   The currency of Baustralia is the Baustralian Boerc.
+ a)   It is defined by the RIS as Boerc (Baustralian), BUB, 001.
+4.   The symbol for the Boerc is ᛒ and is described as the Old English rune meaning birch tree.
+5.   The value of the Boerc is set at the spot price of one gram of silver.
+6.   The Boerc is regulated by the Royal Bank of Baustralia.
+
+CEN
+
+7.   The Cen is a division of the Boerc. It is equal to one one-hundredth of a Boerc.
+8.   The symbol for the Cen is ᚳ and is described as the Old English rune meaning torch.
+
+DÆG
+
+9.   The Dæg is a division of the Boerc. It is equal to one one-thousandth of a Boerc.
+10.  The symbol for the Dæg is ᛞ and is described as the Old English rune meaning day.
+11.  It is not circulated, but is legal currency. It is mandatory for accountants to include the Dæg in reports, and not a rounded number.
+
+CURRENCY EXCHANGE
+
+12.  The buying rate may be 15% higher than the value reported by the Royal Bank of Baustralia. In a similar way, the selling rate may be 20% higher than the value reported.

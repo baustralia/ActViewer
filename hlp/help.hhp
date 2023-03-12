@@ -1,0 +1,17 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=Table of Contents.hhc
+Default Font=Arial,8,1
+Default topic=Icoclrs.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x1009 English (Canada)
+
+[FILES]
+design.css
+Icoclrs.htm
+
+[INFOTYPES]
+
