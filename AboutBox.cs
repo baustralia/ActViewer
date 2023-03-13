@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Acts_of_the_Parliament_of_Baustralia
+namespace ActViewer
 {
     partial class AboutBox : Form
     {
@@ -24,7 +24,7 @@ namespace Acts_of_the_Parliament_of_Baustralia
 
         #region Assembly Attribute Accessors
 
-        public string AssemblyTitle
+        public string? AssemblyTitle
         {
             get
             {
@@ -37,7 +37,7 @@ namespace Acts_of_the_Parliament_of_Baustralia
                         return titleAttribute.Title;
                     }
                 }
-                return System.IO.Path.GetFileNameWithoutExtension(Assembly.GetExecutingAssembly().CodeBase);
+                return System.IO.Path.GetFileNameWithoutExtension(Assembly.GetExecutingAssembly().Location);
             }
         }
 
@@ -45,7 +45,7 @@ namespace Acts_of_the_Parliament_of_Baustralia
         {
             get
             {
-                return Assembly.GetExecutingAssembly().GetName().Version.ToString();
+                return Assembly.GetExecutingAssembly().GetName().Version!.ToString();
             }
         }
 
@@ -101,5 +101,10 @@ namespace Acts_of_the_Parliament_of_Baustralia
             }
         }
         #endregion
+
+        private void AboutBox_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

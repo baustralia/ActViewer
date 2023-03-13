@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Acts of the Parliament of Baustralia/1.0.0": {
+      "ActViewer/1.0.0": {
         "runtime": {
-          "Acts of the Parliament of Baustralia.dll": {}
+          "ActViewer.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Acts of the Parliament of Baustralia/1.0.0": {
+    "ActViewer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

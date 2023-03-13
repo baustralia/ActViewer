@@ -3,17 +3,23 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0-windows</TargetFramework>
-    <RootNamespace>Acts_of_the_Parliament_of_Baustralia</RootNamespace>
+    <RootNamespace>ActViewer</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.ico</ApplicationIcon>
-    <Copyright>Copyright 2017-2023. King's Printer of Baustralia. Communications Office.</Copyright>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Copyright>Copyright 2017-2023. King's Printer of Baustralia.</Copyright>
     <PackageIcon>16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.png</PackageIcon>
+    <Title>Acts of the Parliament of Baustralia</Title>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/baustralia/ActViewer</RepositoryUrl>
+    <Description>Displays Baustralian legislation and bills in an easy to navigate tree list.</Description>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <Company>Communications Office of Baustralia</Company>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.ico" />
+    <Content Include="icon.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -40,6 +46,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

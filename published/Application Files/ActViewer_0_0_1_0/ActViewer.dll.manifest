@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Acts of the Parliament of Baustralia.exe" version="0.0.1.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-  <description asmv2:iconFile="16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <asmv1:assemblyIdentity name="ActViewer.exe" version="0.0.1.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1">Displays Baustralian legislation and bills in an easy to navigate tree list.</description>
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -50,38 +50,29 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JC1Lie5jbcW0v0xNXWApoZtw9MJmV8DA4hwCxU177tM=</dsig:DigestValue>
+        <dsig:DigestValue>a4H0SQBYqmi9G+2vVOrtMuz6Jjit8lTIQv48ji6xAOs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.ico" size="102106">
+  <file name="ActViewer.deps.json" size="419">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+amjYQVEGpsgTRQPIHNNayXDXwAa9mM4rAwdD1ot0uk=</dsig:DigestValue>
+      <dsig:DigestValue>UN1njgmYrKJY6YLtUZvqZNjKG0iZRi/3fOT+ZFTu2zY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Acts of the Parliament of Baustralia.deps.json" size="500">
+  <file name="ActViewer.dll" size="515072">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BZ5Y0JbK1Jh8Lq8p2XcpbUgeOlmYQ4Vqi/ll+ce+YV4=</dsig:DigestValue>
+      <dsig:DigestValue>NOFYhbIOhc+VI6Z5msNEIcbMP2V0Tw8ods4i9HSfvHA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Acts of the Parliament of Baustralia.dll" size="515584">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/f9tsfnCK/zVH8A1XXLUuAqpP0W3N+vllkmVuqaNTsw=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Acts of the Parliament of Baustralia.dll.config" size="77">
+  <file name="ActViewer.dll.config" size="77">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -90,22 +81,31 @@
       <dsig:DigestValue>sRXPO8NcIiuVI4ajMrs7gnxty0j6ChK7OorE6bM0xfQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Acts of the Parliament of Baustralia.exe" size="250880">
+  <file name="ActViewer.exe" size="250880">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ppKJG4GNLhsRtaOYDldFIrV1t5grLgeDDFxYQAGP2DQ=</dsig:DigestValue>
+      <dsig:DigestValue>BZUa0UDCeIhn2BwkpXlYOIZTPOt/xy1LJoyrkFrdICg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Acts of the Parliament of Baustralia.runtimeconfig.json" size="372">
+  <file name="ActViewer.runtimeconfig.json" size="372">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>HsoPDHAHCqg7tgnkt0mybctECXhDJgMnJjlHIiJKCYo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icon.ico" size="102106">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+amjYQVEGpsgTRQPIHNNayXDXwAa9mM4rAwdD1ot0uk=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

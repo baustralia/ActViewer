@@ -1,6 +1,6 @@
-using Acts_of_the_Parliament_of_Baustralia.Properties;
+using ActViewer.Properties;
 
-namespace Acts_of_the_Parliament_of_Baustralia
+namespace ActViewer
 {
     public partial class Form1 : Form
     {

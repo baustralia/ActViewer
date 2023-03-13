@@ -1,4 +1,4 @@
-namespace Acts_of_the_Parliament_of_Baustralia
+namespace ActViewer
 {
     internal static class Program
     {

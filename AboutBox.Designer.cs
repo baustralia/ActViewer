@@ -1,4 +1,4 @@
-﻿namespace Acts_of_the_Parliament_of_Baustralia
+﻿namespace ActViewer
 {
     partial class AboutBox
     {
@@ -68,7 +68,7 @@
             // logoPictureBox
             // 
             this.logoPictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.logoPictureBox.Image = global::Acts_of_the_Parliament_of_Baustralia.Properties.Resources.about;
+            this.logoPictureBox.Image = global::ActViewer.Properties.Resources.about;
             this.logoPictureBox.Location = new System.Drawing.Point(4, 3);
             this.logoPictureBox.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.logoPictureBox.Name = "logoPictureBox";
@@ -168,6 +168,7 @@
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "About";
+            this.Load += new System.EventHandler(this.AboutBox_Load);
             this.tableLayoutPanel.ResumeLayout(false);
             this.tableLayoutPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logoPictureBox)).EndInit();

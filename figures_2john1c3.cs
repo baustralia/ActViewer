@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Acts_of_the_Parliament_of_Baustralia
+namespace ActViewer
 {
     public partial class figures_2john1c3 : Form
     {
