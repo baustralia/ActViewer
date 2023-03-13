@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/baustralia/ActViewer/main/published/Acts%20of%20the%20Parliament%20of%20Baustralia.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/baustralia/ActViewer/origin/published/Acts%20of%20the%20Parliament%20of%20Baustralia.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
