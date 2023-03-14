@@ -14,7 +14,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/baustralia/ActViewer</RepositoryUrl>
     <Description>Displays Baustralian legislation and bills in an easy to navigate tree list.</Description>
-    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <AssemblyVersion></AssemblyVersion>
     <Company>Communications Office of Baustralia</Company>
   </PropertyGroup>
 
