@@ -1,0 +1,51 @@
+CHAPTER 30 - AN ACT DESCRIBING THE CALENDRIAL SYSTEM OF BAUSTRALIA; REGARDING THE REGNAL CALENDAR
+
+Be it enacted by His Most Gracious and Excellent Majesty as follows:-
+1.   This Act shall be known as the Calendar Act, 2019.
+
+GREGORIAN AND JULIAN CALENDAR SYSTEMS
+
+2.   The Parliament of Baustralia, and all governmental offices shall adopt and use the Gregorian calendar.
+3.   The Julian calendar must not be used for official or legal purposes.
+4.   The Julian calendar is not banned and can be used for any purposes other than written in paragraph 3.
+
+REGNAL CALENDAR
+
+5.   For certain documents, i.e. King’s commissions, Acts of Parliament, and other things, a calendar relating to the reign of the current monarch shall be used.
+6.   The regnal calendar is described as such:-
+ a)   The regnal year, that is how many years since the reign of the monarch, with the start of the year coinciding with the start of that monarch’s reign.
+  I.   The regnal year is not bound to the start date of the previous monarch’s year.
+  II.  The regnal year shall be written in Arabic numbers.
+ b)   The regnal name, if 5 or more characters, abbreviated to 3 characters and a full stop, or in some cases being defined through an Act of Parliament, or in Appendix A of this Act, 4 or 2 and a full stop.
+ c)   The regnal number of the monarch.
+  I.   The regnal number shall be written in Arabic numbers.
+7.   In the case of two co-reigning monarchs, a special method of abbreviation can be used, also defined through an Act of Parliament. See Appendix B for examples from other monarchies.
+
+SCHEDULE A
+
+A LIST OF DEFINED ABBREVIATIONS
+NAME                      ABBR.
+Anne                       Anne
+Charles                    Cha.
+Edward                     Edw.
+Elizabeth                 Eliz.
+George                     Geo.
+Henry                      Hen.
+James                       Ja.
+John                       John
+Mary                       Mar.
+Richard                    Ric.
+Stephen                    Ste.
+Victoria                  Vict.
+William                   Will.
+
+SCHEDULE B
+
+A LIST OF DEFINED CO-REIGNING ABBREVIATIONS
+NAME			     REALM             ABBR.
+Phillip and Mary	England	       Ph. & M.
+William and Mary	England    Will. & Mar.
+Reagan and Mecca    Rmhoania      Re. & Me.
+John and Aidan	    Trepenny      Jo. & Ai.
+Katelynn and John	Edstmae     Kat. & John
+                   (abdication of Katelynn)

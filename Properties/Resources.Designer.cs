@@ -831,11 +831,114 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to CHAPTER 14 - AN ACT TO ALLOW THE MONARCH TO PASS ANY ACT WITHOUT THE CONSENT OF THE COMMONS, LORDS TEMPORAL AND SPIRITUAL, OR ANY LEGISLATURE
+        ///
+        ///1.   Be it enacted by His Most Gracious Majesty and by the consent of the Commons as follows:
+        ///2.   This Act shall be known as the Monarchy (Powers) Act, 2019.
+        ///3.   His Majesty shall be able to create legislation, allocate a bill citation, and assent any legislation without any consent from the Commons, Lords Temporal and Spiritual, or other legislature.
+        ///4.   His [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string _3john1_14_original {
             get {
                 return ResourceManager.GetString("3john1-14-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 15 - AN ACT TO CEDE THREE ACRES OF THE NINETEEN ACRES OF THE EMPIRE OF OSTREUM TO THE PEOPLE’S FEDERATION OF QUEBEC UNDER THE NAME OF LITIHANUA
+        ///
+        ///Be it enacted by His Most Gracious Majesty the following:
+        ///1.   The People’s Federation of Quebec shall receive three acres of Ostreum centered on the widest point of Tentacion Creek that is a foot away from John Road. 
+        ///2.   The south-by-south-south-eastern border shall be a tri-point border with Canada, Dominion of; Ostreum, Empire of; and Quebec, Peopl [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_15_original {
+            get {
+                return ResourceManager.GetString("3john1-15-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING PROSTITUTION
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Prostitution Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///2.   This Act shall extend to the whole Empire, less Ostreum.
+        ///3.   Prostitution shall be defined as any sexual act performed for monetary gain.
+        ///4.   Prostitution shall be considered illegal.
+        ///5.   The fine shall be one million (1,000,000) boercs..
+        /// </summary>
+        internal static string _3john1_16_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-16-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING PROSTITUTION
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Prostitution Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///2.   Prostitution shall be defined as any sexual act performed for monetary gain.
+        ///3.   Prostitution shall be considered illegal.
+        ///4.   The fine shall be one million (1,000,000) boercs..
+        /// </summary>
+        internal static string _3john1_16_original {
+            get {
+                return ResourceManager.GetString("3john1-16-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 17 - AN ACT TO DE-EXTEND THE PROSTITUTION ACT IN OSTREUM
+        ///
+        ///Be it enacted by His Most Gracious Majesty and by the consent of the Commons as follows:
+        ///1.   This Act shall be known as the Prostitution (Legalization) Act (Ostreum), 2019.
+        ///2.   In the Prostitution Act, after paragraph one, a paragraph shall be added stating:-
+        /// 2.   This Act shall extend to the whole Empire, less Ostreum..
+        /// </summary>
+        internal static string _3john1_17_original {
+            get {
+                return ResourceManager.GetString("3john1-17-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 18 - AN ACT REPEALING THE UNION WITH QUEBEC ACT (BAUSTRALIA)
+        ///
+        ///Be it enacted by His Most Gracious Majesty and by the consent of the Commons as follows:
+        ///1.   The Union with Quebec Act (Baustralia) shall be repealed in full.
+        ///2.   The Union with Quebec (Modifications) Act (Baustralia) shall be repealed in full.
+        ///3.   This Act shall be known as the Union with Quebec (Repeal) Act (Baustralia), 2019
+        ///4.   This Act shall extend to Baustralia only..
+        /// </summary>
+        internal static string _3john1_18_original {
+            get {
+                return ResourceManager.GetString("3john1-18-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 19 - AN ACT RETURNING THE PROVINCE OF TAYLOR TO THE PEOPLE’S FEDERATION OF QUEBEC; REGARDING THE STATUS OF THE CITIZENS RESIDING THEREIN; REGARDING THE MEMBER OF PARLIAMENT THEREOF
+        ///
+        ///Be it enacted by His Most Gracious Majesty and by the consent of the Commons as follows:
+        ///1.   This Act shall be known as the Taylor Act, 2019.
+        ///2.   This Act shall come into effect as dictated in the Schedule of this Act.
+        ///
+        ///RETURN OF TAYLOR
+        ///
+        ///3.   The Province of Taylor shall become sovereign and be amalgamated into [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_19_original {
+            get {
+                return ResourceManager.GetString("3john1-19-original", resourceCulture);
             }
         }
         
@@ -845,6 +948,184 @@ namespace ActViewer.Properties {
         internal static string _3john1_2_original {
             get {
                 return ResourceManager.GetString("3john1-2-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 20 - AN ACT REGARDING THE RESIGNATION OF MINISTERS OF THE CROWN, MEMBERS OF PARLIAMENT, AND OTHER OFFICERS OF THE CROWN
+        ///
+        ///Be it enacted by His Most Gracious Majesty and by the consent of the Commons as follows:
+        ///1.   This Act shall be known as the Resignation Act, 2019.
+        ///2.   “Persons concerned” shall refer to Ministers of the Crown, Members of Parliament, and other officers of the crown (including Members of His Most Gracious and Excellent Majesty’s Baustralian Armed Forces).
+        ///3.   Persons concern [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_20_original {
+            get {
+                return ResourceManager.GetString("3john1-20-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 21 - AN ACT RATIFYING THE CHARTER OF THE GRAND UNIFIED MICRONATIONAL AND PURPOSES CONNECTED THEREOF
+        ///
+        ///Be it enacted by His Most Gracious Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Grand Unified Micronational (Ratification) Act, 2019.
+        ///2.   This Act shall ratify the Charter of the Grand Unified Micronational.
+        ///3.   This Act shall not replace His Majesty’s signature but rather recognize it for the Empire..
+        /// </summary>
+        internal static string _3john1_21_original {
+            get {
+                return ResourceManager.GetString("3john1-21-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 22 - AN ACT REGARDING THE DETERMINATION OF HIS MAJESTY’S MOST LOYAL OPPOSITION WITHIN THE PARLIAMENT OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty and with the Consent of the Commons as follows:-
+        ///1.   Should the case arise that two or more parties shall tie for the position of His Majesty’s Loyal Opposition, the following may be taken into account.
+        /// a)   Combined salaries of the Members including salaries from the military.
+        /// b)   Members at the start of session.
+        ///2.   Should the cas [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_22_original {
+            get {
+                return ResourceManager.GetString("3john1-22-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 23 - AN ACT REGARDING THE ROLE OF HIS MAJESTY’S MOST LOYAL OPPOSITION WITHIN THE PARLIAMENT OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty and with the Consent of the Commons as follows:-
+        ///1.   His Majesty’s Most Loyal Opposition, hereafter referred to as the Opposition, is the party within Parliament who has the second-highest number of seats. In the case of a tie, the Act regarding the determination of His Majesty’s Most Loyal Opposition within the Parliament of Baustralia shall be ta [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_23_original {
+            get {
+                return ResourceManager.GetString("3john1-23-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 24 - AN ACT REGARDING AND ESTABLISHING THE DOMINION OF WHISKEY ISLANDS
+        ///
+        ///Be it enacted by His Most Gracious and Excellency the following:-
+        ///1.   Established is the Dominion of Whiskey Islands.
+        ///2.   The Whiskey Islands shall be represented in Parliament by the Minister for Foreign Affairs..
+        /// </summary>
+        internal static string _3john1_24_original {
+            get {
+                return ResourceManager.GetString("3john1-24-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 25 - AN ACT REGARDING THE NATIONAL SYMBOLS OF WHISKEY ISLANDS
+        ///
+        ///Be it enacted by His most Excellent Majesty and with the consent of the Commons as follows:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act, less section 5 shall extend to Whiskey Islands only.
+        ///2.   Section 5 shall extend to the whole empire.
+        ///3.   This Act shall be known as the National Symbols Act (Whiskey Islands), 2019.
+        ///
+        ///TERMS
+        ///
+        ///4.   The flag of Whiskey Islands shall be a Baustralian red ensign, that is a red flag with the Baustralian flag in the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_25_original {
+            get {
+                return ResourceManager.GetString("3john1-25-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 26 - AN ACT REGARDING THE MINISTERS OF THE CROWN; REGARDING THE CHANGE OF MINISTRIES OVER TO OFFICES; REGARDING THE CHANGE OF TITLE OF “MINISTER FOR” TO “SECRETARY OF STATE”; REGARDING THE FOUNDING OF OFFICES FOR THE DOMINIONS; REGARDING THE DISSOLUTION OF THE IMPERIAL AFFAIRS OFFICE; AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His most Excellent Majesty and with the consent of the Commons as follows:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Secretary of State Act, 2019.
+        ///2.   Thi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_26_original {
+            get {
+                return ResourceManager.GetString("3john1-26-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT TO RETRIEVE THE DISSOLVED FITHUANIA SOCIALIST REPUBLIC FROM THE REPUBLIC OF QUEBEC; MERGING IT WITH BAUSTRALIAN OSTREUM
+        ///
+        ///Be it enacted by His Most Excellent Majesty the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   Fithuania, Socialist Republic of, was dissolved by the Republic of Quebec.
+        ///2.   As a gift from Baustralia, it shall be taken back.
+        ///3.   This Act shall be known as the Mayhew (Claim) Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///4.   The land shall merge with Baustralian Ostreum within the Empire of Ostreum.
+        ///5 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_27_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-27-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT TO RETRIEVE THE DISSOLVED FITHUANIA SOCIALIST REPUBLIC FROM THE REPUBLIC OF QUEBEC; MERGING IT WITH BAUSTRALIAN OSTREUM
+        ///
+        ///Be it enacted by His Most Excellent Majesty the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   Fithuania, Socialist Republic of, was dissolved by the Republic of Quebec.
+        ///2.   As a gift from Baustralia, it shall be taken back.
+        ///3.   This Act shall be known as the Mayhew Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///4.   The land shall merge with Baustralian Ostreum within the Empire of Ostreum.
+        ///5.   The  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_27_original {
+            get {
+                return ResourceManager.GetString("3john1-27-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 28 - AN ACT REGARDING THE DOMINIONS AND THEIR GOVERNMENT
+        ///
+        ///Be it enacted by His Most Excellent and Gracious Majesty as follows:-
+        ///1.   The Governments of the Dominions shall be hereby dissolved.
+        ///2.   Dominions shall be solely represented by a Lord Governor and a Secretary of State.
+        ///3.   The Lord, or Peeress in the case of a female peer, Governor is a peer overseeing a Dominion and the representative in the House of Lords.
+        /// a)   The Lord Governor in Ostreum shall be called Viceroy and Lord/Peeres [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_28_original {
+            get {
+                return ResourceManager.GetString("3john1-28-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 29 - AN ACT REGARDING THE COUNTY OF MAYHEW AND THE CLAIMS THEREON BY THE PEOPLE’S FEDERATION OF QUEBEC; TO AMEND THE MAYHEW ACT’S SHORT TITLE
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Mayhew (Annulment) Act, 2019.
+        ///2.   The Mayhew Act, paragraph 3, shall read: “This Act shall be known as the Mayhew (Claim) Act, 2019.”
+        ///3.   Whereas the government of Quebec has made an error in reporting the dissolution of all but Fithiuanian SR and  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_29_original {
+            get {
+                return ResourceManager.GetString("3john1-29-original", resourceCulture);
             }
         }
         
@@ -865,6 +1146,107 @@ namespace ActViewer.Properties {
         internal static string _3john1_3_original {
             get {
                 return ResourceManager.GetString("3john1-3-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 30 - AN ACT DESCRIBING THE CALENDRIAL SYSTEM OF BAUSTRALIA; REGARDING THE REGNAL CALENDAR
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Calendar Act, 2019.
+        ///
+        ///GREGORIAN AND JULIAN CALENDAR SYSTEMS
+        ///
+        ///2.   The Parliament of Baustralia, and all governmental offices shall adopt and use the Gregorian calendar.
+        ///3.   The Julian calendar must not be used for official or legal purposes.
+        ///4.   The Julian calendar is not banned and can be used f [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_30_original {
+            get {
+                return ResourceManager.GetString("3john1-30-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT ESTABLISHING FORMALLY THE BAUSTRALIAN NEWS NETWORK
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty the follows:
+        ///1.   Created and chartered is the Baustralian News Network
+        ///2.   Formed already, this Act serves to recognize it, and create it through legislature.
+        ///3.   This Act shall be known as the Baustralian News Network Act, 2019..
+        /// </summary>
+        internal static string _3john1_31_original {
+            get {
+                return ResourceManager.GetString("3john1-31-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 32 - AN ACT TO DISSOLVE ALL ONE MAN PARTIES AND TO PREVENT THE CREATION OF THE AFOREMENTIONED PARTIES
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   Men who create their own parties for the benefit of themselves is selfish.
+        ///2.   A one-man party cannot function properly with only one member and it may be seen as a man voting for the benefit of himself, and not the people.
+        ///3.   These parties cannot be registered with His Royal Gover [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_32_original {
+            get {
+                return ResourceManager.GetString("3john1-32-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NOTE, SMALL CAPITALS ARE NOT DISPLAYED HERE (*)
+        ///
+        ///CHAPTER 33 - AN ACT REGARDING THE INTERPRETATION OF BILLS AND ACTS OF THE PARLIAMENT OF BAUSTRALIA AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted* by His Most Gracious and excellent Majesty and the Commons assembled, the follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall be known as the Interpretation Act, 2019.
+        ///2.   Interpretation of Bills and Acts are as follows:
+        /// a)   Act* shall refer to an Act of the Parliament of Baustralia.
+        /// b)   Act shall ref [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_33_original {
+            get {
+                return ResourceManager.GetString("3john1-33-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 34 - AN ACT RESTRUCTURING ALL DOMINIONS OF BAUSTRALIA INTO COLONIES AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted by His Most Gracious and excellent Majesty, the follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall be known as the Colony Act, 2019.
+        ///2.   Colonies shall be designated as territories unable to form a government due to population issues.
+        ///3.   Dominions shall be self-governing, and do so independent of the Parliament of Baustralia.
+        ///4.   As such, all dominions of Baustralia, includi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_34_original {
+            get {
+                return ResourceManager.GetString("3john1-34-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 35 - AN ACT TO END THE OFFICIAL OWNERSHIP AND BAUSTRALIAN CONTROL OVER ORGANIZATION KNOWN AS THE LEAGUE OF NATIONS TO THE SOCIALIST STATE OF PALOMA
+        ///
+        ///Be it enacted by the King&apos;s most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows :—
+        ///1.   Baustralia will cease ownership of the League of Nations and its symbolics.
+        ///2.   Baustralia will hand over the organization to the Socialist State of Paloma. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_35_original {
+            get {
+                return ResourceManager.GetString("3john1-35-original", resourceCulture);
             }
         }
         
@@ -1037,6 +1419,16 @@ namespace ActViewer.Properties {
         internal static System.Drawing.Bitmap bookSelected {
             get {
                 object obj = ResourceManager.GetObject("bookSelected", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap destroyed {
+            get {
+                object obj = ResourceManager.GetObject("destroyed", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

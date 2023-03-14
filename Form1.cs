@@ -522,42 +522,240 @@ namespace ActViewer
                 #endregion
                 #region Chapter 13
                 case "3john1c13original":
-                    formGen(13, "John 1", 3, "Spent");
+                    formGen(13, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_13_original;
                     break;
                 case "3john1c13":
-                    formGen(13, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Union with Quebec (Modifications) Act (Baustralia)\r\nIntroduced by the Minister for Foreign Affairs, Sir Harrison Pickles.\r\nAmends 3 John 1 c. 9.\r\nNo vote counts avaliable.";
+                    formGen(13, "John 1", 3, "Repealed");
+                    displayTextBox.SelectedText = "Union with Quebec (Modifications) Act (Baustralia)\r\nIntroduced by the Minister for Foreign Affairs, Sir Harrison Pickles.\r\nAmends 3 John 1 c. 9.\r\nRepealed by 3 John 1 c. 18 (Union with Quebec (Repeal) Act (Baustralia)).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 14
                 case "3john1c14original":
                     formGen(14, "John 1", 3, "In force");
-                    //displayTextBox.SelectedText = Resources._3john1_14_original;
+                    displayTextBox.SelectedText = Resources._3john1_14_original;
                     break;
                 case "3john1c14":
                     formGen(14, "John 1", 3, "In force");
-                    //displayTextBox.SelectedText = "Concealed Firearms Act\r\nIntroduced by the Deputy Prime Minister, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Monarchy (Powers) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 15
-                case "3john1c151original":
+                case "3john1c15original":
                     formGen(15, "John 1", 3, "Spent");
-                    //displayTextBox.SelectedText = Resources._3john1_15_original;
+                    displayTextBox.SelectedText = Resources._3john1_15_original;
                     break;
                 case "3john1c15":
                     formGen(15, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Wrythe Convention Act\r\nIntroduced by the Minister for Foreign Affairs, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Litihanua Act\r\nIntroduced by the Minister for Foreign Affairs, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 16
+                case "3john1c16amend1":
+                    formGen(16, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_16_amend1;
+                    break;
                 case "3john1c16original":
-                    formGen(16, "John 1", 3, "In force");
-                    //displayTextBox.SelectedText = Resources._3john1_16_original;
+                    formGen(16, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_16_original;
                     break;
                 case "3john1c16":
-                    formGen(16, "John 1", 3, "In force");
-                    //displayTextBox.SelectedText = "Acts of Parliament (Commencement) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    formGen(16, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = "Prostitution Act\r\nIntroduced by the Deputy Prime Minister, Sir Harrison Pickles.\r\nAmended by 3 John 1 c. 17 (Prostitution (Legalization) Act (Ostreum)).\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 17
+                case "3john1c17original":
+                    formGen(17, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_17_original;
+                    break;
+                case "3john1c17":
+                    formGen(17, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Prostitution (Legalization) Act (Ostreum)\r\nIntroduced by the Viceroy and Lord Governor of Ostreum, the Duke of London.\r\nAmends 3 John 1 c. 16.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 18
+                case "3john1c18original":
+                    formGen(18, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_18_original;
+                    break;
+                case "3john1c18":
+                    formGen(18, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Union with Quebec (Repeal) Act (Baustralia)\r\nIntroduced by the Minister for Spatial Exploration, Aidan McGrath.\r\nRepeals:\r\n  3 John 1 c. 9\r\n  3 John 1 c. 13\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 19
+                case "3john1c19original":
+                    formGen(19, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_19_original;
+                    break;
+                case "3john1c19":
+                    formGen(19, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Taylor Act (Baustralia)\r\nIntroduced by the Minister for Spatial Exploration, Aidan McGrath.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 20
+                case "3john1c20original":
+                    formGen(20, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_20_original;
+                    break;
+                case "3john1c20":
+                    formGen(20, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Resignation Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 21
+                case "3john1c21original":
+                    formGen(21, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_21_original;
+                    break;
+                case "3john1c21":
+                    formGen(21, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Grand Unified Micronational (Ratification) Act\r\nIntroduced by the Deputy Prime Minister, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 22
+                case "3john1c22original":
+                    formGen(22, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_22_original;
+                    break;
+                case "3john1c22":
+                    formGen(22, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Loyal Opposition (Appointment) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 23
+                case "3john1c23original":
+                    formGen(23, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_23_original;
+                    break;
+                case "3john1c23":
+                    formGen(23, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Loyal Opposition (Roles) Act\r\nIntroduced by the Prime Minister, Sir John Timpson\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 24
+                case "3john1c24original":
+                    formGen(24, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_24_original;
+                    break;
+                case "3john1c24":
+                    formGen(24, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Whiskey Islands Act\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 25
+                case "3john1c25original":
+                    formGen(25, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_25_original;
+                    break;
+                case "3john1c25":
+                    formGen(25, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "National Symbols Act (Whiskey Islands)\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 26
+                case "3john1c26original":
+                    formGen(26, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_26_original;
+                    break;
+                case "3john1c26":
+                    formGen(26, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Secretary of State Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 27
+                case "3john1c27amend1":
+                    formGen(27, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_27_amend1;
+                    break;
+                case "3john1c27original":
+                    formGen(27, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_27_original;
+                    break;
+                case "3john1c27":
+                    formGen(27, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Mayhew (Claim) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 28
+                case "3john1c28original":
+                    formGen(28, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_28_original;
+                    break;
+                case "3john1c28":
+                    formGen(28, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Dominions (Government) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 29
+                case "3john1c29original":
+                    formGen(29, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_29_original;
+                    break;
+                case "3john1c29":
+                    formGen(29, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Mayhew (Annulment) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 30
+                case "3john1c30original":
+                    formGen(30, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_30_original;
+                    break;
+                case "3john1c30":
+                    formGen(30, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Calendar Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 31
+                case "3john1c31original":
+                    formGen(31, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_31_original;
+                    break;
+                case "3john1c31":
+                    formGen(31, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = "Baustralian News Network Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 32
+                case "3john1c32original":
+                    formGen(32, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_32_original;
+                    break;
+                case "3john1c32":
+                    formGen(32, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "One-Man Party Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 33
+                case "3john1c33original":
+                    formGen(33, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = Resources._3john1_33_original;
+                    break;
+                case "3john1c33":
+                    formGen(33, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Interpretation Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    break;
+                #endregion
+                #region Chapter 34
+                case "3john1c34original":
+                    formGen(34, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_4_original;
+                    break;
+                case "3john1c34":
+                    formGen(34, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = "Colony (No. 1) Act\r\nBy command of the Sovereign.";
+                    break;
+                #endregion
+                #region Chapter 35
+                case "3john1c35original":
+                    formGen(35, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_35_original;
+                    break;
+                case "3john1c35":
+                    formGen(35, "John 1", 3, "In force");
+                    displayTextBox.SelectedText = "Handover of the League of Nations Act\r\nIntroduced by the Secretary of State for Foreign Affairs, Sir Harrison Pickles.\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #endregion
@@ -634,6 +832,16 @@ namespace ActViewer
         private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Help.ShowHelp(this, helpFilePath);
+        }
+
+        private void expandAllToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            treeView1.ExpandAll();
+        }
+
+        private void collapseAllToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            treeView1.CollapseAll();
         }
     }
 }

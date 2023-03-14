@@ -212,7 +212,7 @@
             System.Windows.Forms.TreeNode treeNode98 = new System.Windows.Forms.TreeNode("Chapter 12 - Acts of Parliament (Commencement) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode97});
             System.Windows.Forms.TreeNode treeNode99 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode100 = new System.Windows.Forms.TreeNode("Chapter 13 - Union with Quebec (Modifications) Act (Baustralia)", 6, 6, new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode100 = new System.Windows.Forms.TreeNode("Chapter 13 - Union with Quebec (Modifications) Act (Baustralia)", 5, 5, new System.Windows.Forms.TreeNode[] {
             treeNode99});
             System.Windows.Forms.TreeNode treeNode101 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode102 = new System.Windows.Forms.TreeNode("Chapter 14 - Monarchy (Powers) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
@@ -221,9 +221,70 @@
             System.Windows.Forms.TreeNode treeNode104 = new System.Windows.Forms.TreeNode("Chapter 15 - Litihanua Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode103});
             System.Windows.Forms.TreeNode treeNode105 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode106 = new System.Windows.Forms.TreeNode("Chapter 16 - Prostitution Act", 4, 4, new System.Windows.Forms.TreeNode[] {
-            treeNode105});
-            System.Windows.Forms.TreeNode treeNode107 = new System.Windows.Forms.TreeNode("3 John 1", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode106 = new System.Windows.Forms.TreeNode("As amended by 3 John 1 c. 17", 8, 8);
+            System.Windows.Forms.TreeNode treeNode107 = new System.Windows.Forms.TreeNode("Chapter 16 - Prostitution Act", 7, 7, new System.Windows.Forms.TreeNode[] {
+            treeNode105,
+            treeNode106});
+            System.Windows.Forms.TreeNode treeNode108 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode109 = new System.Windows.Forms.TreeNode("Chapter 17 - Prostitution (Legalization) Act (Ostreum)", new System.Windows.Forms.TreeNode[] {
+            treeNode108});
+            System.Windows.Forms.TreeNode treeNode110 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode111 = new System.Windows.Forms.TreeNode("Chapter 18 - Union with Quebec (Repeal) Act (Baustralia)", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode110});
+            System.Windows.Forms.TreeNode treeNode112 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode113 = new System.Windows.Forms.TreeNode("Chapter 19 - Taylor Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode112});
+            System.Windows.Forms.TreeNode treeNode114 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode115 = new System.Windows.Forms.TreeNode("Chapter 20 - Resignation Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode114});
+            System.Windows.Forms.TreeNode treeNode116 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode117 = new System.Windows.Forms.TreeNode("Chapter 21 - Grand Unified Micronational (Ratification) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode116});
+            System.Windows.Forms.TreeNode treeNode118 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode119 = new System.Windows.Forms.TreeNode("Chapter 22 - Loyal Opposition (Appointment) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode118});
+            System.Windows.Forms.TreeNode treeNode120 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode121 = new System.Windows.Forms.TreeNode("Chapter 23 - Loyal Opposition (Roles) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode120});
+            System.Windows.Forms.TreeNode treeNode122 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode123 = new System.Windows.Forms.TreeNode("Chapter 24 - Whiskey Islands Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode122});
+            System.Windows.Forms.TreeNode treeNode124 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode125 = new System.Windows.Forms.TreeNode("Chapter 25 - National Symbols Act (Whiskey Islands)", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode124});
+            System.Windows.Forms.TreeNode treeNode126 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode127 = new System.Windows.Forms.TreeNode("Chapter 26 - Secretary of State Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode126});
+            System.Windows.Forms.TreeNode treeNode128 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode129 = new System.Windows.Forms.TreeNode("As amended by 3 John 1 c. 29", 8, 8);
+            System.Windows.Forms.TreeNode treeNode130 = new System.Windows.Forms.TreeNode("Chapter 27 - Mayhew (Claim) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode128,
+            treeNode129});
+            System.Windows.Forms.TreeNode treeNode131 = new System.Windows.Forms.TreeNode("As originally enacted");
+            System.Windows.Forms.TreeNode treeNode132 = new System.Windows.Forms.TreeNode("Chapter 28 - Dominions (Government) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode131});
+            System.Windows.Forms.TreeNode treeNode133 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode134 = new System.Windows.Forms.TreeNode("Chapter 29 - Mayhew (Annulment) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode133});
+            System.Windows.Forms.TreeNode treeNode135 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode136 = new System.Windows.Forms.TreeNode("Chapter 30 - Calendar Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode135});
+            System.Windows.Forms.TreeNode treeNode137 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode138 = new System.Windows.Forms.TreeNode("Chapter 31 - Baustralian News Network Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode137});
+            System.Windows.Forms.TreeNode treeNode139 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode140 = new System.Windows.Forms.TreeNode("Chapter 32 - One-Man Party Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode139});
+            System.Windows.Forms.TreeNode treeNode141 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode142 = new System.Windows.Forms.TreeNode("Chapter 33 - Interpretation Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode141});
+            System.Windows.Forms.TreeNode treeNode143 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode144 = new System.Windows.Forms.TreeNode("Chapter 34 - Colony (No. 1) Act", 7, 7, new System.Windows.Forms.TreeNode[] {
+            treeNode143});
+            System.Windows.Forms.TreeNode treeNode145 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode146 = new System.Windows.Forms.TreeNode("Chapter 35 - Handover of the League of Nations Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode145});
+            System.Windows.Forms.TreeNode treeNode147 = new System.Windows.Forms.TreeNode("3 John 1", new System.Windows.Forms.TreeNode[] {
             treeNode75,
             treeNode77,
             treeNode79,
@@ -239,10 +300,29 @@
             treeNode100,
             treeNode102,
             treeNode104,
-            treeNode106});
-            System.Windows.Forms.TreeNode treeNode108 = new System.Windows.Forms.TreeNode("4 John 1");
-            System.Windows.Forms.TreeNode treeNode109 = new System.Windows.Forms.TreeNode("5 John 1");
-            System.Windows.Forms.TreeNode treeNode110 = new System.Windows.Forms.TreeNode("6 John 1", 1, 2);
+            treeNode107,
+            treeNode109,
+            treeNode111,
+            treeNode113,
+            treeNode115,
+            treeNode117,
+            treeNode119,
+            treeNode121,
+            treeNode123,
+            treeNode125,
+            treeNode127,
+            treeNode130,
+            treeNode132,
+            treeNode134,
+            treeNode136,
+            treeNode138,
+            treeNode140,
+            treeNode142,
+            treeNode144,
+            treeNode146});
+            System.Windows.Forms.TreeNode treeNode148 = new System.Windows.Forms.TreeNode("4 John 1");
+            System.Windows.Forms.TreeNode treeNode149 = new System.Windows.Forms.TreeNode("5 John 1");
+            System.Windows.Forms.TreeNode treeNode150 = new System.Windows.Forms.TreeNode("6 John 1", 1, 2);
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.treeView1 = new System.Windows.Forms.TreeView();
@@ -255,6 +335,8 @@
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.expandAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.collapseAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel3 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -285,7 +367,7 @@
             this.splitContainer1.Panel2.Controls.Add(this.displayTextBox);
             this.splitContainer1.Panel2.Controls.Add(this.longCitation);
             this.splitContainer1.Panel2MinSize = 13;
-            this.splitContainer1.Size = new System.Drawing.Size(1370, 608);
+            this.splitContainer1.Size = new System.Drawing.Size(1370, 703);
             this.splitContainer1.SplitterDistance = 503;
             this.splitContainer1.TabIndex = 0;
             // 
@@ -694,9 +776,9 @@
             treeNode99.Name = "3john1c13original";
             treeNode99.SelectedImageIndex = 8;
             treeNode99.Text = "As originally enacted";
-            treeNode100.ImageIndex = 6;
+            treeNode100.ImageIndex = 5;
             treeNode100.Name = "3john1c13";
-            treeNode100.SelectedImageIndex = 6;
+            treeNode100.SelectedImageIndex = 5;
             treeNode100.Text = "Chapter 13 - Union with Quebec (Modifications) Act (Baustralia)";
             treeNode101.ImageIndex = 8;
             treeNode101.Name = "3john1c14original";
@@ -718,32 +800,191 @@
             treeNode105.Name = "3john1c16original";
             treeNode105.SelectedImageIndex = 8;
             treeNode105.Text = "As originally enacted";
-            treeNode106.ImageIndex = 4;
-            treeNode106.Name = "3john1c16";
-            treeNode106.SelectedImageIndex = 4;
-            treeNode106.Text = "Chapter 16 - Prostitution Act";
-            treeNode107.Name = "3John1";
-            treeNode107.SelectedImageIndex = 2;
-            treeNode107.Text = "3 John 1";
-            treeNode108.Name = "4John1";
-            treeNode108.SelectedImageIndex = 2;
-            treeNode108.Text = "4 John 1";
-            treeNode109.Name = "5John1";
-            treeNode109.SelectedImageIndex = 2;
-            treeNode109.Text = "5 John 1";
-            treeNode110.ImageIndex = 1;
-            treeNode110.Name = "6John1";
-            treeNode110.SelectedImageIndex = 2;
-            treeNode110.Text = "6 John 1";
+            treeNode106.ImageIndex = 8;
+            treeNode106.Name = "3john1c16amend1";
+            treeNode106.SelectedImageIndex = 8;
+            treeNode106.Text = "As amended by 3 John 1 c. 17";
+            treeNode107.ImageIndex = 7;
+            treeNode107.Name = "3john1c16";
+            treeNode107.SelectedImageIndex = 7;
+            treeNode107.Text = "Chapter 16 - Prostitution Act";
+            treeNode108.ImageIndex = 8;
+            treeNode108.Name = "3john1c17original";
+            treeNode108.SelectedImageIndex = 8;
+            treeNode108.Text = "As originally enacted";
+            treeNode109.ImageKey = "spent.png";
+            treeNode109.Name = "3john1c17";
+            treeNode109.SelectedImageIndex = 6;
+            treeNode109.Text = "Chapter 17 - Prostitution (Legalization) Act (Ostreum)";
+            treeNode110.ImageIndex = 8;
+            treeNode110.Name = "3john1c18original";
+            treeNode110.SelectedImageIndex = 8;
+            treeNode110.Text = "As originally enacted";
+            treeNode111.ImageIndex = 6;
+            treeNode111.Name = "3john1c18";
+            treeNode111.SelectedImageIndex = 6;
+            treeNode111.Text = "Chapter 18 - Union with Quebec (Repeal) Act (Baustralia)";
+            treeNode112.ImageIndex = 8;
+            treeNode112.Name = "3john1c19original";
+            treeNode112.SelectedImageIndex = 8;
+            treeNode112.Text = "As originally enacted";
+            treeNode113.ImageIndex = 6;
+            treeNode113.Name = "3john1c19";
+            treeNode113.SelectedImageIndex = 6;
+            treeNode113.Text = "Chapter 19 - Taylor Act";
+            treeNode114.ImageIndex = 8;
+            treeNode114.Name = "3john1c20original";
+            treeNode114.SelectedImageIndex = 8;
+            treeNode114.Text = "As originally enacted";
+            treeNode115.ImageIndex = 4;
+            treeNode115.Name = "3john1c20";
+            treeNode115.SelectedImageIndex = 4;
+            treeNode115.Text = "Chapter 20 - Resignation Act";
+            treeNode116.ImageIndex = 8;
+            treeNode116.Name = "3john1c21original";
+            treeNode116.SelectedImageIndex = 8;
+            treeNode116.Text = "As originally enacted";
+            treeNode117.ImageIndex = 6;
+            treeNode117.Name = "3john1c21";
+            treeNode117.SelectedImageIndex = 6;
+            treeNode117.Text = "Chapter 21 - Grand Unified Micronational (Ratification) Act";
+            treeNode118.ImageIndex = 8;
+            treeNode118.Name = "3john1c22original";
+            treeNode118.SelectedImageIndex = 8;
+            treeNode118.Text = "As originally enacted";
+            treeNode119.ImageIndex = 4;
+            treeNode119.Name = "3john1c22";
+            treeNode119.SelectedImageIndex = 4;
+            treeNode119.Text = "Chapter 22 - Loyal Opposition (Appointment) Act";
+            treeNode120.ImageIndex = 8;
+            treeNode120.Name = "3john1c23";
+            treeNode120.SelectedImageIndex = 8;
+            treeNode120.Text = "As originally enacted";
+            treeNode121.ImageIndex = 4;
+            treeNode121.Name = "3john1c23";
+            treeNode121.SelectedImageIndex = 4;
+            treeNode121.Text = "Chapter 23 - Loyal Opposition (Roles) Act";
+            treeNode122.ImageIndex = 8;
+            treeNode122.Name = "3john1c24original";
+            treeNode122.SelectedImageIndex = 8;
+            treeNode122.Text = "As originally enacted";
+            treeNode123.ImageIndex = 6;
+            treeNode123.Name = "3john1c24";
+            treeNode123.SelectedImageIndex = 6;
+            treeNode123.Text = "Chapter 24 - Whiskey Islands Act";
+            treeNode124.ImageIndex = 8;
+            treeNode124.Name = "3john1c25original";
+            treeNode124.SelectedImageIndex = 8;
+            treeNode124.Text = "As originally enacted";
+            treeNode125.ImageIndex = 4;
+            treeNode125.Name = "3john1c25";
+            treeNode125.SelectedImageIndex = 4;
+            treeNode125.Text = "Chapter 25 - National Symbols Act (Whiskey Islands)";
+            treeNode126.ImageIndex = 8;
+            treeNode126.Name = "3john1c26original";
+            treeNode126.SelectedImageIndex = 8;
+            treeNode126.Text = "As originally enacted";
+            treeNode127.ImageIndex = 6;
+            treeNode127.Name = "3john1c26";
+            treeNode127.SelectedImageIndex = 6;
+            treeNode127.Text = "Chapter 26 - Secretary of State Act";
+            treeNode128.ImageIndex = 8;
+            treeNode128.Name = "3john1c27original";
+            treeNode128.SelectedImageIndex = 8;
+            treeNode128.Text = "As originally enacted";
+            treeNode129.ImageIndex = 8;
+            treeNode129.Name = "3john1c27amend1";
+            treeNode129.SelectedImageIndex = 8;
+            treeNode129.Text = "As amended by 3 John 1 c. 29";
+            treeNode130.ImageIndex = 6;
+            treeNode130.Name = "3john1c27";
+            treeNode130.SelectedImageIndex = 6;
+            treeNode130.Text = "Chapter 27 - Mayhew (Claim) Act";
+            treeNode131.ImageIndex = 8;
+            treeNode131.Name = "3john1c28original";
+            treeNode131.Text = "As originally enacted";
+            treeNode132.ImageIndex = 4;
+            treeNode132.Name = "3john1c28";
+            treeNode132.SelectedImageIndex = 4;
+            treeNode132.Text = "Chapter 28 - Dominions (Government) Act";
+            treeNode133.ImageIndex = 8;
+            treeNode133.Name = "3john1c29original";
+            treeNode133.SelectedImageIndex = 8;
+            treeNode133.Text = "As originally enacted";
+            treeNode134.ImageIndex = 6;
+            treeNode134.Name = "3john1c29";
+            treeNode134.SelectedImageIndex = 6;
+            treeNode134.Text = "Chapter 29 - Mayhew (Annulment) Act";
+            treeNode135.ImageIndex = 8;
+            treeNode135.Name = "3john1c30original";
+            treeNode135.SelectedImageIndex = 8;
+            treeNode135.Text = "As originally enacted";
+            treeNode136.ImageIndex = 4;
+            treeNode136.Name = "3john1c30";
+            treeNode136.SelectedImageIndex = 4;
+            treeNode136.Text = "Chapter 30 - Calendar Act";
+            treeNode137.ImageIndex = 8;
+            treeNode137.Name = "3john1c31original";
+            treeNode137.SelectedImageIndex = 8;
+            treeNode137.Text = "As originally enacted";
+            treeNode138.ImageIndex = 6;
+            treeNode138.Name = "3john1c31";
+            treeNode138.SelectedImageIndex = 6;
+            treeNode138.Text = "Chapter 31 - Baustralian News Network Act";
+            treeNode139.ImageIndex = 8;
+            treeNode139.Name = "3john1c32original";
+            treeNode139.SelectedImageIndex = 8;
+            treeNode139.Text = "As originally enacted";
+            treeNode140.ImageIndex = 4;
+            treeNode140.Name = "3john1c32";
+            treeNode140.SelectedImageIndex = 4;
+            treeNode140.Text = "Chapter 32 - One-Man Party Act";
+            treeNode141.ImageIndex = 8;
+            treeNode141.Name = "3john1c33original";
+            treeNode141.SelectedImageIndex = 8;
+            treeNode141.Text = "As originally enacted";
+            treeNode142.ImageIndex = 4;
+            treeNode142.Name = "3john1c33";
+            treeNode142.SelectedImageIndex = 4;
+            treeNode142.Text = "Chapter 33 - Interpretation Act";
+            treeNode143.ImageIndex = 8;
+            treeNode143.Name = "3john1c34original";
+            treeNode143.SelectedImageIndex = 8;
+            treeNode143.Text = "As originally enacted";
+            treeNode144.ImageIndex = 7;
+            treeNode144.Name = "3john1c34";
+            treeNode144.SelectedImageIndex = 7;
+            treeNode144.Text = "Chapter 34 - Colony (No. 1) Act";
+            treeNode145.ImageIndex = 8;
+            treeNode145.Name = "3john1c35original";
+            treeNode145.SelectedImageIndex = 8;
+            treeNode145.Text = "As originally enacted";
+            treeNode146.ImageIndex = 6;
+            treeNode146.Name = "3john1c35";
+            treeNode146.SelectedImageIndex = 6;
+            treeNode146.Text = "Chapter 35 - Handover of the League of Nations Act";
+            treeNode147.Name = "3John1";
+            treeNode147.SelectedImageIndex = 2;
+            treeNode147.Text = "3 John 1";
+            treeNode148.Name = "4John1";
+            treeNode148.SelectedImageIndex = 2;
+            treeNode148.Text = "4 John 1";
+            treeNode149.Name = "5John1";
+            treeNode149.SelectedImageIndex = 2;
+            treeNode149.Text = "5 John 1";
+            treeNode150.ImageIndex = 1;
+            treeNode150.Name = "6John1";
+            treeNode150.SelectedImageIndex = 2;
+            treeNode150.Text = "6 John 1";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode7,
             treeNode73,
-            treeNode107,
-            treeNode108,
-            treeNode109,
-            treeNode110});
+            treeNode147,
+            treeNode148,
+            treeNode149,
+            treeNode150});
             this.treeView1.SelectedImageIndex = 0;
-            this.treeView1.Size = new System.Drawing.Size(503, 608);
+            this.treeView1.Size = new System.Drawing.Size(503, 703);
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
@@ -768,12 +1009,12 @@
             // 
             this.displayTextBox.AcceptsTab = true;
             this.displayTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.displayTextBox.Font = new System.Drawing.Font("Monospac821 BT", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.displayTextBox.Font = new System.Drawing.Font("Lucida Sans Typewriter", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.displayTextBox.Location = new System.Drawing.Point(0, 74);
             this.displayTextBox.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.displayTextBox.Name = "displayTextBox";
             this.displayTextBox.ReadOnly = true;
-            this.displayTextBox.Size = new System.Drawing.Size(863, 534);
+            this.displayTextBox.Size = new System.Drawing.Size(863, 629);
             this.displayTextBox.TabIndex = 1;
             this.displayTextBox.Text = "";
             // 
@@ -796,7 +1037,9 @@
             this.menuStrip1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1,
-            this.helpToolStripMenuItem});
+            this.helpToolStripMenuItem,
+            this.expandAllToolStripMenuItem,
+            this.collapseAllToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1370, 24);
@@ -830,16 +1073,30 @@
             // 
             this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
             this.helpToolStripMenuItem1.ShortcutKeys = System.Windows.Forms.Keys.F1;
-            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(118, 22);
             this.helpToolStripMenuItem1.Text = "Help";
             this.helpToolStripMenuItem1.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
+            // 
+            // expandAllToolStripMenuItem
+            // 
+            this.expandAllToolStripMenuItem.Name = "expandAllToolStripMenuItem";
+            this.expandAllToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.expandAllToolStripMenuItem.Text = "Expand all";
+            this.expandAllToolStripMenuItem.Click += new System.EventHandler(this.expandAllToolStripMenuItem_Click);
+            // 
+            // collapseAllToolStripMenuItem
+            // 
+            this.collapseAllToolStripMenuItem.Name = "collapseAllToolStripMenuItem";
+            this.collapseAllToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
+            this.collapseAllToolStripMenuItem.Text = "Collapse all";
+            this.collapseAllToolStripMenuItem.Click += new System.EventHandler(this.collapseAllToolStripMenuItem_Click);
             // 
             // statusStrip1
             // 
@@ -848,7 +1105,7 @@
             this.toolStripStatusLabel1,
             this.selectionLabel,
             this.toolStripStatusLabel2});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 632);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 727);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 16, 0);
             this.statusStrip1.Size = new System.Drawing.Size(1370, 22);
@@ -891,7 +1148,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1370, 654);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.statusStrip1);
@@ -933,5 +1190,7 @@
         private ToolStripStatusLabel toolStripStatusLabel3;
         private ToolStripStatusLabel toolStripStatusLabel2;
         private RichTextBox displayTextBox;
+        private ToolStripMenuItem expandAllToolStripMenuItem;
+        private ToolStripMenuItem collapseAllToolStripMenuItem;
     }
 }
