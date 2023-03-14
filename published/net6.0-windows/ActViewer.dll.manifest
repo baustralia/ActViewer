@@ -63,13 +63,13 @@
       <dsig:DigestValue>UN1njgmYrKJY6YLtUZvqZNjKG0iZRi/3fOT+ZFTu2zY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ActViewer.dll" size="557056">
+  <file name="ActViewer.dll" size="556544">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SD3UhIbqveE842fgKg73BEdtSiDrT/vuumGjlw21HrQ=</dsig:DigestValue>
+      <dsig:DigestValue>EWTX/Trc7vuoP1tPkkeJlnH7AHNg/LyuQOd9zn8BTro=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ActViewer.dll.config" size="77">
@@ -81,13 +81,13 @@
       <dsig:DigestValue>sRXPO8NcIiuVI4ajMrs7gnxty0j6ChK7OorE6bM0xfQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ActViewer.exe" size="250880">
+  <file name="ActViewer.exe" size="250368">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BZUa0UDCeIhn2BwkpXlYOIZTPOt/xy1LJoyrkFrdICg=</dsig:DigestValue>
+      <dsig:DigestValue>dL/jm74REZbQL+DOUPuzRjlOkiSmms1Yci31ThUvpgU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ActViewer.runtimeconfig.json" size="372">
