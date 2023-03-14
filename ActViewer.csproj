@@ -9,7 +9,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>icon.ico</ApplicationIcon>
     <Copyright>Copyright 2017-2023. King's Printer of Baustralia.</Copyright>
-    <PackageIcon>16px-Royal_coat_of_arms_of_Baustralia_(black_and_white).svg.png</PackageIcon>
+    <PackageIcon>icon.png</PackageIcon>
     <Title>Acts of the Parliament of Baustralia</Title>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/baustralia/ActViewer</RepositoryUrl>
