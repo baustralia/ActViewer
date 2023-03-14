@@ -144,10 +144,10 @@
             // 
             this.okButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.okButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.okButton.Location = new System.Drawing.Point(395, 277);
+            this.okButton.Location = new System.Drawing.Point(402, 277);
             this.okButton.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.okButton.Name = "okButton";
-            this.okButton.Size = new System.Drawing.Size(88, 27);
+            this.okButton.Size = new System.Drawing.Size(81, 27);
             this.okButton.TabIndex = 24;
             this.okButton.Text = "&OK";
             // 
