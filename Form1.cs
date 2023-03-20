@@ -1,4 +1,6 @@
 using ActViewer.Properties;
+using Squirrel;
+using System.Threading.Tasks;
 
 namespace ActViewer
 {
@@ -7,6 +9,19 @@ namespace ActViewer
         public Form1()
         {
             InitializeComponent();
+            UpdateApp();
+        }
+
+        private static async Task UpdateApp()
+        {
+            using var mgr = new UpdateManager("https://baustralia.ca/ActViewer/app/");
+            var newVersion = await mgr.UpdateApp();
+
+            // optionally restart the app automatically, or ask the user if/when they want to restart
+            if (newVersion != null)
+            {
+                UpdateManager.RestartApp();
+            }
         }
 
         string[] formats =

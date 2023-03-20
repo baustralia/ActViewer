@@ -13,10 +13,11 @@ namespace ActViewer
     {
         public AboutBox()
         {
+            var assembly = Assembly.GetExecutingAssembly();
             InitializeComponent();
             this.Text = String.Format("About {0}", AssemblyTitle);
             this.labelProductName.Text = AssemblyProduct;
-            this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
+            this.labelVersion.Text = String.Format("Version {0}.{1}.{2}", assembly.GetName().Version!.Major, assembly.GetName().Version!.Minor, assembly.GetName().Version!.Build);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
             this.textBoxDescription.Text = AssemblyDescription;

@@ -1,21 +1,26 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>ActViewer</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>icon.ico</ApplicationIcon>
     <Copyright>Copyright 2017-2023. King's Printer of Baustralia.</Copyright>
     <PackageIcon>icon.png</PackageIcon>
-    <Title>Acts of the Parliament of Baustralia</Title>
-    <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/baustralia/ActViewer</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl></RepositoryUrl>
     <Description>Displays Baustralian legislation and bills in an easy to navigate tree list.</Description>
-    <AssemblyVersion></AssemblyVersion>
+    <AssemblyVersion>0.1.5.0</AssemblyVersion>
     <Company>Communications Office of Baustralia</Company>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <NeutralLanguage>en-CA</NeutralLanguage>
+    <StartupObject></StartupObject>
+    <OutputType>WinExe</OutputType>
+	<VersionPrefix>0.1.5</VersionPrefix>
+	<VersionSuffix>beta</VersionSuffix>
+    <FileVersion>0.1.5.0</FileVersion>
+    <ApplicationManifest>ActViewer.manifest</ApplicationManifest>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,6 +31,10 @@
 
   <ItemGroup>
     <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Clowd.Squirrel" Version="2.9.42" />
   </ItemGroup>
 
   <ItemGroup>
