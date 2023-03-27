@@ -1,0 +1,8 @@
+CHAPTER 20 - AN ACT TO ESTABLISH A COURT IDENTIFIER FOR THE HOUSE OF LORDS IN ACCORDANCE WITH THE THIRTEENTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FOURTH YEAR OF THE REIGN OF KING JOHN I, COMMONLY KNOWN AS THE HOUSE OF LORDS (POWERS) ACT, TO AMEND THE FORTY-FIRST CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN I, COMMONLY KNOWN AS THE CITATION (LEGAL) ACT, AND FOR PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+1.   This Act shall be known as the House of Lords (Identifier) Act, 2022, T-51.
+2.   The House of Lords was authorized by the House of Lords (Powers) Act, 4 John 1 c. 13 to hear any legal matters, and to act as the highest court of appeals in Baustralia.
+3.   Legal citations of cases heard in the House of Lords shall follow the same format as described in the Citation (Legal) Act, 3 John 1 c. 41.
+4.   The following shall be appended to the aforementioned Act, in section 5.
+ d)   HOL           House of Lords

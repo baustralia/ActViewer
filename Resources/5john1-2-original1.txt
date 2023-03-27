@@ -1,0 +1,31 @@
+﻿CHAPTER 2 - AN ACT TO ESTABLISH A NATIONAL ROUTE SYSTEM
+
+Whereas it has been determined the current Baustralian route system is too complicated for the amount of routes contained within the country,
+And whereas, the old system is laid out for the provincial system and does not transfer well to the county system,
+Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+1.   This Act shall be known as the National Routes Act, c. 2.
+2.   The current route system shall be reformed as such:
+
+CURRENT No.           CURRENT NAME                    NEW No.
+FL-10                 McGrath Road                    Hwy 1
+MP-25                 Elizabeth Road and King’s Road  Hwy 2
+MP-26                                                 Hwy 3
+LS-30                                                 Hwy 4
+LS-31                                                 Hwy 5
+HD-40                                                 Hwy 6
+HD-40B                                                Hwy 6A
+BAU-100               Timpson Road                    Hwy 7	
+BAU-500               Randouler Highway               Hwy 8
+BAU-501               Sullivan Highway                Hwy 9
+BAU-502               E.J. Parker Road                Hwy 10
+BAU-503                                               Hwy 11
+BAU-504               Parker Highway                  Hwy 12
+
+3.   Additionally, Highway 6A will be designated Concord Road. The following highways will be established:
+ a)   A length of highway at Northumbria numbered 13, to be decided by the Duke of Northumbria.
+ b)   In the new region of Newport at 44°07'55.7"N 77°47'24.0"W, two new highways will be laid in accordance with the following figure, with the above coordinates marked in red.
+ c)   Route 15 shall be designated as W.O. J.R. Morris Road, and 14, Cdr. J.E. Gardener Road.
+ d)   A new highway “16” will be developed in Mild Pond stemming off of Peterborough County Road 4, Canada, follow north to a new highway “17” running east-west from Highway 8, and loop at the boundary back down toward 16.
+ e)   Additionally, on the west side of Wabasso, a new highway will be formed from C.R. 4 to Mild Pond Trail. The route will continue down Mild Pond Trail terminating at Hwy 8.
+4.   All route shields shall be removed and replaced with the Mild Pond pattern sign, with a Baustralian fish replacing the pond.
+5.   Each route sign to be posted shall measure 13 5/16” × 17 3/4”, or 26 9/16” × 35 7/16" for large signs.

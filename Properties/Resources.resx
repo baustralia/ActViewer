@@ -383,9 +383,585 @@
     <value>..\Resources\3john1-33-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="3john1-34-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3john1-34-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+    <value>..\Resources\3john1-34-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
   </data>
   <data name="3john1-35-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3john1-35-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="2john1-2-amend3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2john1-2-amend3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="3john1-36-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-36-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-37-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-37-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-38-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-38-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-39-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-39-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-40-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-40-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-41-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-41-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="3john1-42-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-42-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-43-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-43-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-44-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-44-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-45-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-45-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-46-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-46-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-47-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-47-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-48-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-48-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="3john1-49-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-49-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-50-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-50-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-51-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-51-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-52-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-52-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-53-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-53-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-54-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-54-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-55-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-55-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-56-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-56-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-56-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-56-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="3john1-57-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-57-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-58-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-58-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-34-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-34-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-59-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-59-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-60-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-60-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-61-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-61-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-62-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-62-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-63-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-63-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-64-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-64-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-65-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-65-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-66-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-66-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-67-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-67-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-68-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-68-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-69-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-69-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="noupdates" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\repealed1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\repealed11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1john1-3-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1john1-3-original2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="3john1-100-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-100-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-101-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-101-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-102-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-102-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-103-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-103-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-104-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-104-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-105-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-105-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-16-amend2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-16-amend2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-16-amend3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-16-amend3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-48-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-48-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-70-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-70-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-71-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-71-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-72-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-72-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-73-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-73-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-74-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-74-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-75-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-75-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-76-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-76-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-77-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-77.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-78-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-78-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-79-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-79-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-80-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-80-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-81-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-81-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-82-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-82-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-83-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-83-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-84-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-84-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-85-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-85-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-86-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-86-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-87-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-87-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-88-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-88-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-90-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-90-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-91-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-91-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-92-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-92-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-93-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-93-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-94-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-94-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-95-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-95-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-96-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-96-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-97-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-97-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-98-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-98.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-99-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-99-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-1-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-1-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="4john1-13-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-13-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-16-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-16-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-18-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-18-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-19-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-19-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-2-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-2-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-23-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-23-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-3-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-3-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-4-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-4-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-5-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-6-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-6-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-7-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-7-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-8-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-8-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-9-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-9-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="2john1-2-amend4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2john1-2-amend31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="3john1-41-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3john1-41-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-1-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-1-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-24-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-24-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-26-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-26-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-27-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-27-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-29-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-29-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-30-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-30-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-31-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-31-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-41-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-41-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-42-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-42-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-43-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-43-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-45-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-45-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-50-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-50-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-52-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-52-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-1-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-1-amend1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-1-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-1-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-10-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-10-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-11-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-11-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-12-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-12-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-13-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-13-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-14-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-14-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-15-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-15-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-16-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-16-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-17-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-17-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-18-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-18-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-19-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-19-amend1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-19-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-19-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-2-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-2-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-2-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-2-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="5john1-20-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-20-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-21-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-21-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-22-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-22-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-23-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-23-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-24-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-24-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-25-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-25-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-26-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-26-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-27-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-27-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-28-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-28-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-29-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-29-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-30-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-30-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-31-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-31-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-32-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-32-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-32-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-32-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="5john1-33-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-33-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-34-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-34-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-35-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-35-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-36-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-36-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-37-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-37-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-4-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-4-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-5-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-5-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-6-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-6-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-7-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-7-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-8-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-8-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-9-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-9-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-1-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-1-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-10-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-10-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-11-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-11-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-12-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-12-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-13-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-13-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-13-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-13-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="6john1-14-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-14-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="6john1-15-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-15-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-16-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-16-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-17-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-17-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-18-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-18-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-18-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-18-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="6john1-19-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-19-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-2-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-2-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-20-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-20-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-21-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-21-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-22-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-22-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-23-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-23-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-24-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-24-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-25-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-25-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-26-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-26-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-27-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-27-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-28-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-28-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-29-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-29-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-3-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-3-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-3-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-3-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="6john1-30-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-30-original1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-30-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-30-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="6john1-31-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-31-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-32-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-32-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-4-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-4-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-5-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-5-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-6-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-6-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-7-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-7-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-8-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-8-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-9-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-9-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-33-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-33-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-34-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-34-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-35-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-35-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-36-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-36-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="armedforcesbill1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armedforcesbill1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="armedforcesbill2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armedforcesbill2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="monarchybill1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\monarchybill1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="monarchybill2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\monarchybill2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="monarchybill3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\monarchybill3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
 </root>

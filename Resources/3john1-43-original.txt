@@ -1,0 +1,24 @@
+CHAPTER 43 - AN ACT RESPECTING THE BOERC; THE METHOD OF STANDARDIZATION; THE METHOD TO SWITCH STANDARD
+
+Be it enacted by His Most Gracious Majesty as follows:-
+1.   This Act shall be cited as the Boerc Measures Act, 2020.
+2.   2 John 1 c. 21 (Boerc Measures Act, 2019) shall be repealed.
+
+INTRODUCTION
+
+As mentioned in the former repealed Act,
+3.   Whereas His Majesty wishes not for the failure of the Boerc to affect the economy a great deal, this Act will lay out the measures to take.
+4.   In the United Kingdom, the pound sterling reduced in price when gold was taking the place of silver. This made the silver coins token coins, and as such, the face value was not the same as the value of the metal.
+
+STANDARDS
+
+5.   The silver standard is the current standard of the Boerc.
+6.   The Boerc is fixed to the price of one gram of silver.
+7.   The Boerc at its current form, with His Majesty’s approval at anytime from advice from the Secretary of State for Revenue, with the aide from this Act, can switch the standards as defined below.
+ a)   The Boerc can be set as three one-thousandths of a troy ounce of gold, to be known as the gold-standard.
+ b)   The Boerc can be set as one one-thousandth of a troy ounce of platinum, to be known as the platinum-standard.
+ c)   The Boerc can be set as three one-thousandths of a troy ounce of palladium, to be known as the palladium-standard.
+8.   Before changing to these measures, the Revenue Office should consider the inverse-silver standard, whereas:
+ a)   The Boerc can be set as 1 gram of silver, to the power of -1, i.e.:
+       Let x = the price of the Boerc, y = the spot price of silver
+       x = y-1.

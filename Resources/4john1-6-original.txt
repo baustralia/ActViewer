@@ -1,0 +1,7 @@
+CHAPTER 6 - AN ACT TO CRIMINALIZE THE ACT OF THEFT
+
+Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+1.   This Act shall be known as the Criminalization of Theft Act, c. 6.
+2.   Any man who steals, or otherwise takes property belonging to another individual without their consent, is guilty of theft.
+3.   Theft under the value of 1,000 boercs is punishable with a fine not exceeding double the value of the items stolen.
+4.   Theft over the value of 1,000 boercs is punishable with a fine not exceeding 500 boercs more than double the value of the items stolen.

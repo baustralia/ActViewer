@@ -1,0 +1,21 @@
+CHAPTER 97 - AN ACT REGARDING VOTING, TO REPLACE FIRST PAST THE POST WITH ALTERNATIVE VOTING, AND FOR PURPOSES CONNECTED THEREWITH
+
+WHEREAS, by the current system of Baustralia, all elections use First Past the Post, and for better representation of the population, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+
+PREFACE
+
+1.   This Act shall be known as the Voting (Amendment) Act, 2020.
+2.   This Act shall come into effect on 21 June 2020 at 0000 hours.
+
+VOTING
+
+3.   A voter will be issued with a ballot and will mark the ballot with-
+ a)   a ‘1’ opposite their preferred candidate,
+ b)   a ‘2’ opposite their second-preferred candidate,
+ c)   and so on.
+ d)   The voter must mark all candidates, lest the ballot will be spoiled.
+
+COUNTING
+
+4.   All candidates are sorted by first-preference. If a candidate has more than 50% (“absolute majority”) of the votes, that candidate is elected. If not,
+5.   The candidate with the least votes is eliminated, and the second-preferred candidate’s votes are distributed, and so on until an absolute majority is reached.

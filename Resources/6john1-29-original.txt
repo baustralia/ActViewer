@@ -1,0 +1,6 @@
+CHAPTER 29 - AN ACT TO MODIFY ANY PEERAGE TITLES OF THE RANK OF VISCOUNT OR BARON BY REMOVING THE “OF” BETWEEN RANK AND TITLE, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+1.   This Act shall be known as the Peerage Act, 2023, Bill T6131.
+2.   Viscounts of the Peerage of Baustralia who carry a title in the format of Viscount of X will be changed to Viscount X.
+3.   Barons of the Peerage of Baustralia who carry a title in the format of Baron of Y will be changed to Baron Y.

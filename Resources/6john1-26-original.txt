@@ -1,0 +1,23 @@
+CHAPTER 26 - AN ACT TO DELETE ALL HIGHWAYS FROM THE BAUSTRALIAN HIGHWAY SYSTEM THAT ARE LOCATED WITHIN A COLONY OR EXTERNAL TERRITORY FROM THE CROWN, TO ASSIGN MAINTENANCE OF COLONIAL ROUTES TO THE MAINTENANCE OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+1.   This Act shall be known as the Colonial Routes Act, 2023, C6161.
+2.   All Baustralian Highways located outside of the Kingdom of Baustralia, except the 1000-series highways, shall be deleted from the Baustralian Highway System.
+3.   Affected routes, available in a list in the schedule of this Act, will be downgraded to Colonial Routes, except where a Colonial Route already runs concurrently.
+4.   Baustralian Highways will remain maintained by the Routes Office, while the Colonial Routes shall be maintained by the Maintenance Office.
+
+SCHEDULE
+
+Highway 19  Ostreum          Colonial Road 46 | Highway 43  Whiskey Islands  Colonial Road 11
+Highway 20     “             Colonial Road 45 | Highway 45     “       “     Colonial Road 12
+Highway 21  Wangatangia      Colonial Road 1  | Highway 46     “       “     Colonial Road 13
+Highway 22       “           Colonial Road 2  | Highway 48     “       “     Colonial Road 14
+Highway 23       “           Colonial Road 3  | Highway 50     “       “     Colonial Road 100
+Highway 24       “           Colonial Road 4  | Highway 56  Ostreum          Colonial Road 23
+Highway 25       “           Colonial Road 5  | Highway 73     “             Colonial Road 52
+Highway 30  Ostreum          Colonial Road 22 | Highway 74     “             Colonial Road 12
+Highway 32     “             Colonial Road 32 | Highway 75     “             Colonial Road 24
+Highway 33     “             Colonial Road 67 | Highway 76     “             Colonial Road 33
+Highway 38  Whiskey Islands  Colonial Road 1  | Highway 77     “             Colonial Road 6
+Highway 41     “       “     Colonial Road 2  | Highway 79     “             Colonial Road 11
+Highway 42     “       “     Colonial Road 3  | Highway 80     “             Colonial Road 16

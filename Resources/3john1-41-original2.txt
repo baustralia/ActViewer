@@ -1,0 +1,16 @@
+CHAPTER 41 - AN ACT RESPECTING THE CITATIONS OF BAUSTRALIAN COURT CASES, AND PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Excellent and Gracious Majesty the following:-
+1.   This Act shall be known as the Citation (Legal) Act, 2020.
+2.   Former cases will be affected by this Act, but the old citation will remain in usage, suffixed with (O.S.), and the new citation (N.S.), verbally read as Old Style and New Style, respectively.
+3.   Citations will be as follows, according to this table:
+
+Style of cause     Year of decision     Vol.     Page     Court
+Rex v. Timpson,    1 John 1,            vol. 1,  p. 2,    HMS
+
+4.   For the style of cause, R. stands for Regina. Rex is used for male monarchs. The monarch will always come first in styles of cause.
+5.   Courts all have unique identifiers, for example:
+ a)   HMS   One of His Majesty’s Ships
+ b)   BCM   Court Martial Court of Baustralia
+ c)   SCB   Supreme Court of Baustralia
+6.   See 3 John 1 c. 30, section 2 “Regnal Calendar” for calculating the year of decision.

@@ -109,6 +109,21 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized string similar to CHAPTER 3 - THE ACT TO ALLOW HIS MOST GRACIOUS MAJESTY TO AMEND THE SUCCESSION LAW TO BAR SIBLINGS AND ANCESTORS
         ///
+        ///1.   This act was previously cited as the 
+        /// a)   Modification Act to the Succession Law of Baustralia, HM-PPU-001.
+        /// b)   Modification Act to the Succession Law of Baustralia, 2017.
+        ///2.   The short title for this act is Succession Law (Modifications) Act, 2017.
+        ///3.   The Parliament resolves that due to crimes laid on the Princess of Wabasso, she will not ascend to the throne if it should fall [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _1john1_3_amend1 {
+            get {
+                return ResourceManager.GetString("1john1-3-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 3 - THE ACT TO ALLOW HIS MOST GRACIOUS MAJESTY TO AMEND THE SUCCESSION LAW TO BAR SIBLINGS AND ANCESTORS
+        ///
         ///1.   This act was cited as the Modification Act to the Succession Law of Baustralia, HM-PPU-001.
         ///2.   The short title for this act is Modification Act to the Succession Law of Baustralia, 2017.
         ///3.   The Parliament resolves that due to crimes laid on the Princess of Wabasso, she will not ascend to the throne if it should fall upon her.
@@ -392,6 +407,38 @@ namespace ActViewer.Properties {
         internal static string _2john1_2_amend2 {
             get {
                 return ResourceManager.GetString("2john1-2-amend2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO REPLACE THE CONSTITUTION OF BAUSTRALIA
+        ///
+        ///PREFACE
+        ///
+        ///Whereas His Most Excellent Majesty does not like the current constitution, we, the parliament shall please him by, with the aid of a previous act, repeal the previous constitution and update it with this act.
+        ///After the previous act came into effect, it invalidated the previous constitution and this one shall replace it.
+        ///This Act shall be known as Constitution Act, 2018.
+        ///Provisions of this Act referring to His Majesty the King exte [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _2john1_2_amend3 {
+            get {
+                return ResourceManager.GetString("2john1-2-amend3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO REPLACE THE CONSTITUTION OF BAUSTRALIA
+        ///
+        ///PREFACE
+        ///
+        ///Whereas His Most Excellent Majesty does not like the current constitution, we, the parliament shall please him by, with the aid of a previous act, repeal the previous constitution and update it with this act.
+        ///After the previous act came into effect, it invalidated the previous constitution and this one shall replace it.
+        ///This Act shall be known as Constitution Act, 2018.
+        ///Provisions of this Act referring to His Majesty the King exte [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _2john1_2_amend4 {
+            get {
+                return ResourceManager.GetString("2john1-2-amend4", resourceCulture);
             }
         }
         
@@ -793,6 +840,92 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 100 - AN ACT REGARDING TIES IN ELECTIONS, TO DETERMINE THE WINNING CANDIDATE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty the following:-
+        ///1.   Should, during the counting of votes, a tie result from an election, the counting officer will flip a One Boerc coin to determine who should win.
+        ///2.   This Act shall be known as the Elections (Determination) Act, 2020..
+        /// </summary>
+        internal static string _3john1_100_original {
+            get {
+                return ResourceManager.GetString("3john1-100-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 101 - AN ACT REGARDING THE REPEAL OF THE NINETY-FIRST CHAPTER OF THE SESSION OF PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN THE FIRST, TO APPLY RESTRICTIONS TO JACK RYAN MORRIS, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty as follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall be known as the Persona Grata (Morris) Act, 2020.
+        ///2.   Persona Non-Grata (Morris) Act, 3 John 1 c. 91, shall be repealed.
+        ///3.   Jack Morris may be allowed citizens [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_101_original {
+            get {
+                return ResourceManager.GetString("3john1-101-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 102 - AN ACT REGARDING THE CONSTITUENCIES OF SAYVILLE, TO GIVE UP BAUSTRALIAN SOVEREIGNITY THEREIN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Whereas, by request of the members of the Constituency and Province of Sayville, be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Constituencies (No. 3) Act, 2020.
+        ///2.   The Province of Sayville will be dissolved.
+        ///3.   The single person making up the population of Sayville will be moved to the Consti [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_102_original {
+            get {
+                return ResourceManager.GetString("3john1-102-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 103 - AN ACT TO STRIP COLONEL SIR AIDAN JOHN MCGRATH, GRAND CROSS KNIGHT OF THE ORDER OF SAINT PATRICK OF ALL MEDALS, UNIFORMS, TITLES, SALARIES, ETC., TO GRANT THE SAID COLONEL “PERSONA NON GRATA” STATUS, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Persona Non-Grata (McGrath, No. 2) Act, 2020.
+        ///2.   The Persona Non Grata Act’s short title shall be amended to read ‘Persona Non-Grata (McGrath, No. 1) [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_103_original {
+            get {
+                return ResourceManager.GetString("3john1-103-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 104 - AN ACT REGARDING THE DEPARTURE OF THE KINGDOM OF BAUSTRALIA FROM THE GREAT LAKES COUNCIL, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty the following:-
+        ///1.   This Act shall be known as the Great Lakes Council (Withdrawal) Act, 2020
+        ///2.   The Kingdom of Baustralia’s membership in the Great Lakes Council shall be terminated.
+        ///3.   This Act shall come into force on at the time of enaction..
+        /// </summary>
+        internal static string _3john1_104_original {
+            get {
+                return ResourceManager.GetString("3john1-104-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 105 - AN ACT TO REPEAL THE TWELFTH CHAPTER OF THE STATUTE OF THE PARLIAMENTARY SESSION THAT SAT IN THE SECOND YEAR OF THE REIGN OF KING JOHN I, REGARDING CITIZENSHIP IN BAUSTRALIA, THE RIGHTS REVOKED BY CONVICTS OF LAW, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+        ///1.   This Act may be cite [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_105_original {
+            get {
+                return ResourceManager.GetString("3john1-105-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 11 - AN ACT RESPECTING THE “WRYTHE CONVENTION ON THE PREVENTION AND DENOUNCING OF FALSEHOODS WITHIN THE COMMUNITY OF SMALL STATES AND NATIONS” AND TO SIGN AS A KINGDOM THE DOCUMENT FORESTATED
         ///
         ///Be it enacted by His Most Gracious and Excellent Majesty and by the consent of the Commons as follows:-
@@ -874,6 +1007,45 @@ namespace ActViewer.Properties {
         internal static string _3john1_16_amend1 {
             get {
                 return ResourceManager.GetString("3john1-16-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING PROSTITUTION
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Prostitution Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///2.   This Act shall extend to the whole Empire, less Ostreum.
+        ///3.   Prostitution shall be defined as any sexual act performed for monetary gain.
+        ///4.   Prostitution shall be considered illegal.
+        ///5.   The fine shall be twenty-five (25) boercs..
+        /// </summary>
+        internal static string _3john1_16_amend2 {
+            get {
+                return ResourceManager.GetString("3john1-16-amend2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING PROSTITUTION
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Prostitution Act, 2019.
+        ///
+        ///TERMS
+        ///
+        ///2.   Prostitution shall be defined as any sexual act performed for monetary gain.
+        ///3.   Prostitution shall be considered illegal.
+        ///4.   The fine shall be twenty-five (25) boercs..
+        /// </summary>
+        internal static string _3john1_16_amend3 {
+            get {
+                return ResourceManager.GetString("3john1-16-amend3", resourceCulture);
             }
         }
         
@@ -1226,6 +1398,26 @@ namespace ActViewer.Properties {
         ///
         ///TERMS
         ///
+        ///1.   This Act shall be known as the Colony (No. 1) Act, 2019.
+        ///2.   Colonies shall be designated as territories unable to form a government due to population issues.
+        ///3.   Dominions shall be self-governing, and do so independent of the Parliament of Baustralia.
+        ///4.   As such, all dominions of Baustralia, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_34_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-34-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 34 - AN ACT RESTRUCTURING ALL DOMINIONS OF BAUSTRALIA INTO COLONIES AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted by His Most Gracious and excellent Majesty, the follows:-
+        ///
+        ///TERMS
+        ///
         ///1.   This Act shall be known as the Colony Act, 2019.
         ///2.   Colonies shall be designated as territories unable to form a government due to population issues.
         ///3.   Dominions shall be self-governing, and do so independent of the Parliament of Baustralia.
@@ -1251,6 +1443,73 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 36 - AN ACT REGARDING THE WORDMARKS USED BY THE OFFICES OF HIS MAJESTY’S ROYAL GOVERNMENT; REGARDING ELECTRONIC MEASUREMENTS OF THE WORDMARK; AND OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and with the consent of Commons as follows:-
+        ///
+        ///1.   This Bill shall be known as the Communications (Office Wordmarks) Act, 2020.
+        ///2.   Whereas His Majesty laid out that the current wordmarks by Order of Council as follows, it shall be amended as per paragraph 5 of this Bill. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_36_original {
+            get {
+                return ResourceManager.GetString("3john1-36-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 37 - AN ACT TO PROVIDE FOR THE ALTERATION OF THE ROYAL STYLE AND TITLES
+        ///
+        ///Be it enacted by the King&apos;s most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows :—
+        ///
+        ///Whereas the present style and titles are, in the Latin tongue, &quot;Iohannes, I Dei Gratia Baustralia, terrarum quae in ditione sunt Baustralia Rex, Ostrei Imperator&quot; and in the English tongue. &quot;John I, by the grace of God of Baustralia, the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_37_original {
+            get {
+                return ResourceManager.GetString("3john1-37-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 38 - AN ACT REGARDING AND ESTABLISHING THE COLONY OF FOX ISLANDS
+        ///
+        ///Be it enacted by His Most Gracious and Excellency the following:-
+        ///1.   Established is the Colony of Fox Islands with the land claims in pursuance to the Treaty of Concord of 2020 available in the schedule of this Act.
+        ///2.   This Act shall be known as the Fox Islands Act, 2020.
+        ///
+        ///SCHEDULE
+        ///
+        ///TREATY OF CONCORD, 2020 - A TREATY TO MUTUALLY AGREE TO THE BORDERS OF THE COLONY OF FOX ISLANDS
+        ///
+        ///1.   Whereas, the Sacrée Republic has gran [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_38_original {
+            get {
+                return ResourceManager.GetString("3john1-38-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 39 - AN ACT REGARDING THE NATIONAL SYMBOLS OF FOX ISLANDS
+        ///
+        ///Be it enacted by His most Excellent Majesty and with the consent of the Commons as follows:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act, less section 5 shall extend to Fox Islands only.
+        ///2.   Section 5 shall extend to the whole empire.
+        ///3.   This Act shall be known as the National Symbols Act (Fox Islands), 2020.
+        ///
+        ///TERMS
+        ///
+        ///4.   The flag of Whiskey Islands shall be a Baustralian red ensign, that is a red flag with the Baustralian flag in the canton, wit [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_39_original {
+            get {
+                return ResourceManager.GetString("3john1-39-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 4 - AN ACT REGARDING THE NATIONAL SYMBOLS OF THE BAUSTRALIAN ANTARCTIC TERRITORY
         ///
         ///PREFACE
@@ -1266,6 +1525,184 @@ namespace ActViewer.Properties {
         internal static string _3john1_4_original {
             get {
                 return ResourceManager.GetString("3john1-4-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 40 - AN ACT RESPECTING THE CONSTITUTIONAL OATHS, TO AMEND THE ROYAL STYLE USED THEREIN, AND TO ADD PROVISION REGARDING THE METHOD OF ADMINISTRATION THEREOF, AND PURPOSED CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His most Excellent as follows:-
+        ///1.   This Act modifies the Constitution Act, that is the Second Chapter of the Statute of the Parliamentary Session that sat in the Second Year of the Reign of King John I.
+        ///2.   This Act shall be known as the Oaths Act, 2020.
+        ///3.   The ‘Oaths’ section shall be [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_40_original {
+            get {
+                return ResourceManager.GetString("3john1-40-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 41 - AN ACT RESPECTING THE CITATIONS OF BAUSTRALIAN COURT CASES, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent and Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Citation (Legal) Act, 2020.
+        ///2.   Former cases will be affected by this Act, but the old citation will remain in usage, suffixed with (O.S.), and the new citation (N.S.), verbally read as Old Style and New Style, respectively.
+        ///3.   Citations will be as follows, according to this table:
+        ///
+        ///St [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_41_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-41-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 41 - AN ACT RESPECTING THE CITATIONS OF BAUSTRALIAN COURT CASES, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent and Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Citation (Legal) Act, 2020.
+        ///2.   Former cases will be affected by this Act, but the old citation will remain in usage, suffixed with (O.S.), and the new citation (N.S.), verbally read as Old Style and New Style, respectively.
+        ///3.   Citations will be as follows, according to this table:
+        ///
+        ///St [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_41_original {
+            get {
+                return ResourceManager.GetString("3john1-41-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 42 - AN ACT TO DEFINE THE RIGHTS OF A BAUSTRALIAN CITIZEN, THAT OF A COLONIAL CITIZEN, THAT OF AN OSTREI CITIZEN, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by his Most Gracious and Excellent Majesty and with the Consent of the Commons, the following:-
+        ///1.   This Act shall be cited as the Human Rights Act, 2020.
+        ///2.   Same-sex marriage is legal in all provinces, colonies, and in the Empire of Ostreum.
+        ///3.   Abortion is legal in all provinces.
+        ///4.   Everyone may have freedom:
+        /// a)   of conscie [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_42_original {
+            get {
+                return ResourceManager.GetString("3john1-42-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 43 - AN ACT RESPECTING THE BOERC; THE METHOD OF STANDARDIZATION; THE METHOD TO SWITCH STANDARD
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be cited as the Boerc Measures Act, 2020.
+        ///2.   2 John 1 c. 21 (Boerc Measures Act, 2019) shall be repealed.
+        ///
+        ///INTRODUCTION
+        ///
+        ///As mentioned in the former repealed Act,
+        ///3.   Whereas His Majesty wishes not for the failure of the Boerc to affect the economy a great deal, this Act will lay out the measures to take.
+        ///4.   In the U [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_43_original {
+            get {
+                return ResourceManager.GetString("3john1-43-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 44 - AN ACT RESPECTING SHORT TITLES OF TWO ACTS PASSED IN THE 2ND YEAR OF HIS MAJESTY’S REIGN RESPECTING MODIFICATIONS TO THE SUCCESSION LAW
+        ///
+        ///Be it enacted by the King’s most Excellent Majesty, in this present Parliament assembled, and by the authority of the same, as follows:— 
+        ///1.   This Act may be cited as the Short Titles (No. 2) Act, 2020.
+        ///2.   2 John 1 c. 15, paragraph 1, shall be amended to read: “This Act shall be known as the Air Force (No. 2) Act 2019.”
+        ///3.   All Acts which have the sam [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_44_original {
+            get {
+                return ResourceManager.GetString("3john1-44-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 45 - AN ACT RESPECTING THE “TREATY OF BELCITY” AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Treaty of Belcity Act, 2020.
+        ///2.   This Act does not sign or force His Most Gracious and Excellent Majesty to sign the document, but to serve as a formal recognition of the document itself.
+        ///3.   It was stated that His Majesty wishes to sign this treaty only under the will of t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_45_original {
+            get {
+                return ResourceManager.GetString("3john1-45-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 46 - AN ACT REGARDING PUBLIC HEALTH, TO DEFINE ‘QUARANTINE’, AND PROVISIONS FOR THE COVID-19 NOVEL CORONAVIRUS OUTBREAK
+        ///
+        ///In case it should please Almighty God to permit the Empire to be afflicted with the COVID-19 novel coronavirus; be it enacted by His Most Gracious Majesty and with consent of the Commons, for remedy thereof the following:-
+        ///1.   This Act shall be known as the ‘Public Health Emergency Measures (Quarantine) Act, 2020’.
+        ///2.   This Act, if passed, shall be considered ‘spent’ when th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_46_original {
+            get {
+                return ResourceManager.GetString("3john1-46-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 47 - AN ACT TO PROVIDE PROTECTION FOR THE ENVIRONMENT BY IMPOSING FINES FOR LITTERING
+        ///
+        ///Whereas the Parliament wishes to combat the effects of climate change, be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+        ///1.   This Act shall be known as the Environment Protection (Littering) Act, 2020.
+        ///2.   Littering shall be defined as any non-compostable waste improperly  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_47_original {
+            get {
+                return ResourceManager.GetString("3john1-47-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 48 - AN ACT TO STRIP MAJOR GENERAL SIR AIDAN JOHN MCGRATH, KNIGHT COMPANION OF THE MOST NOBLE ORDER OF THE GADUS, GRAND CROSS KNIGHT OF THE ORDER OF SAINT PATRICK OF ALL MEDALS, UNIFORMS, TITLES, SALARIES, ETC., TO GRANT THE SAID MAJOR GENERAL “PERSONA NON GRATA” STATUS, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and by the Consent of the Commons the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Persona Non Grata (McGrath, No. 1) Act, 2020.
+        ///2.    [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_48_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-48-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 48 - AN ACT TO STRIP MAJOR GENERAL SIR AIDAN JOHN MCGRATH, KNIGHT COMPANION OF THE MOST NOBLE ORDER OF THE GADUS, GRAND CROSS KNIGHT OF THE ORDER OF SAINT PATRICK OF ALL MEDALS, UNIFORMS, TITLES, SALARIES, ETC., TO GRANT THE SAID MAJOR GENERAL PERSONA NON GRATA STATUS, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and by the Consent of the Commons the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Persona Non Grata (McGrath) Act, 2020.
+        ///2.   In the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_48_original {
+            get {
+                return ResourceManager.GetString("3john1-48-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 49 - AN ACT TO APPLY INTEREST TO PAYMENTS DUE TO THE MONARCHY, TREASURY, BAUSTRALIAN ARMED FORCES, HIS ROYAL NAVY, THE BAUSTRALIAN ARMY, HIS ROYAL AIR FORCE, HIS ROYAL GOVERNMENT, PARLIAMENT OF BAUSTRALIA, A GOVERNMENTAL OFFICE, A PROVINCE, A COLONY, OR OTHER SUCH INSTITUTIONS PARENTED BY THE GOVERNMENT
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and whereas the Parliament has made multiple Acts regarding fines for punishment, and whereas the Baustralian Armed Forces, and their bran [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_49_original {
+            get {
+                return ResourceManager.GetString("3john1-49-original", resourceCulture);
             }
         }
         
@@ -1291,6 +1728,164 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 50 - AN ACT TO ENFORCE ACTIVITY IN THE COMMONS, TO REMOVE MEMBERS INACTIVE FROM THE COMMONS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Whereas the Government of Baustralia has noticed that certain members have become inactive, and unresponsive to the contact attempts by His Most Gracious and Excellent Majesty, be it enacted by His Majesty, and with the consent of the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Parliament (Activity) Act, 2020.
+        ///2.   All members are r [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_50_original {
+            get {
+                return ResourceManager.GetString("3john1-50-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 51 - AN ACT TO DISALLOW DISHONOURABLY DISHCHARGED MEMBERS BACK INTO THE BAUSTRALIAN ARMED FORCES
+        ///
+        ///Be it enacted by His Majesty, and with the consent of the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Military Service Act, 2020.
+        ///2.   All members in the past dishonourably discharged shall not be allowed to rejoin the Baustralian Armed Forces.
+        ///3.   Members who fall out of this scope of activity will be removed from Parliament and their seats re-opened for by-elec [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_51_original {
+            get {
+                return ResourceManager.GetString("3john1-51-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 52 - AN ACT TO DESIGNATE THE ROAD NUMBERING SYSTEMS TO THE PROVINCES OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the consent of the current Commons assembled:-
+        ///1.   This Act shall be known as the Routes (Designation) Act, 2020.
+        ///2.   The following numbers will be designated to each of the provinces:
+        ///      0 – 9:      Sayville
+        ///      10 – 19:    Flavora and Atlas
+        ///      20 – 29:    Mild Pond
+        ///      30 – 39:    Landspotter
+        ///      40 – 49:    Holderton, Wooler a [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_52_original {
+            get {
+                return ResourceManager.GetString("3john1-52-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 53 - AN ACT TO PROVIDE FOR THE BINDING OF LAW UPON HIS MOST GRACIOUS AND EXCELLENT MAJESTY, HIS HEIRS AND SUCCESSORS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Whereas, by the current legal system of Baustralia, His Most Gracious and Excellent Majesty the King is immune from law, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, providing for binding of law upon His Majesty, the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Mona [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_53_original {
+            get {
+                return ResourceManager.GetString("3john1-53-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 54 - AN ACT REGARDING THE FREE SOCIALIST STATE OF PALOMA, AND OTHER MCGRATHIC STATES, AND THE CITIZENS OF THOSE COUNTRIES ALSO CITIZENS OF BAUSTRALIA
+        ///
+        ///Whereas, the President of the Free Socialist State of Paloma has been attacking Members of Baustralian Parliament also part of Paloman legislature, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///1.   This Act shall be known as the Paloma (Citizenship) Act, 2020.
+        ///2.   All  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_54_original {
+            get {
+                return ResourceManager.GetString("3john1-54-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 55 - AN ACT REGARDING ANIMALS AND PETS AS REPEALED FROM 1 JOHN 1 CHAPTER 1
+        ///
+        ///Whereas, the Repeal Act, 2 John 1 c. 1 has repealed all laws regarding animals as pets, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///1.   This Act shall be known as the Animal Act, 2020.
+        ///2.   Only dogs, cats, gerbils, rabbits, pigs, cows, birds, lizards, snakes, sheep, goats, llamas, parrots, donkeys, fish, porcupines, horses, camels, kangaroo [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_55_original {
+            get {
+                return ResourceManager.GetString("3john1-55-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 56 - AN ACT REGARDING THE CONSTITUENCIES OF SMITHFIELD-WEST AND THE VACANT SMITHFIELD-EAST
+        ///
+        ///Whereas, the seat for Smithfield-East has become vacant, and no by-election is planned, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///1.   This Act shall be known as the Constituencies (No. 1) Act, 2020.
+        ///2.   The seats of Smithfield-East and Smithfield-West will merge into Smithfield.
+        ///3.   The Member of Parliament for Smithfiel [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_56_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-56-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 56 - AN ACT REGARDING THE CONSTITUENCIES OF SMITHFIELD-WEST AND THE VACANT SMITHFIELD-EAST
+        ///
+        ///Whereas, the seat for Smithfield-East has become vacant, and no by-election is planned, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///1.   This Act shall be known as the Constituencies Act, 2020.
+        ///2.   The seats of Smithfield-East and Smithfield-West will merge into Smithfield.
+        ///3.   The Member of Parliament for Smithfield-West w [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_56_original {
+            get {
+                return ResourceManager.GetString("3john1-56-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 57 - AN ACT TO REPEAL THE ACT PASSED REGARDING SOVEREIGN IMMUNITY
+        ///
+        ///Whereas, because of the rebellious nature of a member of Parliament, be it enacted by His Majesty the following:-
+        ///   The Monarchy (Immunity) Act will be repealed.
+        ///   This Act shall be known as the Monarchy (Emergency Measures) Act, 2020..
+        /// </summary>
+        internal static string _3john1_57_original {
+            get {
+                return ResourceManager.GetString("3john1-57-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 58 - AN ACT TO BRING INTO FORCE THE TREATY OF FLORINA
+        ///
+        ///WHEREAS, His Most Gracious and Excellent Majesty has found himself in the position to share in three parts the Crown of the Empire of Ovrestlia, be it enacted the following:-
+        ///1.   This Act shall be known as the Treaty of Florina Act, 2020.
+        ///
+        ///SCHEDULE
+        ///
+        ///TREATY OF FLORINA FOR MUTUAL RECOGNITION BETWEEN BAUSTRALIA AND OVRESTLIA
+        ///
+        ///This treaty serves to provide mutual recognition between the Empire of Baustralia and the Empire of Ovrestlia (“th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_58_original {
+            get {
+                return ResourceManager.GetString("3john1-58-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 59 - AN ACT REGARDING THE CONSTITUENCIES OF LONDON-NORTH AND LONDON-SOUTH, OF NEW TEXAS-NORTH AND NEW TEXAS-SOUTH, OF HOLDERTON-EAST AND HOLDERTON-WEST, AND FLAVORA
+        ///
+        ///WHEREAS, multiple seats in the House of Commons have become vacant, and no by-election is planned, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///1.   This Act shall be known as the Constituencies (No. 2) Act, 2020.
+        ///2.   The seats of London-South and London [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_59_original {
+            get {
+                return ResourceManager.GetString("3john1-59-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 6 - AN ACT REGARDING THE NATIONAL SYMBOLS OF OSTREUM
         ///
         ///PREFACE
@@ -1308,6 +1903,164 @@ namespace ActViewer.Properties {
         internal static string _3john1_6_original {
             get {
                 return ResourceManager.GetString("3john1-6-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 60 - AN ACT TO BRING INTO FORCE THE TREATY OF SAN SOUCI
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Treaty of San Souci Act, 2020.
+        ///2.   This Act does not sign or force His Most Gracious and Excellent Majesty to sign the document but to serve as a formal recognition of the document itself.
+        ///3.   It was stated that His Majesty wishes to sign this treaty only under the will of the People, and thereby  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_60_original {
+            get {
+                return ResourceManager.GetString("3john1-60-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 61 - AN ACT REGARDING THE SPEAKER OF THE HOUSE OF COMMONS AND THE RESTRICTIONS THEREOF
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Speaker of the House of Commons Act, 2020.
+        ///2.   The Speaker of the House of Commons (“Speaker”) will only vote for the purpose of breaking ties.
+        ///3.   The Speaker will remain a member of his party, but will not represent his party in the House of Commons.
+        ///4.   The Spea [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_61_original {
+            get {
+                return ResourceManager.GetString("3john1-61-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 62 - AN ACT TO DISSOLVE THE OFFICES AND POSITIONS OF ALL THE COLONIES AND REPLACE THEM WITH ONE OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Bill shall be known as the Colony (No. 2) Bill
+        ///2.   The Colony Act, 3 John 1 c. 34, para. 1 will be amended to read: “This Act shall be known as the Colony (No. 1) Act.”
+        ///3.   These positions will be dissolved:
+        /// a)   Secretary of State for t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_62_original {
+            get {
+                return ResourceManager.GetString("3john1-62-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 63 - AN ACT TO BRING INTO FORCE THE TREATY OF NUEVO HOLDERTONA
+        ///
+        ///WHEREAS, the Presidency of the Free Socialist State of Paloma wishes to recognize the Kingdom and Empire of Baustralia, be it enacted the following:-
+        ///This Act shall be known as the Treaty of Nuevo Holdertona Act, 2020.
+        ///
+        ///SCHEDULE
+        ///
+        ///TREATY OF NUEVO HOLDERTONA FOR MUTUAL RECOGNITION BETWEEN BAUSTRALIA AND PALOMA
+        ///
+        ///1.   This treaty serves to provide mutual recognition between the Empire of Baustralia and the Free Socialist State of P [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_63_original {
+            get {
+                return ResourceManager.GetString("3john1-63-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 64 - AN ACT REGARDING THE PALOMAN CASCADIA-PALOMA CITY DIRECT COMMUNICATIONS LINK HOTLINE; FOR OFFICIAL USE; FOR RECORDING PURPOSES, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///WHEREAS, the Free Socialist State of Paloma wishes to create a hotline between the capitals of Baustralia and Paloma, be it enacted by His Most Gracious and Excellent Majesty the following:-
+        ///1.   This Act shall be known as the Cascadia-Paloma City Direct Communications Link Act, 2020.
+        ///2.   All communications through the Cascadia-Pa [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_64_original {
+            get {
+                return ResourceManager.GetString("3john1-64-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 65 - AN ACT REGARDING THE NEED FOR A PASSPORT FOR DIPLOMATS INSIDE AND OUTSIDE OF COUNTRY AFFAIRS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///1.   This Act shall be known as the Diplomacy Act, 2020.
+        ///
+        ///DEFINITIONS
+        ///
+        ///2.   “Diplomat” shall be defined as a person who represents a Country or Kingdom.
+        ///3.   “Passport” shall be defined as a primary source of identification for any person living in th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_65_original {
+            get {
+                return ResourceManager.GetString("3john1-65-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 66
+        ///AN ACT REGARDING THE CITIZENS OF OSTREUM AND FITHIUANIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///1.   To allow for governance in the Territory of Fithiuania, all residents that reside only in Fithiuania, and not in any other territory of Paloma are exempt from the Paloma (Citizenship) Act.
+        ///2.   This Bill shall be known as the Fithiuania (Citizenship) Act, 2020..
+        /// </summary>
+        internal static string _3john1_66_original {
+            get {
+                return ResourceManager.GetString("3john1-66-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 67 - AN ACT REGARDING NEUTRALITY IN FOREIGN CONFLICTS THAT DO NOT DIRECTLY HINDER THE PRODUCTION OF THE EMPIRE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///DEFINITIONS
+        ///
+        ///1.   This Act shall be known as the Neutrality Act, 2020.
+        ///2.   “Neutrality” is the act of not supporting or helping either side in a conflict.
+        ///3.   “Foreign conflict” refers to conflicts between nations outside of the countr [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_67_original {
+            get {
+                return ResourceManager.GetString("3john1-67-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 68 - AN ACT REGARDING COMPENSATION FOR UNEMPLOYED CITIZENS OF THE EMPIRE OF BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///DEFINITIONS
+        ///
+        ///1.   This Act shall be known as the Compensation Act, 2020.
+        ///2.   “Unemployed Citizens Check” or “UCC” for short shall be defined as a check received from the government of the Empire for unemployed citizens who apply.
+        ///3.   “Household” shall be defi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_68_original {
+            get {
+                return ResourceManager.GetString("3john1-68-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 69 - AN ACT REGARDING THE LEGITIMIZATION OF THE PRACTICE OF MARRIAGE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///DEFINITIONS
+        ///
+        ///1.   This Act shall be known as the Marriage Act, 2020.
+        ///2.   “Legitimization” is the process of legitimizing or making something legal.
+        ///3.   “Marriage” is the process by which two people make their relationship public, official, and permanent.
+        ///4.   “Practice” is th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_69_original {
+            get {
+                return ResourceManager.GetString("3john1-69-original", resourceCulture);
             }
         }
         
@@ -1332,6 +2085,143 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 70 - AN ACT REGARDING THE LEGAL AGE AT WHICH A PERSON CAN GIVE SEXUAL CONSENT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///DEFINITIONS
+        ///
+        ///1.   This Act shall be known as the Consent Act, 2020.
+        ///2.   “Consent” is the act of giving permission for something to happen or agreement to do something.
+        ///3.   “High-school age” is any person within the ages of 14 to 18.
+        ///4.   “Parole” is the release of a  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_70_original {
+            get {
+                return ResourceManager.GetString("3john1-70-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 71 - AN ACT RESPECTING THE LEAGUE OF NATIONS
+        ///
+        ///WHEREAS, the Free Socialist State of Paloma wished to give back the League of Nations, be it enacted by the consent of His Most Gracious and Excellent Majesty the following:-
+        ///
+        ///1.   This Act shall be known as the League of Nations Act, 2020.
+        ///2.   The League of Nations will be reformed under Baustralian ownership with the position of Marshal to not be handed to any other party, nation, or person..
+        /// </summary>
+        internal static string _3john1_71_original {
+            get {
+                return ResourceManager.GetString("3john1-71-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 72 - AN ACT REGARDING INFORMANTS IN THE COLONY OF WANGATANGIA, TO REPEAL THE THIRD CHAPTER OF THE PARLIAMENTARY SESSION THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN I, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Informants (Repeal) Act (Wangatangia), 2020.
+        ///2.   The Third Chapter of the Parliamentary Session that sat during the Third Year of the Rei [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_72_original {
+            get {
+                return ResourceManager.GetString("3john1-72-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 73 - AN ACT REGARDING THE FINES FOR PERSONS CONVICTED OF PROSTITUTION, TO REDUCE THE FINE TO A MANAGEABLE PAYMENT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Prostitution (Fines) Act, 2020.
+        ///2.   The Sixteenth Chapter of the Parliamentary Session that sat during the Third Year of the Reign of King John I, an Act regarding Prostitution, Prostitution Act, 2019,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_73_original {
+            get {
+                return ResourceManager.GetString("3john1-73-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 74 - AN ACT REGARDING ALIASES ACCORDED TO PERSONNEL IN THE KINGDOM’S INTERNAL SECRET SERVICE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Alias Act, 2020.
+        ///2.   Aliases are defined as a name, or identification granted to a subject of the Kingdom and Empire for the purposes of security or for his employment.
+        ///3.   The Kingdom’s Internal Secret Service will creat [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_74_original {
+            get {
+                return ResourceManager.GetString("3john1-74-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 75 - AN ACT REGARDING THE KINGDOM’S INTERNAL SECRET SERVICE, TO RENAME IT TO THE KINGDOM’S SECRET SERVICE BRIGADE, AND TO UNIFORM IT AS A TRI-SERVICE UNIT IN THE BAUSTRALIAN ARMED FORCES, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Kingdom’s Secret Service Act, 2020.
+        ///2.   The Kingdom’s Internal Secret Service will be renamed the Kingdom’s Secret Service Brigad [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_75_original {
+            get {
+                return ResourceManager.GetString("3john1-75-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 76 - AN ACT REGARDING ESPIONAGE AS A CIVIL CRIME, FOR THE PUNISHMENTS, ACCORDED THEREWITH, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   Espionage is the act of disclosing confidential information to those not intended to receive. This can result in exilation, and fines up to but not exceeding 100 Boercs.
+        ///2.   This Act shall be known as the Espionage Act, 2020..
+        /// </summary>
+        internal static string _3john1_76_original {
+            get {
+                return ResourceManager.GetString("3john1-76-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 77 - AN ACT REGARDING PUNISHMENTS FOR CRIMES THAT HAVE BEEN REPEALED, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as Repealed Crimes (Punishments) Act, 2020.
+        ///2.   At the time of the enaction of an Act legalizing a crime, a prisoner charged with that crime will remain imprisoned until the end of the session of Parliament to avoid an Act being illegalized soon after re [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_77_original {
+            get {
+                return ResourceManager.GetString("3john1-77-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 78 - AN ACT TO ALLOW HIS MAJESTY THE KING AND HIS SUCCESSORS TO NAME ANY CRIME AGAINST THE CROWN AS TREASON, SIMILAR TO THE PREROGATIVE ACCORDED TO HIS MAJESTY THE KING AND HIS SUCCESSORS REGARDING HIGH TREASON, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the High Treason Act, 2020.
+        ///2.   Whereas in the Treason Act, 2 John 1 c. 23 lays out that His Most Gracious an [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_78_original {
+            get {
+                return ResourceManager.GetString("3john1-78-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 79 - AN ACT REGARDING PROSTITUTION IN THE EMPIRE OF OSTREUM, TO REPEAL THE SEVENTEENTH CHAPTER OF THE PARLIAMENTARY SESSION THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN I, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Prostitution Act (Ostreum), 2020.
+        ///2.   The Seventeenth Chapter of the Parliamentary Session that sat during the Third Year of the Reig [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_79_original {
+            get {
+                return ResourceManager.GetString("3john1-79-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 8
         ///AN ACT RESPECTING SHORT TITLES OF TWO ACTS PASSED IN THE 2ND YEAR OF HIS MAJESTY’S REIGN RESPECTING MODIFICATIONS TO THE SUCCESSION LAW
         ///
@@ -1344,6 +2234,138 @@ namespace ActViewer.Properties {
         internal static string _3john1_8_original {
             get {
                 return ResourceManager.GetString("3john1-8-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 80 - AN ACT RESPECTING THE TITLES AND DUTIES OF MEMBERS OF GOVERNMENT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellency the King and with the consent of the current Commons assembled, the following:-
+        ///
+        ///1.   This Act shall be known as the Government (No. 1) Act, 2020.
+        ///2.   This Act lays out the procedures of government, and His Majesty has the right to exercise his prerogative to modify permanently or temporarily the duties of these offices.
+        ///
+        ///MINISTERS OF  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_80_original {
+            get {
+                return ResourceManager.GetString("3john1-80-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 81 - AN ACT TO DISSOLVE THE POSITION OF CANINE HANDLER GENERAL, AND REPLACE IT WITH THE POSITION OF PROVOST MARSHAL, TO FORM THE PROVOST BRANCH, TO DISSOLVE THE CANINE CORPS AND THE CORPS OF CANINE HANDLERS, TO REMUSTER THE MEMBERS THEREOF INTO THE PROVOST BRANCH, REGARDING THE FORMATION OF THE ADJUTANT GENERAL’S CORPS, REGARDING THE LEGAL BRANCH, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty and with the consent of the Commons as follows:-
+        ///1.   Th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_81_original {
+            get {
+                return ResourceManager.GetString("3john1-81-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 82 - AN ACT TO TRANSFER THE POSITION OF SECRETARY OF STATE FOR THE SECRET SERVICE TO THE BAUSTRALIAN ARMED FORCES AS COLONEL COMMANDANT, KINGDOM’S SECRET SERVICE BRIGADE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Secretary of State for the Secret Service Act, 2020.
+        ///2.   As the Kingdom’s Secret Service Brigade was transferred to the Baustralian Armed Forces, this Act will transfer the office to t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_82_original {
+            get {
+                return ResourceManager.GetString("3john1-82-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 83 - AN ACT TO JOIN THE GREAT LAKES COUNCIL, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Great Lakes Council Act, 2020.
+        ///2.   The Baustralian Empire will join the Great Lakes Council..
+        /// </summary>
+        internal static string _3john1_83_original {
+            get {
+                return ResourceManager.GetString("3john1-83-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 84 - AN ACT TO INCORPORATE THE NORTH FOX ISLANDS OF THE EMPIRE OF KAPREBURG INTO THE COLONY OF FOX ISLANDS AS PER JUDGEMENT IN BAUSTRALIA V. KAPREBURG, 2020, 0001 GLC
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the North Fox Islands Act, 2020.
+        ///2.   The North Fox Islands, currently under control by the Empire of Kapreburg, will be transferred to the Colony of Fox Islands.
+        ///3.   The Island was transferred to Baustralian control through the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_84_original {
+            get {
+                return ResourceManager.GetString("3john1-84-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 85 - AN ACT REGARDING THE REPEAL OF THE FORTY-EIGHT CHAPTER OF THE SESSION OF PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN THE FIRST AND THE FIFTY-EIGHTH CHAPTER OF THE SESSION OF PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN THE FIRST, TO APPLY RESTRICTIONS TO AIDAN JOHN MCGRATH, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall b [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_85_original {
+            get {
+                return ResourceManager.GetString("3john1-85-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 86 - AN ACT REGARDING DUAL CITIZENSHIP AND IMMIGRATION INTO THE KINGDOM OF BAUSTRALIA
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall be known as the Immigration Act, 2020.
+        ///2.   In order to apply for dual citizenship, the person must have a close relative with citizenship in the Empire of Baustralia and must not be in an opposing country and must pay a fee of $800 Boercs (equivalent to $560 CAD).
+        ///3.   To [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_86_original {
+            get {
+                return ResourceManager.GetString("3john1-86-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 87 - AN ACT REGARDING LABOUR LAWS
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This act shall be known as the Labour Act, 2020
+        ///2.   Persons under the age of 19 must be paid a minimum of $19 Boercs an hour.
+        ///3.   Persons over the age of 19 shall be paid a minimum of $22 Boercs.
+        ///4.   It will be illegal to underpay a citizen of Baustralia with a maximum punishment of 1 year in prison and/or a fine of $3,000 Boercs..
+        /// </summary>
+        internal static string _3john1_87_original {
+            get {
+                return ResourceManager.GetString("3john1-87-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 88 - AN ACT TO DEFINE PUNISHMENTS FOR PERSONAS NON-GRATAE
+        ///
+        ///Be it enacted by His Most Excellent Majesty and by the Consent of the Commons the following:-
+        ///1.   This Act shall be known as the Persona Non-Grata Act, 2020.
+        ///2.   One found in the Empire with Persona non grata will be imprisoned for 30 years, with the charge of entering the Empire illegally.
+        ///3.   A person given persona non-grata will have 2 days to get all his belongings out of the Empire and is asked not to re-enter..
+        /// </summary>
+        internal static string _3john1_88_original {
+            get {
+                return ResourceManager.GetString("3john1-88-original", resourceCulture);
             }
         }
         
@@ -1374,6 +2396,1666 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 90 - AN ACT REGARDING THE LEGALIZATION OF GROUPS FOUNDED FOR THE PURPOSE OF DISCRIMINATING A CERTAIN GROUP OR GROUPS OF PEOPLE
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This act shall be known as the Discriminatory Groups Act, 2020.
+        ///2.   Any future and pre-existing groups that focus on the discrimination of another person(s) shall be deemed illegal (eg. Klu Klux Klan, Aryan Brotherhood, Atomwaffen Division etc.).        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_90_original {
+            get {
+                return ResourceManager.GetString("3john1-90-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 91 - AN ACT TO GRANT JACK MORRIS “PERSONA NON-GRATA” STATUS, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and by the Consent of the Commons the following:-
+        ///1.   This Act shall be known as the Persona Non-Grata (Morris) Act, 2020.
+        ///2.   Morris
+        /// a)   formed a breakaway state named the Republic of Baustralia.
+        /// b)   supported the “Underground Alliance.”
+        /// c)   created the 2019 Kapresh constitutional crisis to trick the Empire into illegally occupying the Empire of K [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_91_original {
+            get {
+                return ResourceManager.GetString("3john1-91-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 92 - AN ACT TO CONDEMN THE EMPIRE OF KAPREBURG, TO REMOVE RECOGNITION THEREOF, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and by the Consent of the Commons the following:-
+        ///1.   This Act shall be known as the Kapreburg Act, 2020.
+        ///2.   Whereas in the Great Lakes Council Court of Justice, the Tsar of Kapreburg had been most unprofessional and was deemed childish, and that the ruling of the Council was to have all members remove recognition status, this Act sha [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_92_original {
+            get {
+                return ResourceManager.GetString("3john1-92-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 93 - AN ACT TO DISSOLVE HIS ROYAL NAVAL VOLUNTEER RESERVE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious Majesty, the following:-
+        ///1.   This Act shall be known as the His Royal Naval Volunteer Reserve Act, 2020.
+        ///2.   His Royal Naval Volunteer Reserve shall be dissolved.
+        ///3.   The members of the HRNVR will be transferred with the following ranks, positions and units:
+        /// a)   Admiral of the Fleet His Majesty the King – Admiral of the Fleet – Commander in Chief and Lord Hig [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_93_original {
+            get {
+                return ResourceManager.GetString("3john1-93-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 94 - AN ACT TO DISSOLVE THE NAVAL AMPHIBIOUS ARM, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious Majesty, the following:-
+        ///1.   This Act shall be known as the Naval Amphibious Arm Act, 2020.
+        ///2.   The Naval Amphibious Arm shall be dissolved.
+        ///3.   The members of the NAmpA will be transferred with the following ranks, positions and units:
+        /// a)   Captain Aidan John McGrath – Colonel – Provost Marshal (Army) – Provost Branch.
+        /// </summary>
+        internal static string _3john1_94_original {
+            get {
+                return ResourceManager.GetString("3john1-94-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 95 - AN ACT REGARDING THE PROVINCES OF HOLDERTON, OF LONDON, OF SMITHFIELD, OF LAYUS ISLAND, OF NOVA AND OF DYNEXISTAN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Whereas the Parliament is becoming vacant, BE IT ENACTED by His Most Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Provinces Act, 2020.
+        ///2.   These provinces will be dissolved, and the land given back to the macronation thereof.
+        /// a)   Layus Island,
+        /// b)   Nova, and
+        /// c)   Dynexistan.
+        ///3.   Smithfield will merge with H [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_95_original {
+            get {
+                return ResourceManager.GetString("3john1-95-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 96 - AN ACT REGARDING BLACKMAIL AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///PREFACE
+        ///
+        ///1.   Blackmail shall be defined as “the action of demanding money from someone in return for not revealing compromising information about them” (Blackmail 2005)
+        ///2.   This Act shall be known as the Blackmail Act, 2020.
+        ///
+        ///SCHEDULE
+        ///
+        ///Blackmail, 2005. The Oxford Dictionary of Phrase and Fable [online], Oxford University Press..
+        /// </summary>
+        internal static string _3john1_96_original {
+            get {
+                return ResourceManager.GetString("3john1-96-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 97 - AN ACT REGARDING VOTING, TO REPLACE FIRST PAST THE POST WITH ALTERNATIVE VOTING, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///WHEREAS, by the current system of Baustralia, all elections use First Past the Post, and for better representation of the population, be it enacted by His Most Gracious and Excellent Majesty with the consent of the present Commons assembled, the following:-
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act shall be known as the Voting (Amendment) Act, 2020.
+        ///2.   This Act shall come into effect on [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_97_original {
+            get {
+                return ResourceManager.GetString("3john1-97-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 98 - AN ACT RESPECTING THE OFFICES OF GOVERNMENT
+        ///
+        ///Whereas, members from all parties in the Baustralian Parliament have come together to write one bill, for one government, for the benefit of all, be it enacted by His Most Gracious and Excellency the King and with the consent of the current Commons assembled, the following:-
+        ///
+        ///1.   This Act shall be known as the Government (No. 2) Act, 2020.
+        ///2.   This Act lays out the procedures of government, and His Majesty has the right to exercise his preroga [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_98_original {
+            get {
+                return ResourceManager.GetString("3john1-98-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 99 - AN ACT TO MAKE PROVISION FOR AND IN CONNECTION WITH THE ENDING OF BAUSTRALIAN SOVEREIGNTY AND JURISDICTION OVER THE PROVINCE OF CONTINENTAL
+        ///
+        ///Whereas, the province of Continental has unanimously voted to return to the Free Socialist State of Paloma, be it enacted by the King’s most Excellent Majesty, as follows:—
+        ///
+        ///ENDING OF SOVEREIGNTY
+        ///
+        ///1.   As of 21 May 2020, His Majesty shall no longer have sovereignty or jurisdiction over any part of Continental.
+        ///
+        ///SHORT TITLE AND PROVISIONS
+        ///
+        ///2.   Th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_99_original {
+            get {
+                return ResourceManager.GetString("3john1-99-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 1 - AN ACT TO ESTABLISH AN ORDER OF PRECEDENCE AMONGST BAUSTRALIAN CITIZENS
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Order of Precedence (Persons) Act, c. 1.
+        ///
+        ///TERMS
+        ///
+        ///2.   MPP shall refer to the form of primogeniture used in Baustralia, currently Male-Preference.
+        ///3.   Former officers of state may line up with their successor after  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_1_amend1 {
+            get {
+                return ResourceManager.GetString("4john1-1-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 1 - AN ACT TO ESTABLISH AN ORDER OF PRECEDENCE AMONGST BAUSTRALIAN CITIZENS
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Order of Precedence (Persons) Act, c. 1.
+        ///
+        ///TERMS
+        ///
+        ///2.   MPP shall refer to the form of primogeniture used in Baustralia, currently Male-Preference.
+        ///3.   Former officers of state may line up with their successor after  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_1_original {
+            get {
+                return ResourceManager.GetString("4john1-1-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 13 - AN ACT REGARDING THE AUTHORITY OF THE HOUSE OF LORDS TO TRY CASES AS A COURT OF LAW
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the House of Lords (Powers) Act, c. 13.
+        ///2.   The House of Lords shall Act as the highest Court of Appeals in Baustralia, and have authority to handle any legal matters.
+        ///3.   It’s primary function is to handle all appeals [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_13_original {
+            get {
+                return ResourceManager.GetString("4john1-13-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING CONFIDENTIAL DOCUMENTS PERTAINING TO THE MILITARY, GOVERNMENT, OR CROWN
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Official Secrets Act, c. 16.
+        ///2.   Any man who, without legal excuse, releases, steals, distributes, transcribes, or copies any confidential document pertaining to the military, government, or Crown, are in violat [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_16_original {
+            get {
+                return ResourceManager.GetString("4john1-16-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 18 - AN ACT REGARDING THE CITATIONS OF THE THE THIRD CHAPTER OF THE STATUTE OF THE PARLIAMENTARY SESSION THAT SAT IN THE FIRST YEAR OF THE REIGN OF KING JOHN I, COMMONLY KNOWN AS THE MODIFICATION ACT TO THE SUCCESSION LAW, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Citation (Succession Law) Act, c. 18.
+        ///2.   1 J [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_18_original {
+            get {
+                return ResourceManager.GetString("4john1-18-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 19 - AN ACT TO RATIFY THE MISSION OF THE CUPERTINO ALLIANCE
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Mission of the Cupertino Alliance (Ratification) Act, c. 19.
+        ///2.   The Parliament of Baustralia ratifies the Mission of the Cupertino Alliance, which can be found in the Schedule of this Act.
+        ///3.   Under the advice of this Act, His Majesty may pro [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_19_original {
+            get {
+                return ResourceManager.GetString("4john1-19-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO ESTABLISH AN ORDER OF PRECEDENCE AMONGST BAUSTRALIAN ORDERS, DECORATIONS, AND OTHER HONOURS
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1. This Act shall be known as the Order of Precedence (Honours) Act, c. 2.
+        ///
+        ///TERMS
+        ///
+        ///2.   The Order of Precedence shall be as follows, with Baustralian honours marked by roman numerals, and foreign honours approved for wear  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_2_original {
+            get {
+                return ResourceManager.GetString("4john1-2-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 23 - AN ACT REGARDING NATIONAL SALES TAX
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the National Sales Tax Act, c. 23.
+        ///2.   All companies in Baustralia shall charge tax on sales in the Kingdom of Baustralia.
+        ///3.   The tax shall be 10% to be submitted to the Revenue Office annually.
+        ///4.   No company may claim any of the tax, nor may collect taxes on be [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_23_original {
+            get {
+                return ResourceManager.GetString("4john1-23-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 24 - AN ACT REGARDING CORPORATE TAX
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Corporate Tax Act, c. 24.
+        ///2.   All businesses must set 10% of their net income to be submitted to the Revenue Office annually.
+        ///3.   No company may claim any of the tax, nor may collect taxes on behalf of the Revenue Office..
+        /// </summary>
+        internal static string _4john1_24_original {
+            get {
+                return ResourceManager.GetString("4john1-24-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 26 - AN ACT REGARDING THE TREATY OF RAJAGRIHA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Treaty of Rajagriha (Ratification) Act, c. 26.
+        ///2.   The Parliament of Baustralia ratifies the Treaty of Rajagriha.
+        ///3.   Under the advice of this Act, His Majesty may provide a signature for the treaty, but retains his right to withhold a signature without Par [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_26_original {
+            get {
+                return ResourceManager.GetString("4john1-26-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT REGARDING CRIMES RELATED TO TAX
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Tax Crimes Act, c. 27.
+        ///2.   Any man who, without legal excuse, fails to submit, falsely submits, or deceptively submits any tax forms to the Revenue Office when required are in violation of this Act.
+        ///3.   Any man in violation of this Act is subject to a fine no [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_27_original {
+            get {
+                return ResourceManager.GetString("4john1-27-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 29 - AN ACT REGARDING CURRENCIES AND BANKNOTES
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Currency and Banknotes Act, c. 29.
+        ///2.   Any man who destroys, defaces, or modifies any banknotes are in violation of this Act.
+        ///3.   Any man who destroys, defaces, or modifies any coins are in violation of this Act.
+        ///4.   Any man in violation of this Act is s [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_29_original {
+            get {
+                return ResourceManager.GetString("4john1-29-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 3 - AN ACT TO ESTABLISH AND TO PERMIT THE ENFORCEMENT OF MILITARY SERVICE LAW
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Military Service Act, c. 3.
+        ///2.   A court-martial shall act as permanent standing court, with the authority to try any offence as described in this Act.
+        ///3.   All indictable offences are dealt with a Court-Martial.
+        ///4.   A comman [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_3_original {
+            get {
+                return ResourceManager.GetString("4john1-3-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 30 - AN ACT REGARDING INVALID HONOURS AND ARMS
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Stolen Honours and Arms Act, c. 30.
+        ///2.   Any man who wears a rank he is not entitled to, he is not in violation of this Act, but is in violation of the Military Service Act, 4 John 1 chapter 3, section 20.
+        ///3.   Any man who wears the uniform of a military mem [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_30_original {
+            get {
+                return ResourceManager.GetString("4john1-30-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT REGARDING WEIGHTS AND MEASURES IN BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Weights and Measures Act, c. 31.
+        ///2.   The British Imperial System of Units shall be adopted as Baustralia’s national weights and measures, and shall be used anywhere possible..
+        /// </summary>
+        internal static string _4john1_31_original {
+            get {
+                return ResourceManager.GetString("4john1-31-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 4 - AN ACT TO ESTABLISH MINIMUM LIMITS TO WAGES
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Salaries Act, c. 4.
+        ///2.   It is unlawful for an employer in the Kingdom of Baustralia to pay his employees less than 3 boercs an hour.
+        ///3.   Any employer in violation of this Act shall award any employees lost wages, and pay a fine of 50 boercs..
+        /// </summary>
+        internal static string _4john1_4_original {
+            get {
+                return ResourceManager.GetString("4john1-4-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 41 - AN ACT TO REORGANIZE THE EMPIRE OF OSTREUM INTO A COLONY
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Ostreum (Reorganization) Act, c. 41.
+        ///2.   Ostreum shall become a Colony of Baustralia, with Blairtopia becoming a province of Ostreum..
+        /// </summary>
+        internal static string _4john1_41_original {
+            get {
+                return ResourceManager.GetString("4john1-41-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 42 - AN ACT REGARDING THE ROYAL STYLES OF THE MONARCH OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///
+        ///1.   This Act shall be known as the Royal Styles Act, c. 42.
+        ///2.   The style in the English tongue for the Monarch shall be:
+        ///      John I, by the grace of God of Baustralia and of the Baustralian Realms, King
+        ///3.   The style in the Latin tongue for the Monarch shall be:
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_42_original {
+            get {
+                return ResourceManager.GetString("4john1-42-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 43 - AN ACT REGARDING THE NATIONAL SYMBOLS OF OSTREUM
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the National Symbols (Ostreum) Act, c. 43.
+        ///2.   The flag of Ostreum shall remain the same.
+        ///3.   The arms of Ostreum shall remain the same, except where the imperial crown shall be replaced by the royal crown..
+        /// </summary>
+        internal static string _4john1_43_original {
+            get {
+                return ResourceManager.GetString("4john1-43-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 45 - AN ACT TO RATIFY THE PALOMA CITY AGREEMENT
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Paloma City Agreement (Ratification) Act, c. 45.
+        ///2.   The Parliament of Baustralia ratifies the Paloma City Agreement, which can be found in the Schedule of this Act.
+        ///3.   Under the advice of this Act, His Majesty may provide a signature for the agreement,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_45_original {
+            get {
+                return ResourceManager.GetString("4john1-45-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 5 - AN ACT TO CRIMINALIZE THE ACT OF MURDER AGAINST ANOTHER PERSON
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Criminalization of Murder Act, c. 5.
+        ///2.   Any man who plans and executes a murder, or hires someone to murder, has committed the offence of premeditated murder. This is punishable by up to life imprisonment.
+        ///3.   Any man who kills, or cau [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_5_original {
+            get {
+                return ResourceManager.GetString("4john1-5-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 50 - AN ACT TO MODIFY THE OATHS OF OFFICE TO CONFORM WITH THE NEW ROYAL STYLES
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Oaths Act, c. 50.
+        ///2.   This Act modifies the Constitution Act, that is the Second Chapter of the Statute of the Parliamentary Session that sat in the Second Year of the Reign of King John I.
+        ///3.   The Oaths shall be changed to  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_50_original {
+            get {
+                return ResourceManager.GetString("4john1-50-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 52 - AN ACT REGARDING THE IMPERIAL BOUNDRIES IN BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Imperial Boundries Act, c. 52.
+        ///2.   Baustralia shall be divided into the following:-
+        /// a)   Holderton
+        ///  I.   Holderton County
+        ///   i)   Holderton County
+        ///   ii)  Tremur
+        ///  II.  Concord County
+        ///   i)   Cascadia
+        ///   ii)  Concord
+        ///  III. Smithfield
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_52_original {
+            get {
+                return ResourceManager.GetString("4john1-52-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 6 - AN ACT TO CRIMINALIZE THE ACT OF THEFT
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Criminalization of Theft Act, c. 6.
+        ///2.   Any man who steals, or otherwise takes property belonging to another individual without their consent, is guilty of theft.
+        ///3.   Theft under the value of 1,000 boercs is punishable with a fine not exceeding double the valu [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_6_original {
+            get {
+                return ResourceManager.GetString("4john1-6-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 7 - AN ACT REGARDING ASSAULT AND BATTERY
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Assault and Battery Act, c. 7.
+        ///2.   Any man who threatens an individual with physical harm, or attempts to cause physical harm to an individual, is guilty of assault. This carries a fine of 10 boercs.
+        ///3.   Any man who causes physical harm, or otherwise unwanted ph [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_7_original {
+            get {
+                return ResourceManager.GetString("4john1-7-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 8 - AN ACT REGARDING FRAUD
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Fraud Act, c. 8.
+        ///2.   Any man who deceives, or otherwise misleads, a person to secure unfair or unlawful gain, or to deprive one of a legal right, is guilty of fraud.
+        ///3.   This offence carries a fine of 10 boercs..
+        /// </summary>
+        internal static string _4john1_8_original {
+            get {
+                return ResourceManager.GetString("4john1-8-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 9 - AN ACT TO CRIMINALIZE THE ACT OF MANSLAUGHTER
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Criminalization of Manslaughter Act, c. 9.
+        ///2.   Any man who by negligence or recklessness, causes the death of another person, or injuries which prove fatal, has committed the offence of manslaughter.
+        ///3.   This offence is punishable by up to 10 years impr [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_9_original {
+            get {
+                return ResourceManager.GetString("4john1-9-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 1 - AN ACT REGARDING TITLES AND STYLES IN THE KINGDOM OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty and with the consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Titles and Styles Act, 2021.
+        ///2.   Located in the schedule of this Act is a list of styles and titles, in the order of precedence.
+        ///3.   No person in the Baustralian Empire shall adopt a style or title in violation of this Act.
+        ///4.   Members of the Baustralian Armed Forces, including retired members, bu [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_1_amend1 {
+            get {
+                return ResourceManager.GetString("5john1-1-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 1 - AN ACT REGARDING TITLES AND STYLES IN THE KINGDOM OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty and with the consent of the Commons as follows:-
+        ///1.   This Act shall be known as the Titles and Styles Act, 2021.
+        ///2.   Located in the schedule of this Act is a list of styles and titles, in the order of precedence.
+        ///3.   No person in the Baustralian Empire shall adopt a style or title in violation of this Act.
+        ///4.   Members of the Baustralian Armed Forces, including retired members, bu [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_1_original {
+            get {
+                return ResourceManager.GetString("5john1-1-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 10 - AN ACT REGARDING THE CURRENT COUNTY AND FORMER PROTECTORATE OF ÎLE AUX COULEUVRES AND TO GRANT SUCH ISLAND AND TERRITORY OF THE KING IN RIGHT OF BAUSTRALIA TO THE CROWN AND EMPIRE OF KAPREBURG, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Île aux Couleuvres Act, 2022.
+        ///2.   The County which comprises the former Protectorate of the Île aux Couleuvres in the Kingdom of Baustralia shall be granted to the Crown  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_10_original {
+            get {
+                return ResourceManager.GetString("5john1-10-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 11 - AN ACT RESPECTING THE REGIONS OF WABASSO AND SOUTH WABASSO, AND THE MUNICIPALITIES OF WABASSO, SAINT GEORGES, AND SOUTH WABASSO, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with consent from the Current Commons assembled, as follows:-
+        ///1.   This Act shall be known as the South Wabasso-Westminster Act, 2022.
+        ///2.   The region of South Wabasso shall be renamed Westminster.
+        ///3.   The municipality of Wabasso shall be renamed Greenwich..
+        /// </summary>
+        internal static string _5john1_11_original {
+            get {
+                return ResourceManager.GetString("5john1-11-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 12 - AN ACT REGARDING THE WEAR OF HONOURS AND DECORATIONS FROM ALL NATIONS, THE ORDER IN WHICH THEY ARE WORN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with consent from the Current Commons assembled, as follows:-
+        ///1.   This Act shall be known as the Foreign Honours Act, 2022.
+        ///2.   Honours from other nations shall be permitted to be worn after all Baustralian orders and decorations, as well as any foreign orders as described in the Order of Precedence.        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_12_original {
+            get {
+                return ResourceManager.GetString("5john1-12-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 13 - AN ACT REGARDING THE IMPERIAL BOUNDARIES, TO REPEAL THE FIFTY-SECOND STATUTE OF THE PARLIAMENT WHICH SAT DURING THE FOURTH YEAR OF THE REIGN OF KING JOHN I, TO REAFFIRM THE CURRENTLY RECOGNIZED BOUNDARIES, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///
+        ///1.   This Act shall be known as the Imperial Boundaries Act, 2022.
+        ///2.   The layout of divisions contained within 4 John 1 c. 52 (Imperial Boundaries Act, 2021) will be repealed.
+        ///3.   The Kingd [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_13_original {
+            get {
+                return ResourceManager.GetString("5john1-13-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 14 - AN ACT REGARDING THE CONSTITUENCIES IN BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Constituencies Act, 2022.
+        ///2.   Constituencies in the House of Commons are as follows:
+        /// a)   (Hn Cty) Holderton County (frm. Holderton-Tremur)
+        /// b)   (Cd Cty) Concord County
+        /// c)   (Rd Cty) Red County       (frm. Atlas-Flavora)
+        /// d)   (Smith)  Smithfield       (frm. Greystone-Wooler, Paradisium, Daytona-Concord,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_14_original {
+            get {
+                return ResourceManager.GetString("5john1-14-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 15 - AN ACT REGARDING THE COUNTY OF NOVA, THE MUNICIPALITY OF NOVA, AND THE CONSTITUENCY OF NOVA, AND TO PROVIDE FOR THEIR DISESTABLISHMENT AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Nova Act, 2022.
+        ///2.   The Constituency of Nova shall be dissolved. The MP for Nova shall become the MP for North.
+        ///3.   The Municipality of Nova shall be dissolved. All lands shall be granted to the County of Nova.
+        ///4.   The County [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_15_original {
+            get {
+                return ResourceManager.GetString("5john1-15-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING THE COUNTY OF MILD POND, TO PROVIDE FOR THE ESTABLISHMENT OF A NEW MUNICIPALITY, NAMED GLOUCESTER, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Gloucester Act, 2022.
+        ///2.   The Constituency of Gloucester shall be formed.
+        ///3.   The Municipality of Gloucester shall be formed of one region, commonly known as Douro-Dummer Township North and South Parks.
+        ///4.   As fit, four routes shall be construc [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_16_original {
+            get {
+                return ResourceManager.GetString("5john1-16-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 17 - AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A NEW COUNTY OF DYNEXISTAN, AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Dynexistan Act, 2022.
+        ///2.   The Constituency of Kingsdynexshire shall be formed.
+        ///3.   The County of Dynexistan shall be formed with one municipality, called Kingsdynexshire.
+        ///4.   The County of Dynexistan was surveyed to measure approx. 3.7 acres (equal to 1.5 hectares)..
+        /// </summary>
+        internal static string _5john1_17_original {
+            get {
+                return ResourceManager.GetString("5john1-17-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 18 - AN ACT REGARDING THE BILL CITATIONS USED IN THE PARLIAMENT OF BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Citation (Bills) Act, 2022, T-50.
+        ///2.   Bill citations in the Parliament shall take the form of:
+        /// a)   “Bill”
+        /// b)   Legislature originally introduced
+        ///  i)   “C-”, Commons
+        ///  ii)  “L-”, Lords
+        ///  iii) “T-”, Throne
+        ///  iv)  “P-”, Knights, Flag and General officers, and civil servants.
+        /// c)    [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_18_original {
+            get {
+                return ResourceManager.GetString("5john1-18-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 19 - AN ACT REGARDING ACTIVITIES DEEMED ACCEPTABLE WITHIN THE PARLIAMENT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the consent of the Current Commons assembled:-
+        ///1.   This Act shall be known as the Political Activities Act, 2022, C-50.
+        ///2.   No member shall buy, or coerce someone through employment, promotion, or other bribes, to vote for a candidate or party.
+        ///3.   A member who is in violation of this Act will be dismissed from the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_19_amend1 {
+            get {
+                return ResourceManager.GetString("5john1-19-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 19 - AN ACT REGARDING ACTIVITIES DEEMED ACCEPTABLE WITHIN THE PARLIAMENT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the consent of the Current Commons assembled:-
+        ///1.   This Act shall be known as the Political Activities Act, 2022, C-50.
+        ///2.   No member shall buy, or coerce someone through employment, promotion, or other bribes, to vote for a candidate or party.
+        ///3.   No member shall be a member of any political organization which advo [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_19_original {
+            get {
+                return ResourceManager.GetString("5john1-19-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO ESTABLISH A NATIONAL ROUTE SYSTEM
+        ///
+        ///Whereas it has been determined the current Baustralian route system is too complicated for the amount of routes contained within the country,
+        ///And whereas, the old system is laid out for the provincial system and does not transfer well to the county system,
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_2_amend1 {
+            get {
+                return ResourceManager.GetString("5john1-2-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO ESTABLISH A NATIONAL ROUTE SYSTEM
+        ///
+        ///Whereas it has been determined the current Baustralian route system is too complicated for the amount of routes contained within the country,
+        ///And whereas, the old system is laid out for the provincial system and does not transfer well to the county system,
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_2_original {
+            get {
+                return ResourceManager.GetString("5john1-2-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 20 - AN ACT TO ESTABLISH A COURT IDENTIFIER FOR THE HOUSE OF LORDS IN ACCORDANCE WITH THE THIRTEENTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FOURTH YEAR OF THE REIGN OF KING JOHN I, COMMONLY KNOWN AS THE HOUSE OF LORDS (POWERS) ACT, TO AMEND THE FORTY-FIRST CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN I, COMMONLY KNOWN AS THE CITATION (LEGAL) ACT, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_20_original {
+            get {
+                return ResourceManager.GetString("5john1-20-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 21 - AN ACT REGARDING THE PROPERTIES, LAND, BUILDINGS, ROUTES, AND SOVEREIGNTY OF THE REGION OF CONCORD IN THE MUNICIPALITY OF CONCORD COUNTY, REGARDING THE PROPERTIES, LAND, BUILDINGS, AND SOVEREIGNTY OF THE REGION OF TREMUR IN THE MUNICIPALITY OF HOLDERTON COUNTY, TO INCORPORATE THE REGION OF CASCADIA IN THE MUNICIPALITY OF CONCORD COUNTY, AS THE MUNICIPALITY OF CASCADIA, REGARDING THE CONSTITUENCY OF CONCORD COUNTY, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Ex [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_21_original {
+            get {
+                return ResourceManager.GetString("5john1-21-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 22 - AN ACT TO CONFIRM THE STATUS OF THE FOURTY SIXTH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN I, THE PUBLIC HEALTH EMERGENCY MEASURES (QUARANTINE) ACT
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Public Health Emergency Measures (Confirmation) Act, 2022, C-51.
+        ///2.   3 John 1 c, 46, the Public Health Emergency Measures (Q [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_22_original {
+            get {
+                return ResourceManager.GetString("5john1-22-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 23 - AN ACT TO AMEND THE SECOND CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FIFTH YEAR OF THE REIGN OF KING JOHN I, COMMONLY CALLED THE NATIONAL ROUTES ACT, TO UPDATE THE PATTERN OF ROUTE SIGNS TO BE MORE APPEALING TO BAUSTRALIANS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Popular Route Sign Act, 2022, C-52.
+        ///2.   Route shiel [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_23_original {
+            get {
+                return ResourceManager.GetString("5john1-23-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 24 - AN ACT TO SIMPLIFY THE ROUTE SYSTEM OF OSTREUM
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and by request of the Lord Governor of Ostreum, the following:-
+        ///1.   This Act shall be known as the Routes Act (Ostreum), 2022, L-51.
+        ///2.   Highways 6, 20, 30, 56 shall be deleted.
+        ///3.   Highway 33 Business will be established following the routing of Highway 6.
+        ///4.   Highway 19 will route along the original routing up until the former terminus of Highway 20. Highway 19 will follow the o [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_24_original {
+            get {
+                return ResourceManager.GetString("5john1-24-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 25 - AN ACT RESPECTING THE FLAG OF WANGATANGIA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and by request of the Lord Governor of Wangatangia, the following:-
+        ///1.   This Act shall be known as the National Symbols Act (Wangatangia), 2022, L-52.
+        ///2.   The current flag (A red ensign defaced with the escutcheon of the Royal Arms of Wangatangia) shall remain a national flag of Wangatangia.
+        ///3.   A second flag, the former flag of the Republic of Wangatangia, will become a second national  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_25_original {
+            get {
+                return ResourceManager.GetString("5john1-25-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 26 - AN ACT RESPECTING THE BAUSTRALIAN ROUTE SYSTEM WITHIN THE COUNTY OF MILD POND
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Mild Pond Act, 2022, T-53.
+        ///2.   Baustralia shall occupy public land 3 metres from the centre of Douro Second Line, from Highway 8 to Highway 34.
+        ///3.   Land north of Peterborough County Road 8 will form part of Westminster, while land south of County Road 8 will form part of Gloucester.
+        ///4.   Highway 8 sha [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_26_original {
+            get {
+                return ResourceManager.GetString("5john1-26-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT RESPECTING THE REGION OF MONAGHAN AND FOR EXTENSION THEREOF
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Monaghan Act, 2022, T-54.
+        ///2.   Baustralia shall occupy the land claimed by Paloma north of the region of Monaghan on Sugar Island, with the consent of Paloma.
+        ///3.   Paloman Federal Highway 301 shall extend Highway 51.
+        ///4.   Paloman Federal Highway 301A shall extend Highway 51 Alternate..
+        /// </summary>
+        internal static string _5john1_27_original {
+            get {
+                return ResourceManager.GetString("5john1-27-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 28 - AN ACT RESPECTING THE COLONY OF THE FOX ISLANDS AND FOR DISSOLUTION THEREOF
+        ///
+        ///1.   Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///2.   This Act shall be known as the Fox Islands Act, 2022, T-55.
+        ///3.   Baustralia shall cease to claim all territory on South Fox Islands..
+        ///4.   Highway 58, 58 Business, and 58 Spur, will be deleted..
+        /// </summary>
+        internal static string _5john1_28_original {
+            get {
+                return ResourceManager.GetString("5john1-28-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 29 - AN ACT RESPECTING THE POLITICAL ACTIVITIES ACT
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   5 John 1 c. 19, s. 3 will be repealed with immediate effect.
+        ///2.   This Act shall be known as the Political Activities (Amendment) Act, 2022..
+        /// </summary>
+        internal static string _5john1_29_original {
+            get {
+                return ResourceManager.GetString("5john1-29-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 30 - AN ACT RESPECTING THE REGION OF MONAGHAN IN THE MUNICIPALITY OF GLOUCESTER
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Monaghan (No. 2) Act, 2022, T-56.
+        ///2.   The Region of Monaghan, in the Municipality of Gloucester, will be incorporated into an municipality independent of Gloucester, in the County of Mild Pond.
+        ///3.   The Constituency of Monaghan will be created, and will represent this municipality.
+        ///4.   The Member of Parl [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_30_original {
+            get {
+                return ResourceManager.GetString("5john1-30-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT RESPECTING THE COUNTY OF NEWPORT, TO PROVIDE FOR THE ASSUMPTION OF ONE-THIRD OF A SQUARE KILOMETRE OF LAND IN MARMORA TOWNSHIP, ONTARIO, CANADA, TO FORM THE MUNICIPALITY OF ALLAN, ONE-THIRD OF A SQUARE KILOMETRE OF LAND IN BRIGHTON TOWNSHIP, ONTARIO, CANADA, TO FORM THE REGIONS OF CONS AND LAKESIDE IN THE MUNICIPALITY OF SCRIVER, ONE-TENTH OF A SQUARE KILOMETRE OF LAND IN ALNWICK/HALDIMAND TOWNSHIP, ONTARIO, CANADA, TO FORM THE MUNICIPALITY OF JACKSON, ALL MUNICIPALITIES FREQUENTED BY BA [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_31_original {
+            get {
+                return ResourceManager.GetString("5john1-31-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 32 - AN ACT TO DISTINGUISH BAUSTRALIAN HIGHWAYS IN THE REALM AND IN HER COLONIES, AND TO DISTINGUISH BAUSTRALIAN HIGHWAYS IN CANADA AND THE UNITED STATES OF AMERICA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Colonial Routes Act, 2022, T-58.
+        ///2.   Baustralian Highways in the Colonies will use the following designs:-
+        /// a)   Wangatangia, which will use a blue and gold background with a serifed ‘W’ replacing the Baustralian Fish,
+        /// b [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_32_amend1 {
+            get {
+                return ResourceManager.GetString("5john1-32-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 32 - AN ACT TO DISTINGUISH BAUSTRALIAN HIGHWAYS IN THE REALM AND IN HER COLONIES, AND TO DISTINGUISH BAUSTRALIAN HIGHWAYS IN CANADA AND THE UNITED STATES OF AMERICA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Colonial Routes Act, 2022, T-58.
+        ///2.   Baustralian Highways in the Colonies will use green-background, white-foreground signs.
+        ///3.   Baustralian Highways in other nations will use blue-background, white-foreground signs.
+        /// a) [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_32_original {
+            get {
+                return ResourceManager.GetString("5john1-32-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 33 - AN ACT RESPECTING THE COUNTY OF HOLDERTON, TO PROVIDE FOR THE ASSUMPTION OF 3 HECTARES OF LAND TO FORM THE MUNICIPALITY OF NICOTIANA, AND TO PROPOSE ROUTES THEREIN
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Holderton Act, 2022, T-59.
+        ///2.   At Ontario Lock One on the Trent River in Quinte West, Ontario, the land strip between the lock canal and hydroelectric dam, commencing at the Canadian National Railway, will be claimed by [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_33_original {
+            get {
+                return ResourceManager.GetString("5john1-33-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 34 - AN ACT REGARDING ROUTES IN THE COLONIES OF WANGATANGIA AND OSTREUM, AND TO AMEND THE SECOND PARAGRAPH IN THE THIRTY-SECOND STATUTE OF THE PARLIAMENT OF BAUSTRALIA WHICH SAT DURING THE FIFTH YEAR OF THE REIGN OF KING JOHN I
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Routes Act, 2022, T-510.
+        ///2.   The second paragraph in the thirty-second statute of the Parliament of Baustralia which sat during the fifth year of the reign of K [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_34_original {
+            get {
+                return ResourceManager.GetString("5john1-34-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 35 - AN ACT TO ESTABLISH THE CONSTITUENCIES OF MARLBOROUGH, ALLAN, SCRIVER, JACKSON, AND NICOTINIA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Constituencies (No. 2) Act, 2022, T-511.
+        ///2.   The Constituency of Newport will be split by municipalities into the Consitiuency of Marlborough (Mlbo), Allan (Aln), Scriver (Scvr), and Jackson (Jksn).
+        ///3.   The Constituency of Holderton County will be split by municipalities into the Consti [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_35_original {
+            get {
+                return ResourceManager.GetString("5john1-35-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 36 - AN ACT TO REPEAL THE THIRTY SECOND STATUTE OF THE PARLIAMENT OF BAUSTRALIA THAT SAT DURING THE FIFTH YEAR OF THE REIGN OF KING JOHN I, TO RESTORE THE ROUTE SIGNS TO THE BLUE AND WHITE FISH DESIGN AS DEFINED IN THE TWENTY THIRD STATUTE OF THE PARLIAMENT OF BAUSTRALIA THAT SAT DURING THE FIFTH YEAR OF THE REIGN OF KING JOHN I, AND TO CO-SIGN COLONIAL ROUTES WITH A SECOND SIGN OF THE SAME COLOUR SCHEMES AS LAID OUT PER COLONY IN THE REPEALED ACT OF PARLIAMENT, AND FOR PURPOSES CONNECTED THEREWITH        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_36_original {
+            get {
+                return ResourceManager.GetString("5john1-36-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 37 AN ACT TO FORM THE COUNTY OF VIENNA FROM A PARCEL OF LAND IN THE MUNICIPALITY OF PRINCE EDWARD COUNTY IN THE PROVINCE OF ONTARIO IN THE DOMINION OF CANADA
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Vienna Act, 2022, T-513.
+        ///2.   #135032804511000, Lot 108, 3rd Concession of the Municipality of Prince Edward County, Ontario, Canada, as well as the road there connecting, will be annexed to form the County and Constituency of Vien [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_37_original {
+            get {
+                return ResourceManager.GetString("5john1-37-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 4 - AN ACT REGARDING ROUTES IN OSTREUM
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Routes (Ostreum) Act, c. 4.
+        ///2.   Ostreum Road 21 shall become Baustralian Highway 19.
+        ///3.   Ostreum Road 43 shall become Baustralian Highway 20.
+        ///4.   All colonies shall henceforth follow the National Routes Act for all colonial routes..
+        /// </summary>
+        internal static string _5john1_4_original {
+            get {
+                return ResourceManager.GetString("5john1-4-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 5 - AN ACT REGARDING THE COUNTY OF NEWPORT
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Newport Act, c. 5.
+        ///2.   The region of Newport shall form a County of Baustralia, with one municipality, Marlborough..
+        /// </summary>
+        internal static string _5john1_5_original {
+            get {
+                return ResourceManager.GetString("5john1-5-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 6 - AN ACT REGARDING COMPANIES IN BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Companies Act, c. 6.
+        ///2.   Companies in Baustralia shall register with the Revenue Office.
+        ///3.   Companies must submit the following:
+        /// a)   Company name
+        /// b)   Type of company
+        /// c)   Legal address
+        /// d)   Business owner
+        /// e)   Other major officers, and their pos [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_6_original {
+            get {
+                return ResourceManager.GetString("5john1-6-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 7 - AN ACT TO PERMIT THE RESTORATION OF ACTS OF PARLIAMENT DESTROYED BY VANDALISM, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, the following:
+        ///1.   This Act shall be known as the Restoration of Legislation Act, 2022.
+        ///2.   4 John 1 cc. 1-54 have been lost.
+        ///3.   5 John 1 cc. 2-6 have been lost.
+        ///4.   This Act enables the restoration of the lost Acts of Parliament through research.
+        ///5.   This Act shall serv [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_7_original {
+            get {
+                return ResourceManager.GetString("5john1-7-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 8 - AN ACT TO PROVIDE FOR THE DISSOLUTION OF HIS ROYAL AIR FORCE
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, the following:
+        ///1.   This Act shall be known as the His Royal Air Force Act, 2022.
+        ///2.   His Royal Air Force will be placed in abayance.
+        ///3.   All HRAF officers and warrant officers may still wear the HRAF uniform and rank in most administrative positions.
+        ///4.   All aircrew will be transferred between the navy, or the army, depending o [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_8_original {
+            get {
+                return ResourceManager.GetString("5john1-8-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 9 - AN ACT AMENDING PARLIAMENTARY TITLES AND STYLES IN THE KINGDOM OF BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty as follows:-
+        ///1.   This Act shall be known as the Titles and Styles (No. 2) Act, 2022.
+        ///2.   In the Schedule of the First Chapter of the Statute of Parliament that sat during the Fifth Year of the Reign of King John I, the uses of The Right Honourable shall be amended to read: “A style granted to peers holding a county, viscounty, barony. Also granted to the Prime Minister,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _5john1_9_original {
+            get {
+                return ResourceManager.GetString("5john1-9-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 1 - AN ACT TO EXTEND THE FIFTH PARLIAMENT OF BAUSTRALIA, AND THE 2022 BAUSTRALIAN GENERAL ELECTION FROM THE 20TH OF JUNE, 6 JOHN 1, 2022, TO THE 27TH OF THE SAME MONTH
+        ///
+        ///Be it enacted by His Most Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Parliament Extension (No. 1) Act, 2022, Bill T611.
+        ///2.   Whereas the leaders of the Conservative and Communist Parties of Baustralia have forfeited the election at the last minute, the 5th Parliament of Baustralia will extend to 27 June  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_1_original {
+            get {
+                return ResourceManager.GetString("6john1-1-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 10 - AN ACT TO REFORM HIS ROYAL NAVAL VOLUNTEER RESERVE, TO FORM HIS ROYAL NAVAL RESERVE, THE RESERVE ARMY, AND THE TERRITORIAL ARMY
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Reserve Forces Act, 2022, T661.
+        ///2.   The following entities will be formed:-
+        /// a)   His Royal Naval Reserve
+        ///  I.   Paid reserve component of His Royal Navy.
+        /// b)   His Royal Naval Volunteer Reserve
+        ///  I.   Volunteer reserve component of His Royal Navy.
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_10_original {
+            get {
+                return ResourceManager.GetString("6john1-10-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 11 - AN ACT TO ESTABLISH BAUSTRALIAN HIGHWAYS 93 TO 100
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Routes (Establishing Proposals) Act, 2022, T671.
+        ///2.   Highway 93 will be established from the midpoint of Highway 3 and extend to Highway 16 just south of the junction with Highway 17.
+        ///3.   Highway 94 will be established from the terminus of Highway 18 to Highway 53.
+        ///4.   Following straight off of Highway 8 as it enters Towerhil [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_11_original {
+            get {
+                return ResourceManager.GetString("6john1-11-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 12 - AN ACT TO ESTABLISH THE MUNICIPALITY AND CONSTITUENCY OF BOWMANTON IN THE COUNTY OF NEWPORT
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Bowmanton Act, 2022, T681.
+        ///2.   At the point where Bowmanton Road of Northumberland County in Ontario becomes a trail, Bowmanton will be formed off the territory on the west side of the road until the road meets a farm trail south of Morris Road. It will extend west and hug the thin clearin [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_12_original {
+            get {
+                return ResourceManager.GetString("6john1-12-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 13 - AN ACT TO FORMALLY PROTECT THE RIGHT TO STRIKE AND COMMIT INDUSTRIAL ACTION, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Strike Act, 2022, C641.
+        ///2.   It is prohibited to stop, interrupt or otherwise impede 
+        /// a)   a strike, or
+        /// b)   industrial action.
+        ///3.   It is prohibited to withhold any benefits, practical or pecuniary, insurance, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_13_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-13-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 13 - AN ACT TO FORMALLY PROTECT THE RIGHT TO STRIKE AND COMMIT INDUSTRIAL ACTION, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Strike Act, 2022, C641.
+        ///2.   It is prohibited to impede a strike or industrial action.
+        ///3.   It is prohibited to withhold any benefits, insurance, or support to striking workers that were granted prior to the strike [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_13_original {
+            get {
+                return ResourceManager.GetString("6john1-13-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 14 - AN ACT TO AMEND THE THIRTEENTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Strike Act (Amendments) Act, 2022, C651.
+        ///2.   The following sections of the Strike Act, 6 John 1 c. 13, shall be amended to read:
+        ///  2.   It is prohibited to stop, in [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_14_original {
+            get {
+                return ResourceManager.GetString("6john1-14-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 15 - AN ACT ESTABLISHING THE MUNICIPALITY OF STONIA WITHIN THE COUNTY OF VIENNA
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Stonia Act, 2022, T681.
+        ///2.   The parcels of land from the swing bridge on the west end of Murray Canal within Quinte West, Ontario, extending to the Millennium Trail half a kilometre from a similar swing bridge on the east end of the Canal, shall form the municipality of Stonia within the County of Vienna.        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_15_original {
+            get {
+                return ResourceManager.GetString("6john1-15-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 16 - AN ACT REGARDING INCORPORATING TIME-BASED LIMITATIONS ON, AS WELL AS CONDUCTION OF, BY-ELECTIONS, AND FOR PURPOSED CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the By-Elections Act, 2022, C671.
+        ///2.   Due to the volatile nature of the Baustralian Parliament in terms of constituency changes and additions, by-elections shall be completed in one week from the t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_16_original {
+            get {
+                return ResourceManager.GetString("6john1-16-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 17 - AN ACT TO FORM AND DEFINE THE EQUALITY AND ECONOMIC INCLUSION OFFICE FROM THE ECONOMY OFFICE, TO FORM THE POSITION OF SECRETARY OF STATE FOR EQUALITY AND ECONOMIC INCLUSION FROM THE POSITION OF SECRETARY OF STATE FOR THE ECONOMY, TO AMEND THE THIRD CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_17_original {
+            get {
+                return ResourceManager.GetString("6john1-17-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 18 - AN ACT TO ESTABLISH NEW LAWS CONCERNING SUCCESSION TO THE BAUSTRALIAN THRONE
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act will be referred to as the Succession Law (Modifications, No. 1) Act, C691, 2022.
+        ///2.   All preceding Acts concerning succession to the Baustralian throne are repealed.
+        ///3.   The right of succession to the throne of Baustralia is vested in the legitimate biological descendan [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_18_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-18-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 18 - AN ACT TO ESTABLISH NEW LAWS CONCERNING SUCCESSION TO THE BAUSTRALIAN THRONE
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act will be referred to as the Succession Law (Modifications) Act, C691, 2022.
+        ///2.   All preceding Acts concerning succession to the Baustralian throne are repealed.
+        ///3.   The right of succession to the throne of Baustralia is vested in the legitimate biological descendants of J [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_18_original {
+            get {
+                return ResourceManager.GetString("6john1-18-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 19 - AN ACT TO PROVIDE FOR PEERS CONSORT WITHIN THE BAUSTRALIAN ORDER OF PRECEDENCE, AND TO AMEND THE FIRST CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FOURTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Amendment to the Baustralian Order of Precedence Act, 2022, T691.
+        ///2.   The following shall be appended after section 3:
+        /// 4.   Female consorts of li [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_19_original {
+            get {
+                return ResourceManager.GetString("6john1-19-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 2 - AN ACT TO EXTEND THE FIFTH PARLIAMENT OF BAUSTRALIA, AND THE 2022 BAUSTRALIAN GENERAL ELECTION FROM THE 27TH OF JUNE, 6 JOHN 1, 2022, TO THE 1ST OF JULY, OF THE SAME YEAR
+        ///
+        ///Be it enacted by His Most Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Parliament Extension (No. 2) Act, 2022, Bill T621.
+        ///2.   Due to situations deemed an emergency by the Crown, the 5th Parliament of Baustralia will extend to 1 July 2022, four days after the election date set out in the Parliament  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_2_original {
+            get {
+                return ResourceManager.GetString("6john1-2-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 20 - AN ACT TO ESTABLISH THE HIGHWAY PROPOSALS IN THE MUNICIPALITY OF STONIA, WITHIN THE COUNTY OF VIENNA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the current Commons assembled, the following:-
+        ///1.   This Act shall be referred to as the Highways (Stonia) Bill, C6111.
+        ///2.   The proposed designation for Highway 101 along Canal Road will be established. 
+        ///3.   The proposed designation for Highway 102 along Shore Road will [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_20_original {
+            get {
+                return ResourceManager.GetString("6john1-20-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 21 - AN ACT TO RESTRICT AND PROHIBIT THE SALE, PURCHASE, OWNERSHIP, DISPLAY OR POSSESSION OF CERTAIN FIREARMS OR ASSOCIATED AMMUNITION, FOR ENFORCEMENT THEREOF, AND FOR PURPOSES CONNECTED THEREWITH 
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Firearms (Restrictions) Act, C6121, 2022.
+        ///2.   The sale, purchase, ownership, display or possession of any following firearms shall be  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_21_original {
+            get {
+                return ResourceManager.GetString("6john1-21-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 22 - AN ACT TO EXTEND THE FIREARMS REGULATIONS TO ALLOW FOR MILITARY USE OF RESTRICTED FIREARMS, TO ENSURE THE WARRANTED AND PROPER USAGE OF THE AFORESTATED WEAPONRY, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act will be referred to as the Firearms (Military) Act, 2022, Bill C6131.
+        ///2.   The Baustralian Armed Forces shall be permitted to drill, train, fight, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_22_original {
+            get {
+                return ResourceManager.GetString("6john1-22-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 23 - AN ACT TO ALLOW FOR WEAR ANY VISHWAMITRAN MEDALS AND HONOURS AFTER ANY BAUSTRALIAN MEDALS AND BEFORE ANY CAMPAIGN MEDALS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Vishwamitra Act, 2022, Bill T6101.
+        ///2.   In recognition of the importance of the State of Vishwamitra to the Kingdom of Baustralia, Vishwamitran medals are to be worn afte [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_23_original {
+            get {
+                return ResourceManager.GetString("6john1-23-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 24 - AN ACT TO SEVER DUTIES OF THE EQUALITY AND ECONOMIC INCLUSION OFFICE INTO THE ECONOMY OFFICE AND THE EQUALITIES OFFICE, TO FORM THE POSITION OF SECRETARY OF STATE FOR EQUALITY, TO RESTORE THE POSITION OF SECRETARY OF STATE FOR THE ECONOMY AND FOR PURPOSES CONNECTED THEREWITH 
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be referred to as the Secretaries of State (No. 3) Act, 2022, C6141.        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_24_original {
+            get {
+                return ResourceManager.GetString("6john1-24-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 25 - AN ACT TO CONSOLIDATE VARIOUS DUTIES FROM VARIOUS OFFICES RELATING TO FORESTRY AND ROUTE MAINTENANCE, AND FOR PURPOSES CONNECTED THEREWITH 
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be referred to as the Maintenance Office Act, 2022, Bill C6151.
+        ///2.   The Maintenance Office will be formed, chaired by a Secretary of State for Maintenance.
+        ///3.   From the Routes Office, the maintenance of [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_25_original {
+            get {
+                return ResourceManager.GetString("6john1-25-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 26 - AN ACT TO DELETE ALL HIGHWAYS FROM THE BAUSTRALIAN HIGHWAY SYSTEM THAT ARE LOCATED WITHIN A COLONY OR EXTERNAL TERRITORY FROM THE CROWN, TO ASSIGN MAINTENANCE OF COLONIAL ROUTES TO THE MAINTENANCE OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Colonial Routes Act, 2023, C6161.
+        ///2.   All Baustralian Highways located outside of the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_26_original {
+            get {
+                return ResourceManager.GetString("6john1-26-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT TO ESTABLISH CLAIM ON THE WESTMOST PARCEL OF LAND NORTH OF ACCOMMODATION ROAD ON THE TWENTY SIXTH LOT OF THE FIFTH CONCESSION OF THE GEOGRAPHIC TOWNSHIP OF PITTSBURGH IN THE CITY OF KINGSTON IN THE PROVINCE OF ONTARIO, TO MAKE AMALGAMATIONS AND AMENDMENTS TO ADMINISTRATIVE DIVISIONS WITHIN THE KINGDOM, TO MAKE ASSOCIATED AMENDMENTS TO RELATED CONSTITUENCIES, TO FORM A CONSTITUENCY FOR THE NEW CLAIM, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Exce [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_27_original {
+            get {
+                return ResourceManager.GetString("6john1-27-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 28 - AN ACT TO MODIFY REDESIGNATED ROUTE MARKERS WITHIN THE BAUSTRALIAN HIGHWAY SYSTEM TO FOLLOW AN ALTERNATE COLOUR SCHEME, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Routes (Redesignations) Act, 2023, Bill T6121.
+        ///2.   As the Routes Office is designating new highways the numbers of former Baustralian highways, an alternate colour scheme was requested for redesignations.
+        ///3.   A cream c [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_28_original {
+            get {
+                return ResourceManager.GetString("6john1-28-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 29 - AN ACT TO MODIFY ANY PEERAGE TITLES OF THE RANK OF VISCOUNT OR BARON BY REMOVING THE “OF” BETWEEN RANK AND TITLE, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Peerage Act, 2023, Bill T6131.
+        ///2.   Viscounts of the Peerage of Baustralia who carry a title in the format of Viscount of X will be changed to Viscount X.
+        ///3.   Barons of the Peerage of Baustralia who carry a title in the forma [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_29_original {
+            get {
+                return ResourceManager.GetString("6john1-29-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 3 - AN ACT TO RE-ARRANGE CERTAIN OFFICES AND SECRETARIES OF STATE TO FORM AN INTERIOR OFFICE MADE UP OF STAFF OF THE ENVIRONMENT OFFICE AND THE COLONIAL BRANCH OF THE FOREIGN AND COLONIAL OFFICE, TO SEVER THE BRANCH TO FORM THE FOREIGN AFFAIRS OFFICE, AND TO RE-ASSIGN THE SECRETARY OF STATE FOR FOREIGN AND COLONIAL AFFAIRS, AND THE SECRETARY OF STATE FOR THE ENVIRONMENT, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the consent of t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_3_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-3-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 3 - AN ACT TO RE-ARRANGE CERTAIN OFFICES AND SECRETARIES OF STATE TO FORM AN INTERIOR OFFICE MADE UP OF STAFF OF THE ENVIRONMENT OFFICE AND THE COLONIAL BRANCH OF THE FOREIGN AND COLONIAL OFFICE, TO SEVER THE BRANCH TO FORM THE FOREIGN AFFAIRS OFFICE, AND TO RE-ASSIGN THE SECRETARY OF STATE FOR FOREIGN AND COLONIAL AFFAIRS, AND THE SECRETARY OF STATE FOR THE ENVIRONMENT, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the consent of t [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_3_original {
+            get {
+                return ResourceManager.GetString("6john1-3-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 30 - AN ACT RESPECTING THE FIXED-TERM ELECTIONS OF MEMBERS OF PARLIAMENT AND FOR THE REPEAL OF THE TWENTY-SEVENTH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE SECOND YEAR OF THE REIGN OF KING JOHN, ESTABLISHING TWO DAYS AND AN INTERMEDIATE WEEK OF NATIONAL DAYS, REVERTING TO THE FIRST-PAST-THE-POST ELECTION SYSTEM AND FOR THE REPEAL OF THE NINETY-SEVENTH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN AND REGARDING THE BALANCE OF POWE [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_30_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-30-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 30 - AN ACT RESPECTING THE FIXED-TERM ELECTIONS OF MEMBERS OF PARLIAMENT AND FOR THE REPEAL OF THE TWENTY-SEVENTH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE SECOND YEAR OF THE REIGN OF KING JOHN, ESTABLISHING TWO DAYS AND AN INTERMEDIATE WEEK OF NATIONAL DAYS, REVERTING TO THE FIRST-PAST-THE-POST ELECTION SYSTEM AND FOR THE REPEAL OF THE NINETY-SEVENTH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE THIRD YEAR OF THE REIGN OF KING JOHN AND REGARDING THE BALANCE OF POWE [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_30_original {
+            get {
+                return ResourceManager.GetString("6john1-30-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT AMENDING THE THIRTIETH CHAPTER OF THE STATUTE OF THE PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Elections (Amendment) Act, 2023, Bill T6131.
+        ///2.   Section 3 of the Elections Act, 2023, shall be amended to read:
+        ///      Elections shall take place on 20 June, annually..
+        /// </summary>
+        internal static string _6john1_31_original {
+            get {
+                return ResourceManager.GetString("6john1-31-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 32 - AN ACT TO AMEND THE SUCCESSION LAW OF THE BAUSTRALIAN THRONE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Succession Law (Modifications, No. 2) Act, 2023, Bill C6181.
+        ///2.   The Succession Law (Modifications) Act, 6 John 1 c. 18’s short title shall be amended to read Succession Law (Modifications, No. 1) Act, and the following amendment [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_32_original {
+            get {
+                return ResourceManager.GetString("6john1-32-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 33 - AN ACT TO DISSOLVE THE EQUALITIES OFFICE AND INCORPORATE THE DUTIES OF THE EQUALITIES OFFICE INTO THE INTERIOR OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Secretaries of State (No. 4) Act, 2023, Bill C6191.
+        ///2.   Due to the ineffectiveness and waste of resources it is deemed to be, the Equalities Office is hereby dissolved.
+        ///3. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_33_original {
+            get {
+                return ResourceManager.GetString("6john1-33-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 34 - AN ACT TO REMOVE THE COLONIAL BOERCS, TO CHARTER THE ROYAL BAUSTRALIAN BANK, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Royal Bank of Baustralia Act, 2023, Bill T6141.
+        ///2.   The Ostrei Boerc shall be taken from circulation, and the Colony shall adopt Baustralian bills.
+        ///3.   The Wangatang Boerc shall be taken from circulation, and the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_34_original {
+            get {
+                return ResourceManager.GetString("6john1-34-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 35 - AN ACT TO CODIFY THE STATUS OF AIDES-DE-CAMP, AND AIDES-DE-CAMP TO THE SOVEREIGN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///
+        ///1.   This Act shall be known as the Aides-de-Camp Act, 2023, Bill T6151.
+        ///2.   Aides-de-Camp, or also known in His Majesty’s Royal Navy as Flag Lieutenants, are
+        /// a)   officers attached to the personal staff of a senior officer of His Majesty’s Baustralian Armed Forces,
+        /// b)   and serve as a communi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_35_original {
+            get {
+                return ResourceManager.GetString("6john1-35-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 36 - AN ACT TO DEFINE LEVELS OF CONFIDENTIALITY OF DOCUMENTS WITHIN THE KINGDOM OF BAUSTRALIA, THE EMPIRE, OR BY SUBJECTS OF THE EMPIRE ABROAD, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Official Secrets Act, 2023, T6161.
+        ///
+        ///PERSONNEL
+        ///
+        ///2.   Personnel accessing restricted documents must have appropriate clearance to view the material and  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_36_original {
+            get {
+                return ResourceManager.GetString("6john1-36-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 4 - AN ACT TO ENFORCE THE “PROCLAMATION OF A NEW ROYAL CROWN AS USED IN HERALDRY, AFTER THE ASSENCION OF CHARLES III AS KING OF THE UNITED KINGDOMS, AND HIS OTHER REALMS AND TERRITORIES, HEAD OF THE COMMONWEALTH, DEFENDER OF THE FAITH, AND THE PROSPECTIVE USE OF THE TUDOR CROWN IN BRITISH HERALDRY”, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty the following:-
+        ///1.   This Act shall be known as the Crown (Heraldry) Act, 2022, Bill T631.
+        ///2.   The new royal crown as [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_4_original {
+            get {
+                return ResourceManager.GetString("6john1-4-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 5 - AN ACT TO AUTHORIZE A REFERENDUM OF A FOURTH ARMORIAL ACHIEVEMENT OF THE KINGDOM OF BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the National Symbols (Referendum) Act, Bill C621.
+        ///2.   Upon enactment, a referendum of the following format shall be authorized to be conducted in the Kingdom of Baustralia. 
+        ///3.   The following quest [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_5_original {
+            get {
+                return ResourceManager.GetString("6john1-5-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 6 - AN ACT TO AUTHORIZE THE ASSUMPTION OF COUNTY ARMORIALS WITHIN THE KINGDOM OF BAUSTRALIA AS DESCRIBED IN THE FIFTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN I, TO CHANGE THE SHADE OF BLUE USED ON THE NATIONAL FLAG, TO REPEAL THE THIRD CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SECOND YEAR OF THE REIGN OF KING JOHN I, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the Cons [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_6_original {
+            get {
+                return ResourceManager.GetString("6john1-6-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 7 - AN ACT TO ENABLE HIS MOST GRACIOUS MAJESTY TO MAKE A MODIFICATION TO THE ROYAL STYLE AND TITLES RELATING TO THE REMOVAL OF THE REGNAL NUMBER
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Royal Titles Act, 2022, T641.
+        ///2.   The Royal Title and Style of His Majesty the King shall be proclaimed as follows:
+        /// a)   In English: His Majesty John, by the grace of God of Baustralia  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_7_original {
+            get {
+                return ResourceManager.GetString("6john1-7-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 8 - AN ACT TO DISSOLVE THE COUNTY OF DYNEXISTAN AND THE MUNICIPALITY OF KINGSDYNEXSHIRE, AND TO DISSOLVE THE CONSTITUENCY THEREIN, AND FOR OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted, by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Dynexistan Act, 2022, T651.
+        ///2.   The following entities will be dissolved:-
+        /// a)   The Constituency of Dynexistan
+        /// b)   The County of Dynexistan
+        /// c)   The Municipality of Kingsdynexshire.
+        /// </summary>
+        internal static string _6john1_8_original {
+            get {
+                return ResourceManager.GetString("6john1-8-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 9 - AN ACT TO ESTABLISH THE BREADTH OF AUTHORITY OF THE VARIOUS OFFICERS OF STATE WHO ARE MEMBERS OF THE CABINET AND TO RE-ESTABLISH THE DEFENCE OFFICE
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Secretaries of State (Offices) Act, 2022, Bill L611.
+        ///2.   3 John 1 c.98, s.27, is repealed with immediate effect.
+        ///3.   4 John 1 c. 36 has been spent, but the office remained uncodif [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_9_original {
+            get {
+                return ResourceManager.GetString("6john1-9-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap about {
@@ -1390,6 +4072,31 @@ namespace ActViewer.Properties {
             get {
                 object obj = ResourceManager.GetObject("amended", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1.   This Bill will be referred to as the Armed Forces Bill, C6101.
+        ///2.   No member of Parliament may actively serve in any branch of the Baustralian Armed Forces during their time in office.
+        /// a)   As such, current and future members of Parliament are hereby transferred to the Armed Forces’ reserves.
+        /// b)   Upon leaving office, former MPs remain in the reserves until they return to active service of their own volition or are called to active service by their commanding officer.
+        ///3.   Commanding officers ma [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string armedforcesbill1 {
+            get {
+                return ResourceManager.GetString("armedforcesbill1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1.   This Bill shall be referred to as the Armed Forces Bill, 2022-2023, C6101, L622.
+        ///2.   The Instruction Branch of the Baustralian Armed Forces is hereby formed for the purpose of establishing processes for the preparation and training of new and progressing service members.
+        /// a)   The Instruction Branch shall be headed by a Minister of State known as the Instructor-General who shall be appointed from among the officers of the Baustralian Armed Forces by the Secretary of State for Defence.
+        /// b)   As an i [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string armedforcesbill2 {
+            get {
+                return ResourceManager.GetString("armedforcesbill2", resourceCulture);
             }
         }
         
@@ -1464,6 +4171,70 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to TERMS
+        ///
+        ///1.   His Majesty John I by the Grace of God of Baustralia, the Dominions, King, Emperor of Ostreum shall hereby be deposed.
+        ///2.   His replacement shall be Admiral Doctor Sir John Stewart Timpson.
+        ///3.   John I shall hereby be addressed as Lieutenant Sir Jacob Patrick Caravaggio, Knight of the Gadus, His Royal Navy.
+        ///4.   This Act shall be known as the Monarchy Act, 2019.
+        ///
+        ///REGNAL TITLES
+        ///
+        ///5.   The King shall be known as His Majesty John II by the Grace of God of Baustralia, the Dominions, King, Em [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string monarchybill1 {
+            get {
+                return ResourceManager.GetString("monarchybill1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TERMS
+        ///
+        ///1.   His Majesty John I by the Grace of God of Baustralia, the Dominions, King, Emperor of Ostreum shall hereby be deposed.
+        ///2.   His replacement shall be Admiral Doctor Sir John Stewart Timpson.
+        ///3.   John I shall hereby be addressed as Lieutenant commander Sir Jacob Patrick Caravaggio, Knight of the Gadus, His Royal Navy, Commanding officer of HMS Promise (S5).
+        ///4.   This Act shall be known as the Monarchy Act, 2019.
+        ///
+        ///REGNAL TITLES
+        ///
+        ///5.   The King shall be known as His Majesty John II by the G [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string monarchybill2 {
+            get {
+                return ResourceManager.GetString("monarchybill2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TERMS
+        ///
+        ///1.   His Majesty John I by the Grace of God of Baustralia, the Dominions, King, Emperor of Ostreum shall hereby be deposed.
+        ///2.   His replacement shall be Admiral Doctor Sir John Stewart Timpson.
+        ///3.   John I shall hereby be addressed as Lieutenant commander Sir Jacob Patrick Caravaggio, Knight of the Gadus, His Royal Navy, Commanding officer of HMS Promise (S5).
+        ///4.   This Act shall be known as the Monarchy Act, 2019.
+        ///
+        ///REGNAL TITLES
+        ///
+        ///5.   The King shall be known as His Majesty John II by the G [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string monarchybill3 {
+            get {
+                return ResourceManager.GetString("monarchybill3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap noupdates {
+            get {
+                object obj = ResourceManager.GetObject("noupdates", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap open {
@@ -1509,6 +4280,16 @@ namespace ActViewer.Properties {
         internal static System.Drawing.Bitmap spent {
             get {
                 object obj = ResourceManager.GetObject("spent", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap updates {
+            get {
+                object obj = ResourceManager.GetObject("updates", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
