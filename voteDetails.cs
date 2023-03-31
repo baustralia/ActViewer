@@ -391,6 +391,23 @@ public class votes
                 ,     "└─────────────────┴─────────────────┘"};
                 return string.Join("\r\n", results);
             #endregion
+            #region 6 John 1 c. 39
+            case "6john1c39":
+                results = new string[]
+                    { "┌─────────────────┬─────────────────┐"
+                ,     "│   CONSERVATIVE  │     LIBERAL     │"
+                ,     "├─────────────────┴─────────────────┤"
+                ,     "│                AYES               │"
+                ,     "├─────────────────┬─────────────────┤"
+                ,     "│Sir O. Doig      │L. Perry-Ardens  │"
+                ,     "│M. Prasetia      │A. Calero        │"
+                ,     "│                 │A. Lacey-Scott   │"
+                ,     "│                 │M. Hughes        │"
+                ,     "│                 │Sir C. Burgardt  │"
+                ,     "│                 │C. Snyder        │"
+                ,     "└─────────────────┴─────────────────┘"};
+                return string.Join("\r\n", results);
+            #endregion
 
             #region Monarchy Bill (1st Reading)
             case "monarchybill1":

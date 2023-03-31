@@ -964,4 +964,25 @@
   <data name="monarchybill3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\monarchybill3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="6john1-37-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-37-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-38-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-38-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-39-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-39-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-33-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1c33original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="4john1-35-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4john1-35-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="5john1-7-amend1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5john1-7-amend1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="6john1-40-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6john1-40-original.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
 </root>

@@ -2779,6 +2779,33 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 33 - AN ACT TO REPEAL THE NINTY-SECOND CHAPTER OF THE THIRD YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Kapreburg Act, c. 33.
+        ///2.   3 John 1 c. 92 shall be repealed..
+        /// </summary>
+        internal static string _4john1_33_original {
+            get {
+                return ResourceManager.GetString("4john1-33-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 35 - AN ACT TO REPEAL THE SIXTY-SIXTH, AND ONE HUNDRED AND THIRD CHAPTERS OF THE THIRD YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Paloma Act, c. 35.
+        ///2.   3 John 1 c. 66 shall be repealed.
+        ///3.   3 John 1 c. 103 shall be repealed..
+        /// </summary>
+        internal static string _4john1_35_original {
+            get {
+                return ResourceManager.GetString("4john1-35-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 4 - AN ACT TO ESTABLISH MINIMUM LIMITS TO WAGES
         ///
         ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
@@ -3486,6 +3513,22 @@ namespace ActViewer.Properties {
         ///4.   This Act enables the restoration of the lost Acts of Parliament through research.
         ///5.   This Act shall serv [rest of string was truncated]&quot;;.
         /// </summary>
+        internal static string _5john1_7_amend1 {
+            get {
+                return ResourceManager.GetString("5john1-7-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 7 - AN ACT TO PERMIT THE RESTORATION OF ACTS OF PARLIAMENT DESTROYED BY VANDALISM, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, the following:
+        ///1.   This Act shall be known as the Restoration of Legislation Act, 2022.
+        ///2.   4 John 1 cc. 1-54 have been lost.
+        ///3.   5 John 1 cc. 2-6 have been lost.
+        ///4.   This Act enables the restoration of the lost Acts of Parliament through research.
+        ///5.   This Act shall serv [rest of string was truncated]&quot;;.
+        /// </summary>
         internal static string _5john1_7_original {
             get {
                 return ResourceManager.GetString("5john1-7-original", resourceCulture);
@@ -3974,6 +4017,49 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 37 - AN ACT TO PERMIT SPENDING OF THE TREASURY, REMUNERATION FOR THE CREATION OF A WEBSITE, FOR MAINTENANCE THEREOF, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty the following:-
+        ///
+        ///1.   This Act shall be known as the Website Act, 2023, T6171.
+        ///2.   The Treasury will dispense, for the purposes of creation and maintenance of a website, and email communications server for use by His Majesty’s Royal Government and entities connected thereto, the follow [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_37_original {
+            get {
+                return ResourceManager.GetString("6john1-37-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 38 - AN ACT TO ENABLE THE PUBLISHING OF ACTS OF PARLIAMENT IN A COMPUTER APPLICATION, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty the following:-
+        ///1.   This Act shall be known as the Acts of Parliament (Electronic Publishing) Act, 2023, T6181.
+        ///2.   Acts of Parliament will no longer be published as schedules to the Cascadian Gazette.
+        ///3.   Summaries of Acts of Parliament will be published in the place thereof.
+        ///4.   Full Acts of Parliament, includ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_38_original {
+            get {
+                return ResourceManager.GetString("6john1-38-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 39 - AN ACT TO PROVIDE FOR A NEW CLASS OF LORDS IN THE HOUSE OF LORDS, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be known as the Lords Appellant Act, C6201, 2023.
+        ///2.   Lords Appellant will form a new class of Lords in the House of Lords for the purpose of adjudicating appeals to the King-in-Parliament.
+        ///3.   The Lords Appellant will lose party affiliati [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_39_original {
+            get {
+                return ResourceManager.GetString("6john1-39-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 4 - AN ACT TO ENFORCE THE “PROCLAMATION OF A NEW ROYAL CROWN AS USED IN HERALDRY, AFTER THE ASSENCION OF CHARLES III AS KING OF THE UNITED KINGDOMS, AND HIS OTHER REALMS AND TERRITORIES, HEAD OF THE COMMONWEALTH, DEFENDER OF THE FAITH, AND THE PROSPECTIVE USE OF THE TUDOR CROWN IN BRITISH HERALDRY”, AND FOR PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted by His Most Gracious Majesty the following:-
@@ -3983,6 +4069,18 @@ namespace ActViewer.Properties {
         internal static string _6john1_4_original {
             get {
                 return ResourceManager.GetString("6john1-4-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 40 - AN ACT TO RESTORE THE THIRTY-THIRD AND THIRTY-FIFTH CHAPTERS OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FOURTH YEAR OF THE REIGN OF KING JOHN, TO AMEND THE SEVENTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE FIFTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the assistance of the Viscount Englewood, the following:-
+        ///1.   This Act shall be known as the Restoration of Legislation Act,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_40_original {
+            get {
+                return ResourceManager.GetString("6john1-40-original", resourceCulture);
             }
         }
         

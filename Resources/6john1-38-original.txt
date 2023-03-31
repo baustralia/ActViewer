@@ -1,0 +1,9 @@
+CHAPTER 38 - AN ACT TO ENABLE THE PUBLISHING OF ACTS OF PARLIAMENT IN A COMPUTER APPLICATION, AND FOR PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Gracious and Excellent Majesty the following:-
+1.   This Act shall be known as the Acts of Parliament (Electronic Publishing) Act, 2023, T6181.
+2.   Acts of Parliament will no longer be published as schedules to the Cascadian Gazette.
+3.   Summaries of Acts of Parliament will be published in the place thereof.
+4.   Full Acts of Parliament, including all revisions from enactment, will be published into a computer application entitled “ActViewer,” produced by the Communications Office, and published on the government website for distribution.
+5.   Bills which have failed, or which are pending, are also available on the program.
+6.   The program is to be updated every Thursday, as publications are required.
