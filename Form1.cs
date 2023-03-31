@@ -521,7 +521,7 @@ namespace ActViewer
                     break;
                 case "3john1c9":
                     formGen(9, "John 1", 3, "Repealed");
-                    displayTextBox.SelectedText = "Union with Quebec Act (Baustralia)\r\nIntroduced by the Minister for Spatial Exploration, Aidan McGrath.\r\nRepealed by 3 John 1 c. 18 (Union with Quebec (Repeal) Act (Baustralia)).\r\nAmended by 3 John 1 c. 13 (Union with Quebec (Modifications) Act (Baustralia)).\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Union with Quebec Act (Baustralia)\r\nIntroduced by the Minister for Foreign Affairs, Lord Wooler.\r\nRepealed by 3 John 1 c. 18 (Union with Quebec (Repeal) Act (Baustralia)).\r\nAmended by 3 John 1 c. 13 (Union with Quebec (Modifications) Act (Baustralia)).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 10
@@ -2356,7 +2356,7 @@ namespace ActViewer
                 #region 6 John 1
                 case "6john1":
                     longCitation.Text = formats[1];
-                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nBurgardt-Morris ministry (Coalition), 9/36)\r\nBurgardt ministry (Liberal), 10/36)\r\nDoig ministry (Conservative), 17/36)\r\n\r\n36 Acts of Parliament";
+                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nParker ministry (Conservative, 2/40)\r\nBurgardt-Morris ministry (Coalition), 7/40)\r\nBurgardt ministry (Liberal), 10/40)\r\nDoig ministry (Conservative), 21/40)\r\n\r\n40 Acts of Parliament";
                     selectionLabel.Text = "6 John 1";
                     break;
                 #region Chapter 1
