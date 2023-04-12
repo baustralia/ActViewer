@@ -38,7 +38,7 @@
             System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Chapter 3 - Succession Law (Modifications) Act", 5, 5, new System.Windows.Forms.TreeNode[] {
             treeNode5});
-            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("1 John 1", 0, 2, new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("1 John 1", 0, 0, new System.Windows.Forms.TreeNode[] {
             treeNode2,
             treeNode4,
             treeNode6});
@@ -146,7 +146,7 @@
             System.Windows.Forms.TreeNode treeNode73 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode74 = new System.Windows.Forms.TreeNode("Chapter 30 - Military Law Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode73});
-            System.Windows.Forms.TreeNode treeNode75 = new System.Windows.Forms.TreeNode("2 John 1", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode75 = new System.Windows.Forms.TreeNode("2 John 1", 0, 0, new System.Windows.Forms.TreeNode[] {
             treeNode9,
             treeNode15,
             treeNode17,
@@ -304,7 +304,7 @@
             System.Windows.Forms.TreeNode treeNode157 = new System.Windows.Forms.TreeNode("Chapter 38 - Fox Islands Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode156});
             System.Windows.Forms.TreeNode treeNode158 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode159 = new System.Windows.Forms.TreeNode("Chapter 39 - National Symbols Act (Fox Islands)", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode159 = new System.Windows.Forms.TreeNode("Chapter 39 - National Symbols Act (Fox Islands)", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode158});
             System.Windows.Forms.TreeNode treeNode160 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode161 = new System.Windows.Forms.TreeNode("Chapter 40 - Oaths Act", 6, 6, new System.Windows.Forms.TreeNode[] {
@@ -334,7 +334,7 @@
             treeNode175});
             System.Windows.Forms.TreeNode treeNode177 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode178 = new System.Windows.Forms.TreeNode("As amended by 3 John 1 c. 103", 8, 8);
-            System.Windows.Forms.TreeNode treeNode179 = new System.Windows.Forms.TreeNode("Chapter 48 - Persona Non-Grata (McGrath, No. 1) Act", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode179 = new System.Windows.Forms.TreeNode("Chapter 48 - Persona Non-Grata (McGrath, No. 1) Act", 5, 5, new System.Windows.Forms.TreeNode[] {
             treeNode177,
             treeNode178});
             System.Windows.Forms.TreeNode treeNode180 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
@@ -457,7 +457,7 @@
             System.Windows.Forms.TreeNode treeNode258 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode259 = new System.Windows.Forms.TreeNode("Chapter 88 - Persona Non-Grata Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode258});
-            System.Windows.Forms.TreeNode treeNode260 = new System.Windows.Forms.TreeNode("Chapter 89 - Prostitution (Legalization) Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode260 = new System.Windows.Forms.TreeNode("Chapter 89 - Prostitution (Legalization) Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode261 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode262 = new System.Windows.Forms.TreeNode("Chapter 90 - Discriminatory Groups Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode261});
@@ -506,7 +506,7 @@
             System.Windows.Forms.TreeNode treeNode291 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode292 = new System.Windows.Forms.TreeNode("Chapter 105 - Citizenship Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode291});
-            System.Windows.Forms.TreeNode treeNode293 = new System.Windows.Forms.TreeNode("3 John 1", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode293 = new System.Windows.Forms.TreeNode("3 John 1", 0, 0, new System.Windows.Forms.TreeNode[] {
             treeNode77,
             treeNode79,
             treeNode81,
@@ -641,41 +641,41 @@
             System.Windows.Forms.TreeNode treeNode311 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode312 = new System.Windows.Forms.TreeNode("Chapter 9 - Manslaughter Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode311});
-            System.Windows.Forms.TreeNode treeNode313 = new System.Windows.Forms.TreeNode("Chapter 10 - COVID-19 Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode314 = new System.Windows.Forms.TreeNode("Chapter 11 - Constituencies Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode315 = new System.Windows.Forms.TreeNode("Chapter 12 - House of Lords (Influence) Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode313 = new System.Windows.Forms.TreeNode("Chapter 10 - COVID-19 Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode314 = new System.Windows.Forms.TreeNode("Chapter 11 - Constituencies Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode315 = new System.Windows.Forms.TreeNode("Chapter 12 - House of Lords (Influence) Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode316 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode317 = new System.Windows.Forms.TreeNode("Chapter 13 - House of Lords (Powers) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode316});
-            System.Windows.Forms.TreeNode treeNode318 = new System.Windows.Forms.TreeNode("Chapter 14 - House of Lords (Majorities) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode319 = new System.Windows.Forms.TreeNode("Chapter 15 - House of Lords Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode318 = new System.Windows.Forms.TreeNode("Chapter 14 - House of Lords (Majorities) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode319 = new System.Windows.Forms.TreeNode("Chapter 15 - House of Lords Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode320 = new System.Windows.Forms.TreeNode("Node10", 8, 8);
             System.Windows.Forms.TreeNode treeNode321 = new System.Windows.Forms.TreeNode("Chapter 16 - Official Secrets Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode320});
-            System.Windows.Forms.TreeNode treeNode322 = new System.Windows.Forms.TreeNode("Chapter 17 - Freedom of Information Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode322 = new System.Windows.Forms.TreeNode("Chapter 17 - Freedom of Information Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode323 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode324 = new System.Windows.Forms.TreeNode("Chapter 18 - Citation (Succession Law) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode323});
             System.Windows.Forms.TreeNode treeNode325 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode326 = new System.Windows.Forms.TreeNode("Chapter 19 - Mission of the Cupertino Alliance (Ratification) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode325});
-            System.Windows.Forms.TreeNode treeNode327 = new System.Windows.Forms.TreeNode("Chapter 20 - Constituencies (No. 2) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode328 = new System.Windows.Forms.TreeNode("Chapter 21 - Tri-Citizenship Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode329 = new System.Windows.Forms.TreeNode("Chapter 22 - Identification Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode327 = new System.Windows.Forms.TreeNode("Chapter 20 - Constituencies (No. 2) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode328 = new System.Windows.Forms.TreeNode("Chapter 21 - Tri-Citizenship Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode329 = new System.Windows.Forms.TreeNode("Chapter 22 - Identification Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode330 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode331 = new System.Windows.Forms.TreeNode("Chapter 23 - National Sales Tax Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode330});
             System.Windows.Forms.TreeNode treeNode332 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode333 = new System.Windows.Forms.TreeNode("Chapter 24 - Corporate Tax Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode332});
-            System.Windows.Forms.TreeNode treeNode334 = new System.Windows.Forms.TreeNode("Chapter 25 - Organized Crime Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode334 = new System.Windows.Forms.TreeNode("Chapter 25 - Organized Crime Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode335 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode336 = new System.Windows.Forms.TreeNode("Chapter 26 - Treaty of Rajagriha (Ratification) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode335});
             System.Windows.Forms.TreeNode treeNode337 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode338 = new System.Windows.Forms.TreeNode("Chapter 27 - Tax Crime Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode337});
-            System.Windows.Forms.TreeNode treeNode339 = new System.Windows.Forms.TreeNode("Chapter 28 - Motion Picture and Television Ratings Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode339 = new System.Windows.Forms.TreeNode("Chapter 28 - Motion Picture and Television Ratings Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode340 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode341 = new System.Windows.Forms.TreeNode("Chapter 29 - Currency and Banknotes Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode340});
@@ -685,19 +685,19 @@
             System.Windows.Forms.TreeNode treeNode344 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode345 = new System.Windows.Forms.TreeNode("Chapter 31 - Weights and Measures Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode344});
-            System.Windows.Forms.TreeNode treeNode346 = new System.Windows.Forms.TreeNode("Chapter 32 - Peerage (Disclamation) Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode346 = new System.Windows.Forms.TreeNode("Chapter 32 - Peerage (Disclamation) Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode347 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode348 = new System.Windows.Forms.TreeNode("Chapter 33 - Kapreburg Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode347});
-            System.Windows.Forms.TreeNode treeNode349 = new System.Windows.Forms.TreeNode("Chapter 34 - Orders-in-Council Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode349 = new System.Windows.Forms.TreeNode("Chapter 34 - Orders-in-Council Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode350 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode351 = new System.Windows.Forms.TreeNode("Chapter 35 - Paloma Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode350});
-            System.Windows.Forms.TreeNode treeNode352 = new System.Windows.Forms.TreeNode("Chapter 36 - Secretary of State Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode353 = new System.Windows.Forms.TreeNode("Chapter 37 - Princetin Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode354 = new System.Windows.Forms.TreeNode("Chapter 38 - National Symbols (Princetin) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode355 = new System.Windows.Forms.TreeNode("Chapter 39 - Holderton (Symbols) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode356 = new System.Windows.Forms.TreeNode("Chapter 40 - Holderton Herald Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode352 = new System.Windows.Forms.TreeNode("Chapter 36 - Secretary of State Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode353 = new System.Windows.Forms.TreeNode("Chapter 37 - Princetin Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode354 = new System.Windows.Forms.TreeNode("Chapter 38 - National Symbols (Princetin) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode355 = new System.Windows.Forms.TreeNode("Chapter 39 - Holderton (Symbols) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode356 = new System.Windows.Forms.TreeNode("Chapter 40 - Holderton Herald Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode357 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode358 = new System.Windows.Forms.TreeNode("Chapter 41 - Ostreum (Reorganization) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode357});
@@ -707,24 +707,24 @@
             System.Windows.Forms.TreeNode treeNode361 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode362 = new System.Windows.Forms.TreeNode("Chapter 43 - National Symbols (Ostreum) Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode361});
-            System.Windows.Forms.TreeNode treeNode363 = new System.Windows.Forms.TreeNode("Chapter 44 - Princetin (Referendum) Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode363 = new System.Windows.Forms.TreeNode("Chapter 44 - Princetin (Referendum) Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode364 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode365 = new System.Windows.Forms.TreeNode("Chapter 45 - Paloma City Agreement (Ratification) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode364});
-            System.Windows.Forms.TreeNode treeNode366 = new System.Windows.Forms.TreeNode("Chapter 46 - Baustralian Antarctic Territory Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode367 = new System.Windows.Forms.TreeNode("Chapter 47 - New Princetin Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode368 = new System.Windows.Forms.TreeNode("Chapter 48 - National Symbols (New Princetin) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode369 = new System.Windows.Forms.TreeNode("Chapter 49 - Paloma City Agreement (Modification) Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode366 = new System.Windows.Forms.TreeNode("Chapter 46 - Baustralian Antarctic Territory Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode367 = new System.Windows.Forms.TreeNode("Chapter 47 - New Princetin Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode368 = new System.Windows.Forms.TreeNode("Chapter 48 - National Symbols (New Princetin) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode369 = new System.Windows.Forms.TreeNode("Chapter 49 - Paloma City Agreement (Modification) Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode370 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode371 = new System.Windows.Forms.TreeNode("Chapter 50 - Oaths Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode370});
-            System.Windows.Forms.TreeNode treeNode372 = new System.Windows.Forms.TreeNode("Chapter 51 - Blackmail Act", 11, 11);
+            System.Windows.Forms.TreeNode treeNode372 = new System.Windows.Forms.TreeNode("Chapter 51 - Blackmail Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode373 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode374 = new System.Windows.Forms.TreeNode("Chapter 52 - Imperial Boundries Act", 5, 5, new System.Windows.Forms.TreeNode[] {
             treeNode373});
-            System.Windows.Forms.TreeNode treeNode375 = new System.Windows.Forms.TreeNode("Chapter 53 - Constituencies (No. 3) Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode376 = new System.Windows.Forms.TreeNode("Chapter 54 - Imperial Constituencies Act", 11, 11);
-            System.Windows.Forms.TreeNode treeNode377 = new System.Windows.Forms.TreeNode("4 John 1", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode375 = new System.Windows.Forms.TreeNode("Chapter 53 - Constituencies (No. 3) Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode376 = new System.Windows.Forms.TreeNode("Chapter 54 - Imperial Constituencies Act", 9, 9);
+            System.Windows.Forms.TreeNode treeNode377 = new System.Windows.Forms.TreeNode("4 John 1", 0, 0, new System.Windows.Forms.TreeNode[] {
             treeNode296,
             treeNode298,
             treeNode300,
@@ -789,7 +789,7 @@
             System.Windows.Forms.TreeNode treeNode383 = new System.Windows.Forms.TreeNode("Chapter 2 - National Routes Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode381,
             treeNode382});
-            System.Windows.Forms.TreeNode treeNode384 = new System.Windows.Forms.TreeNode("Chapter 3 - Land Administration Act");
+            System.Windows.Forms.TreeNode treeNode384 = new System.Windows.Forms.TreeNode("Chapter 3 - Land Administration Act", 9, 9);
             System.Windows.Forms.TreeNode treeNode385 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode386 = new System.Windows.Forms.TreeNode("Chapter 4 - Routes (Ostreum) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode385});
@@ -898,7 +898,7 @@
             System.Windows.Forms.TreeNode treeNode454 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
             System.Windows.Forms.TreeNode treeNode455 = new System.Windows.Forms.TreeNode("Chapter 37 - Vienna Act", 6, 6, new System.Windows.Forms.TreeNode[] {
             treeNode454});
-            System.Windows.Forms.TreeNode treeNode456 = new System.Windows.Forms.TreeNode("5 John 1", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode456 = new System.Windows.Forms.TreeNode("5 John 1", 0, 0, new System.Windows.Forms.TreeNode[] {
             treeNode380,
             treeNode383,
             treeNode384,
@@ -1045,24 +1045,32 @@
             System.Windows.Forms.TreeNode treeNode527 = new System.Windows.Forms.TreeNode("Chapter 34 - Royal Bank of Baustralia Act", 4, 4, new System.Windows.Forms.TreeNode[] {
             treeNode526});
             System.Windows.Forms.TreeNode treeNode528 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode529 = new System.Windows.Forms.TreeNode("Chapter 35 - Aides-de-Camp Act", 4, 4, new System.Windows.Forms.TreeNode[] {
-            treeNode528});
-            System.Windows.Forms.TreeNode treeNode530 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode531 = new System.Windows.Forms.TreeNode("Chapter 36 - Official Secrets Act", 4, 4, new System.Windows.Forms.TreeNode[] {
-            treeNode530});
-            System.Windows.Forms.TreeNode treeNode532 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode533 = new System.Windows.Forms.TreeNode("Chapter 37 - Website Act", 6, 6, new System.Windows.Forms.TreeNode[] {
-            treeNode532});
-            System.Windows.Forms.TreeNode treeNode534 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode535 = new System.Windows.Forms.TreeNode("Chapter 38 - Acts of Parliament (Electronic Publishing) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
-            treeNode534});
-            System.Windows.Forms.TreeNode treeNode536 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode537 = new System.Windows.Forms.TreeNode("Chapter 39 - Lords Appellant Act", 6, 6, new System.Windows.Forms.TreeNode[] {
-            treeNode536});
-            System.Windows.Forms.TreeNode treeNode538 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
-            System.Windows.Forms.TreeNode treeNode539 = new System.Windows.Forms.TreeNode("Chapter 40 - Restoration of Legislation Act", new System.Windows.Forms.TreeNode[] {
-            treeNode538});
-            System.Windows.Forms.TreeNode treeNode540 = new System.Windows.Forms.TreeNode("6 John 1", 1, 2, new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode529 = new System.Windows.Forms.TreeNode("As amended by 6 John 1 c. 42", 8, 8);
+            System.Windows.Forms.TreeNode treeNode530 = new System.Windows.Forms.TreeNode("Chapter 35 - Aides-de-Camp Act", 7, 7, new System.Windows.Forms.TreeNode[] {
+            treeNode528,
+            treeNode529});
+            System.Windows.Forms.TreeNode treeNode531 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode532 = new System.Windows.Forms.TreeNode("Chapter 36 - Official Secrets Act", 4, 4, new System.Windows.Forms.TreeNode[] {
+            treeNode531});
+            System.Windows.Forms.TreeNode treeNode533 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode534 = new System.Windows.Forms.TreeNode("Chapter 37 - Website Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode533});
+            System.Windows.Forms.TreeNode treeNode535 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode536 = new System.Windows.Forms.TreeNode("Chapter 38 - Acts of Parliament (Electronic Publishing) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode535});
+            System.Windows.Forms.TreeNode treeNode537 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode538 = new System.Windows.Forms.TreeNode("Chapter 39 - Lords Appellant Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode537});
+            System.Windows.Forms.TreeNode treeNode539 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode540 = new System.Windows.Forms.TreeNode("Chapter 40 - Restoration of Legislation Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode539});
+            System.Windows.Forms.TreeNode treeNode541 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode542 = new System.Windows.Forms.TreeNode("Chapter 41 - Foreign Decorations (Armed Forces) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode541});
+            System.Windows.Forms.TreeNode treeNode543 = new System.Windows.Forms.TreeNode("As originally enacted", 8, 8);
+            System.Windows.Forms.TreeNode treeNode544 = new System.Windows.Forms.TreeNode("Chapter 42 - Aides-de-Camp (Commodores and Brigadiers) Act", 6, 6, new System.Windows.Forms.TreeNode[] {
+            treeNode543});
+            System.Windows.Forms.TreeNode treeNode545 = new System.Windows.Forms.TreeNode("6 John 1", 1, 0, new System.Windows.Forms.TreeNode[] {
             treeNode458,
             treeNode460,
             treeNode462,
@@ -1097,37 +1105,36 @@
             treeNode523,
             treeNode525,
             treeNode527,
-            treeNode529,
-            treeNode531,
-            treeNode533,
-            treeNode535,
-            treeNode537,
-            treeNode539});
-            System.Windows.Forms.TreeNode treeNode541 = new System.Windows.Forms.TreeNode("Bill C14 (1st reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode542 = new System.Windows.Forms.TreeNode("Bill C16 (2nd reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode543 = new System.Windows.Forms.TreeNode("Bill C71 (3rd reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode544 = new System.Windows.Forms.TreeNode("Bill C6201 (1st reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode545 = new System.Windows.Forms.TreeNode("Lords Appellant Bill", 9, 9, new System.Windows.Forms.TreeNode[] {
-            treeNode544});
-            System.Windows.Forms.TreeNode treeNode546 = new System.Windows.Forms.TreeNode("Monarchy Bill", 3, 3, new System.Windows.Forms.TreeNode[] {
-            treeNode541,
+            treeNode530,
+            treeNode532,
+            treeNode534,
+            treeNode536,
+            treeNode538,
+            treeNode540,
             treeNode542,
-            treeNode543,
-            treeNode545});
-            System.Windows.Forms.TreeNode treeNode547 = new System.Windows.Forms.TreeNode("Bill C6101 (1st reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode548 = new System.Windows.Forms.TreeNode("Bill L622 (2nd reading)", 8, 8);
-            System.Windows.Forms.TreeNode treeNode549 = new System.Windows.Forms.TreeNode("Armed Forces Bill", 9, 9, new System.Windows.Forms.TreeNode[] {
+            treeNode544});
+            System.Windows.Forms.TreeNode treeNode546 = new System.Windows.Forms.TreeNode("Bill C14 (1st reading)", 8, 8);
+            System.Windows.Forms.TreeNode treeNode547 = new System.Windows.Forms.TreeNode("Bill C16 (2nd reading)", 8, 8);
+            System.Windows.Forms.TreeNode treeNode548 = new System.Windows.Forms.TreeNode("Bill C71 (3rd reading)", 8, 8);
+            System.Windows.Forms.TreeNode treeNode549 = new System.Windows.Forms.TreeNode("Monarchy Bill", 3, 3, new System.Windows.Forms.TreeNode[] {
+            treeNode546,
             treeNode547,
             treeNode548});
-            System.Windows.Forms.TreeNode treeNode550 = new System.Windows.Forms.TreeNode("Bills of Parliament", 1, 2, new System.Windows.Forms.TreeNode[] {
-            treeNode546,
-            treeNode549});
+            System.Windows.Forms.TreeNode treeNode550 = new System.Windows.Forms.TreeNode("Bill C6101 (1st reading)", 8, 8);
+            System.Windows.Forms.TreeNode treeNode551 = new System.Windows.Forms.TreeNode("Bill L622 (2nd reading)", 8, 8);
+            System.Windows.Forms.TreeNode treeNode552 = new System.Windows.Forms.TreeNode("Armed Forces Bill", 11, 11, new System.Windows.Forms.TreeNode[] {
+            treeNode550,
+            treeNode551});
+            System.Windows.Forms.TreeNode treeNode553 = new System.Windows.Forms.TreeNode("Bills of Parliament", 1, 0, new System.Windows.Forms.TreeNode[] {
+            treeNode549,
+            treeNode552});
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.treeView1 = new System.Windows.Forms.TreeView();
-            this.listIcons = new System.Windows.Forms.ImageList(this.components);
+            this.newIcons = new System.Windows.Forms.ImageList(this.components);
             this.displayTextBox = new System.Windows.Forms.RichTextBox();
             this.longCitation = new System.Windows.Forms.Label();
+            this.listIcons = new System.Windows.Forms.ImageList(this.components);
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.exportActiveDocumentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -1137,7 +1144,9 @@
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.filterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.inForceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.repealedOrSpentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.repealedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.spentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.allToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -1150,6 +1159,7 @@
             this.versionLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripSplitButton1 = new System.Windows.Forms.ToolStripSplitButton();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -1176,7 +1186,7 @@
             this.splitContainer1.Panel2.Controls.Add(this.longCitation);
             this.splitContainer1.Panel2MinSize = 13;
             this.splitContainer1.Size = new System.Drawing.Size(1370, 700);
-            this.splitContainer1.SplitterDistance = 503;
+            this.splitContainer1.SplitterDistance = 477;
             this.splitContainer1.TabIndex = 0;
             // 
             // treeView1
@@ -1184,7 +1194,7 @@
             this.treeView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treeView1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.treeView1.ImageIndex = 0;
-            this.treeView1.ImageList = this.listIcons;
+            this.treeView1.ImageList = this.newIcons;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.treeView1.Name = "treeView1";
@@ -1218,7 +1228,7 @@
             treeNode7.Checked = true;
             treeNode7.ImageIndex = 0;
             treeNode7.Name = "1John1";
-            treeNode7.SelectedImageIndex = 2;
+            treeNode7.SelectedImageIndex = 0;
             treeNode7.Text = "1 John 1";
             treeNode8.ImageIndex = 8;
             treeNode8.Name = "2john1c1original";
@@ -1518,8 +1528,9 @@
             treeNode74.Name = "2john1c30";
             treeNode74.SelectedImageIndex = 4;
             treeNode74.Text = "Chapter 30 - Military Law Act";
+            treeNode75.ImageIndex = 0;
             treeNode75.Name = "2John1";
-            treeNode75.SelectedImageIndex = 2;
+            treeNode75.SelectedImageIndex = 0;
             treeNode75.Text = "2 John 1";
             treeNode76.ImageIndex = 8;
             treeNode76.Name = "3john1c1original";
@@ -1891,7 +1902,7 @@
             treeNode158.SelectedImageIndex = 8;
             treeNode158.Text = "As originally enacted";
             treeNode159.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(232)))), ((int)(((byte)(255)))));
-            treeNode159.ImageKey = "in force.png";
+            treeNode159.ImageIndex = 4;
             treeNode159.Name = "3john1c39";
             treeNode159.SelectedImageIndex = 4;
             treeNode159.Text = "Chapter 39 - National Symbols Act (Fox Islands)";
@@ -1980,7 +1991,7 @@
             treeNode178.SelectedImageIndex = 8;
             treeNode178.Text = "As amended by 3 John 1 c. 103";
             treeNode179.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(232)))), ((int)(((byte)(255)))));
-            treeNode179.ImageKey = "repealed.png";
+            treeNode179.ImageIndex = 5;
             treeNode179.Name = "3john1c48";
             treeNode179.SelectedImageIndex = 5;
             treeNode179.Text = "Chapter 48 - Persona Non-Grata (McGrath, No. 1) Act";
@@ -2346,9 +2357,9 @@
             treeNode259.Text = "Chapter 88 - Persona Non-Grata Act";
             treeNode260.BackColor = System.Drawing.Color.Black;
             treeNode260.ForeColor = System.Drawing.Color.White;
-            treeNode260.ImageIndex = 11;
+            treeNode260.ImageIndex = 9;
             treeNode260.Name = "3john1c89";
-            treeNode260.SelectedImageIndex = 11;
+            treeNode260.SelectedImageIndex = 9;
             treeNode260.Text = "Chapter 89 - Prostitution (Legalization) Act";
             treeNode261.ImageIndex = 8;
             treeNode261.Name = "3john1c90original";
@@ -2494,8 +2505,9 @@
             treeNode292.Name = "3john1c105";
             treeNode292.SelectedImageIndex = 4;
             treeNode292.Text = "Chapter 105 - Citizenship Act";
+            treeNode293.ImageIndex = 0;
             treeNode293.Name = "3John1";
-            treeNode293.SelectedImageIndex = 2;
+            treeNode293.SelectedImageIndex = 0;
             treeNode293.Text = "3 John 1";
             treeNode294.ImageIndex = 8;
             treeNode294.Name = "4john1c1original";
@@ -2584,21 +2596,21 @@
             treeNode312.Text = "Chapter 9 - Manslaughter Act";
             treeNode313.BackColor = System.Drawing.Color.Black;
             treeNode313.ForeColor = System.Drawing.Color.White;
-            treeNode313.ImageIndex = 11;
+            treeNode313.ImageIndex = 9;
             treeNode313.Name = "4john1c10";
-            treeNode313.SelectedImageIndex = 11;
+            treeNode313.SelectedImageIndex = 9;
             treeNode313.Text = "Chapter 10 - COVID-19 Act";
             treeNode314.BackColor = System.Drawing.Color.Black;
             treeNode314.ForeColor = System.Drawing.Color.White;
-            treeNode314.ImageIndex = 11;
+            treeNode314.ImageIndex = 9;
             treeNode314.Name = "4john1c11";
-            treeNode314.SelectedImageIndex = 11;
+            treeNode314.SelectedImageIndex = 9;
             treeNode314.Text = "Chapter 11 - Constituencies Act";
             treeNode315.BackColor = System.Drawing.Color.Black;
             treeNode315.ForeColor = System.Drawing.Color.White;
-            treeNode315.ImageIndex = 11;
+            treeNode315.ImageIndex = 9;
             treeNode315.Name = "4john1c12";
-            treeNode315.SelectedImageIndex = 11;
+            treeNode315.SelectedImageIndex = 9;
             treeNode315.Text = "Chapter 12 - House of Lords (Influence) Act";
             treeNode316.ImageIndex = 8;
             treeNode316.Name = "4john1c13original";
@@ -2611,15 +2623,15 @@
             treeNode317.Text = "Chapter 13 - House of Lords (Powers) Act";
             treeNode318.BackColor = System.Drawing.Color.Black;
             treeNode318.ForeColor = System.Drawing.Color.White;
-            treeNode318.ImageIndex = 11;
+            treeNode318.ImageIndex = 9;
             treeNode318.Name = "4john1c14";
-            treeNode318.SelectedImageIndex = 11;
+            treeNode318.SelectedImageIndex = 9;
             treeNode318.Text = "Chapter 14 - House of Lords (Majorities) Act";
             treeNode319.BackColor = System.Drawing.Color.Black;
             treeNode319.ForeColor = System.Drawing.Color.White;
-            treeNode319.ImageIndex = 11;
+            treeNode319.ImageIndex = 9;
             treeNode319.Name = "4john1c15";
-            treeNode319.SelectedImageIndex = 11;
+            treeNode319.SelectedImageIndex = 9;
             treeNode319.Text = "Chapter 15 - House of Lords Act";
             treeNode320.ImageIndex = 8;
             treeNode320.Name = "4john1c16original";
@@ -2632,9 +2644,9 @@
             treeNode321.Text = "Chapter 16 - Official Secrets Act";
             treeNode322.BackColor = System.Drawing.Color.Black;
             treeNode322.ForeColor = System.Drawing.Color.White;
-            treeNode322.ImageIndex = 11;
+            treeNode322.ImageIndex = 9;
             treeNode322.Name = "4john1c17";
-            treeNode322.SelectedImageIndex = 11;
+            treeNode322.SelectedImageIndex = 9;
             treeNode322.Text = "Chapter 17 - Freedom of Information Act";
             treeNode323.ImageIndex = 8;
             treeNode323.Name = "4john1c18original";
@@ -2656,21 +2668,21 @@
             treeNode326.Text = "Chapter 19 - Mission of the Cupertino Alliance (Ratification) Act";
             treeNode327.BackColor = System.Drawing.Color.Black;
             treeNode327.ForeColor = System.Drawing.Color.White;
-            treeNode327.ImageIndex = 11;
+            treeNode327.ImageIndex = 9;
             treeNode327.Name = "4john1c20";
-            treeNode327.SelectedImageIndex = 11;
+            treeNode327.SelectedImageIndex = 9;
             treeNode327.Text = "Chapter 20 - Constituencies (No. 2) Act";
             treeNode328.BackColor = System.Drawing.Color.Black;
             treeNode328.ForeColor = System.Drawing.Color.White;
-            treeNode328.ImageIndex = 11;
+            treeNode328.ImageIndex = 9;
             treeNode328.Name = "4john1c21";
-            treeNode328.SelectedImageIndex = 11;
+            treeNode328.SelectedImageIndex = 9;
             treeNode328.Text = "Chapter 21 - Tri-Citizenship Act";
             treeNode329.BackColor = System.Drawing.Color.Black;
             treeNode329.ForeColor = System.Drawing.Color.White;
-            treeNode329.ImageIndex = 11;
+            treeNode329.ImageIndex = 9;
             treeNode329.Name = "4john1c22";
-            treeNode329.SelectedImageIndex = 11;
+            treeNode329.SelectedImageIndex = 9;
             treeNode329.Text = "Chapter 22 - Identification Act";
             treeNode330.ImageIndex = 8;
             treeNode330.Name = "4john1c23original";
@@ -2692,9 +2704,9 @@
             treeNode333.Text = "Chapter 24 - Corporate Tax Act";
             treeNode334.BackColor = System.Drawing.Color.Black;
             treeNode334.ForeColor = System.Drawing.Color.White;
-            treeNode334.ImageIndex = 11;
+            treeNode334.ImageIndex = 9;
             treeNode334.Name = "4john1c25";
-            treeNode334.SelectedImageIndex = 11;
+            treeNode334.SelectedImageIndex = 9;
             treeNode334.Text = "Chapter 25 - Organized Crime Act";
             treeNode335.ImageIndex = 8;
             treeNode335.Name = "4john1c26original";
@@ -2716,9 +2728,9 @@
             treeNode338.Text = "Chapter 27 - Tax Crime Act";
             treeNode339.BackColor = System.Drawing.Color.Black;
             treeNode339.ForeColor = System.Drawing.Color.White;
-            treeNode339.ImageIndex = 11;
+            treeNode339.ImageIndex = 9;
             treeNode339.Name = "4john1c28";
-            treeNode339.SelectedImageIndex = 11;
+            treeNode339.SelectedImageIndex = 9;
             treeNode339.Text = "Chapter 28 - Motion Picture and Television Ratings Act";
             treeNode340.ImageIndex = 8;
             treeNode340.Name = "4john1c29original";
@@ -2749,9 +2761,9 @@
             treeNode345.Text = "Chapter 31 - Weights and Measures Act";
             treeNode346.BackColor = System.Drawing.Color.Black;
             treeNode346.ForeColor = System.Drawing.Color.White;
-            treeNode346.ImageIndex = 11;
+            treeNode346.ImageIndex = 9;
             treeNode346.Name = "4john1c32";
-            treeNode346.SelectedImageIndex = 11;
+            treeNode346.SelectedImageIndex = 9;
             treeNode346.Text = "Chapter 32 - Peerage (Disclamation) Act";
             treeNode347.ImageIndex = 8;
             treeNode347.Name = "4john1c33original";
@@ -2764,9 +2776,9 @@
             treeNode348.Text = "Chapter 33 - Kapreburg Act";
             treeNode349.BackColor = System.Drawing.Color.Black;
             treeNode349.ForeColor = System.Drawing.Color.White;
-            treeNode349.ImageIndex = 11;
+            treeNode349.ImageIndex = 9;
             treeNode349.Name = "4john1c34";
-            treeNode349.SelectedImageIndex = 11;
+            treeNode349.SelectedImageIndex = 9;
             treeNode349.Text = "Chapter 34 - Orders-in-Council Act";
             treeNode350.ImageIndex = 8;
             treeNode350.Name = "4john1c35original";
@@ -2779,33 +2791,33 @@
             treeNode351.Text = "Chapter 35 - Paloma Act";
             treeNode352.BackColor = System.Drawing.Color.Black;
             treeNode352.ForeColor = System.Drawing.Color.White;
-            treeNode352.ImageIndex = 11;
+            treeNode352.ImageIndex = 9;
             treeNode352.Name = "4john1c36";
-            treeNode352.SelectedImageIndex = 11;
+            treeNode352.SelectedImageIndex = 9;
             treeNode352.Text = "Chapter 36 - Secretary of State Act";
             treeNode353.BackColor = System.Drawing.Color.Black;
             treeNode353.ForeColor = System.Drawing.Color.White;
-            treeNode353.ImageIndex = 11;
+            treeNode353.ImageIndex = 9;
             treeNode353.Name = "4john1c37";
-            treeNode353.SelectedImageIndex = 11;
+            treeNode353.SelectedImageIndex = 9;
             treeNode353.Text = "Chapter 37 - Princetin Act";
             treeNode354.BackColor = System.Drawing.Color.Black;
             treeNode354.ForeColor = System.Drawing.Color.White;
-            treeNode354.ImageIndex = 11;
+            treeNode354.ImageIndex = 9;
             treeNode354.Name = "4john1c38";
-            treeNode354.SelectedImageIndex = 11;
+            treeNode354.SelectedImageIndex = 9;
             treeNode354.Text = "Chapter 38 - National Symbols (Princetin) Act";
             treeNode355.BackColor = System.Drawing.Color.Black;
             treeNode355.ForeColor = System.Drawing.Color.White;
-            treeNode355.ImageIndex = 11;
+            treeNode355.ImageIndex = 9;
             treeNode355.Name = "4john1c39";
-            treeNode355.SelectedImageIndex = 11;
+            treeNode355.SelectedImageIndex = 9;
             treeNode355.Text = "Chapter 39 - Holderton (Symbols) Act";
             treeNode356.BackColor = System.Drawing.Color.Black;
             treeNode356.ForeColor = System.Drawing.Color.White;
-            treeNode356.ImageIndex = 11;
+            treeNode356.ImageIndex = 9;
             treeNode356.Name = "4john1c40";
-            treeNode356.SelectedImageIndex = 11;
+            treeNode356.SelectedImageIndex = 9;
             treeNode356.Text = "Chapter 40 - Holderton Herald Act";
             treeNode357.ImageIndex = 8;
             treeNode357.Name = "4john1c41original";
@@ -2836,9 +2848,9 @@
             treeNode362.Text = "Chapter 43 - National Symbols (Ostreum) Act";
             treeNode363.BackColor = System.Drawing.Color.Black;
             treeNode363.ForeColor = System.Drawing.Color.White;
-            treeNode363.ImageIndex = 11;
+            treeNode363.ImageIndex = 9;
             treeNode363.Name = "4john1c44";
-            treeNode363.SelectedImageIndex = 11;
+            treeNode363.SelectedImageIndex = 9;
             treeNode363.Text = "Chapter 44 - Princetin (Referendum) Act";
             treeNode364.ImageIndex = 8;
             treeNode364.Name = "4john1c45original";
@@ -2851,27 +2863,27 @@
             treeNode365.Text = "Chapter 45 - Paloma City Agreement (Ratification) Act";
             treeNode366.BackColor = System.Drawing.Color.Black;
             treeNode366.ForeColor = System.Drawing.Color.White;
-            treeNode366.ImageIndex = 11;
+            treeNode366.ImageIndex = 9;
             treeNode366.Name = "4john1c46";
-            treeNode366.SelectedImageIndex = 11;
+            treeNode366.SelectedImageIndex = 9;
             treeNode366.Text = "Chapter 46 - Baustralian Antarctic Territory Act";
             treeNode367.BackColor = System.Drawing.Color.Black;
             treeNode367.ForeColor = System.Drawing.Color.White;
-            treeNode367.ImageIndex = 11;
+            treeNode367.ImageIndex = 9;
             treeNode367.Name = "4john1c47";
-            treeNode367.SelectedImageIndex = 11;
+            treeNode367.SelectedImageIndex = 9;
             treeNode367.Text = "Chapter 47 - New Princetin Act";
             treeNode368.BackColor = System.Drawing.Color.Black;
             treeNode368.ForeColor = System.Drawing.Color.White;
-            treeNode368.ImageIndex = 11;
+            treeNode368.ImageIndex = 9;
             treeNode368.Name = "4john1c48";
-            treeNode368.SelectedImageIndex = 11;
+            treeNode368.SelectedImageIndex = 9;
             treeNode368.Text = "Chapter 48 - National Symbols (New Princetin) Act";
             treeNode369.BackColor = System.Drawing.Color.Black;
             treeNode369.ForeColor = System.Drawing.Color.White;
-            treeNode369.ImageIndex = 11;
+            treeNode369.ImageIndex = 9;
             treeNode369.Name = "4john1c49";
-            treeNode369.SelectedImageIndex = 11;
+            treeNode369.SelectedImageIndex = 9;
             treeNode369.Text = "Chapter 49 - Paloma City Agreement (Modification) Act";
             treeNode370.ImageIndex = 8;
             treeNode370.Name = "4john1c50original";
@@ -2884,9 +2896,9 @@
             treeNode371.Text = "Chapter 50 - Oaths Act";
             treeNode372.BackColor = System.Drawing.Color.Black;
             treeNode372.ForeColor = System.Drawing.Color.White;
-            treeNode372.ImageIndex = 11;
+            treeNode372.ImageIndex = 9;
             treeNode372.Name = "4john1c51";
-            treeNode372.SelectedImageIndex = 11;
+            treeNode372.SelectedImageIndex = 9;
             treeNode372.Text = "Chapter 51 - Blackmail Act";
             treeNode373.ImageIndex = 8;
             treeNode373.Name = "4john1c52original";
@@ -2899,18 +2911,19 @@
             treeNode374.Text = "Chapter 52 - Imperial Boundries Act";
             treeNode375.BackColor = System.Drawing.Color.Black;
             treeNode375.ForeColor = System.Drawing.Color.White;
-            treeNode375.ImageIndex = 11;
+            treeNode375.ImageIndex = 9;
             treeNode375.Name = "4john1c53";
-            treeNode375.SelectedImageIndex = 11;
+            treeNode375.SelectedImageIndex = 9;
             treeNode375.Text = "Chapter 53 - Constituencies (No. 3) Act";
             treeNode376.BackColor = System.Drawing.Color.Black;
             treeNode376.ForeColor = System.Drawing.Color.White;
-            treeNode376.ImageIndex = 11;
+            treeNode376.ImageIndex = 9;
             treeNode376.Name = "4john1c54";
-            treeNode376.SelectedImageIndex = 11;
+            treeNode376.SelectedImageIndex = 9;
             treeNode376.Text = "Chapter 54 - Imperial Constituencies Act";
+            treeNode377.ImageIndex = 0;
             treeNode377.Name = "4John1";
-            treeNode377.SelectedImageIndex = 2;
+            treeNode377.SelectedImageIndex = 0;
             treeNode377.Text = "4 John 1";
             treeNode378.ImageIndex = 8;
             treeNode378.Name = "5john1c1original";
@@ -2940,8 +2953,9 @@
             treeNode383.Text = "Chapter 2 - National Routes Act";
             treeNode384.BackColor = System.Drawing.Color.Black;
             treeNode384.ForeColor = System.Drawing.Color.White;
-            treeNode384.ImageKey = "amended1.png";
+            treeNode384.ImageIndex = 9;
             treeNode384.Name = "5john1c3";
+            treeNode384.SelectedImageIndex = 9;
             treeNode384.Text = "Chapter 3 - Land Administration Act";
             treeNode385.ImageIndex = 8;
             treeNode385.Name = "5john1c4original";
@@ -3261,8 +3275,9 @@
             treeNode455.Name = "5john1c37";
             treeNode455.SelectedImageIndex = 6;
             treeNode455.Text = "Chapter 37 - Vienna Act";
+            treeNode456.ImageIndex = 0;
             treeNode456.Name = "5John1";
-            treeNode456.SelectedImageIndex = 2;
+            treeNode456.SelectedImageIndex = 0;
             treeNode456.Text = "5 John 1";
             treeNode457.ImageIndex = 8;
             treeNode457.Name = "6john1c1original";
@@ -3507,7 +3522,7 @@
             treeNode510.SelectedImageIndex = 6;
             treeNode510.Text = "Chapter 26 - Colonial Routes Act";
             treeNode511.ImageIndex = 8;
-            treeNode511.Name = "6john1c27";
+            treeNode511.Name = "6john1c27original";
             treeNode511.SelectedImageIndex = 8;
             treeNode511.Text = "As originally enacted";
             treeNode512.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
@@ -3586,112 +3601,172 @@
             treeNode528.Name = "6john1c35original";
             treeNode528.SelectedImageIndex = 8;
             treeNode528.Text = "As originally enacted";
-            treeNode529.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
-            treeNode529.ImageIndex = 4;
-            treeNode529.Name = "6john1c35";
-            treeNode529.SelectedImageIndex = 4;
-            treeNode529.Text = "Chapter 35 - Aides-de-Camp Act";
-            treeNode530.ImageIndex = 8;
-            treeNode530.Name = "6john1c36original";
-            treeNode530.SelectedImageIndex = 8;
-            treeNode530.Text = "As originally enacted";
-            treeNode531.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
-            treeNode531.ImageIndex = 4;
-            treeNode531.Name = "6john1c36";
-            treeNode531.SelectedImageIndex = 4;
-            treeNode531.Text = "Chapter 36 - Official Secrets Act";
-            treeNode532.ImageIndex = 8;
-            treeNode532.Name = "6john1c37original";
-            treeNode532.SelectedImageIndex = 8;
-            treeNode532.Text = "As originally enacted";
-            treeNode533.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
-            treeNode533.ImageIndex = 6;
-            treeNode533.Name = "6john1c37";
-            treeNode533.SelectedImageIndex = 6;
-            treeNode533.Text = "Chapter 37 - Website Act";
-            treeNode534.ImageIndex = 8;
-            treeNode534.Name = "6john1c38original";
-            treeNode534.SelectedImageIndex = 8;
-            treeNode534.Text = "As originally enacted";
-            treeNode535.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
-            treeNode535.ImageIndex = 6;
-            treeNode535.Name = "6john1c38";
-            treeNode535.SelectedImageIndex = 6;
-            treeNode535.Text = "Chapter 38 - Acts of Parliament (Electronic Publishing) Act";
-            treeNode536.ImageIndex = 8;
-            treeNode536.Name = "6john1c39original";
-            treeNode536.SelectedImageIndex = 8;
-            treeNode536.Text = "As originally enacted";
-            treeNode537.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(232)))), ((int)(((byte)(255)))));
-            treeNode537.ImageIndex = 6;
-            treeNode537.Name = "6john1c39";
-            treeNode537.SelectedImageIndex = 6;
-            treeNode537.Text = "Chapter 39 - Lords Appellant Act";
-            treeNode538.ImageIndex = 8;
-            treeNode538.Name = "6john1c40original";
-            treeNode538.SelectedImageIndex = 8;
-            treeNode538.Text = "As originally enacted";
-            treeNode539.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
-            treeNode539.ImageKey = "spent.png";
-            treeNode539.Name = "6john1c40";
-            treeNode539.SelectedImageIndex = 6;
-            treeNode539.Text = "Chapter 40 - Restoration of Legislation Act";
-            treeNode540.ImageIndex = 1;
-            treeNode540.Name = "6John1";
-            treeNode540.SelectedImageIndex = 2;
-            treeNode540.Text = "6 John 1";
+            treeNode529.ImageIndex = 8;
+            treeNode529.Name = "6john1c35amend1";
+            treeNode529.SelectedImageIndex = 8;
+            treeNode529.Text = "As amended by 6 John 1 c. 42";
+            treeNode530.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode530.ImageIndex = 7;
+            treeNode530.Name = "6john1c35";
+            treeNode530.SelectedImageIndex = 7;
+            treeNode530.Text = "Chapter 35 - Aides-de-Camp Act";
+            treeNode531.ImageIndex = 8;
+            treeNode531.Name = "6john1c36original";
+            treeNode531.SelectedImageIndex = 8;
+            treeNode531.Text = "As originally enacted";
+            treeNode532.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode532.ImageIndex = 4;
+            treeNode532.Name = "6john1c36";
+            treeNode532.SelectedImageIndex = 4;
+            treeNode532.Text = "Chapter 36 - Official Secrets Act";
+            treeNode533.ImageIndex = 8;
+            treeNode533.Name = "6john1c37original";
+            treeNode533.SelectedImageIndex = 8;
+            treeNode533.Text = "As originally enacted";
+            treeNode534.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode534.ImageIndex = 6;
+            treeNode534.Name = "6john1c37";
+            treeNode534.SelectedImageIndex = 6;
+            treeNode534.Text = "Chapter 37 - Website Act";
+            treeNode535.ImageIndex = 8;
+            treeNode535.Name = "6john1c38original";
+            treeNode535.SelectedImageIndex = 8;
+            treeNode535.Text = "As originally enacted";
+            treeNode536.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode536.ImageIndex = 6;
+            treeNode536.Name = "6john1c38";
+            treeNode536.SelectedImageIndex = 6;
+            treeNode536.Text = "Chapter 38 - Acts of Parliament (Electronic Publishing) Act";
+            treeNode537.ImageIndex = 8;
+            treeNode537.Name = "6john1c39original";
+            treeNode537.SelectedImageIndex = 8;
+            treeNode537.Text = "As originally enacted";
+            treeNode538.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(232)))), ((int)(((byte)(255)))));
+            treeNode538.ImageIndex = 6;
+            treeNode538.Name = "6john1c39";
+            treeNode538.SelectedImageIndex = 6;
+            treeNode538.Text = "Chapter 39 - Lords Appellant Act";
+            treeNode539.ImageIndex = 8;
+            treeNode539.Name = "6john1c40original";
+            treeNode539.SelectedImageIndex = 8;
+            treeNode539.Text = "As originally enacted";
+            treeNode540.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode540.ImageIndex = 6;
+            treeNode540.Name = "6john1c40";
+            treeNode540.SelectedImageIndex = 6;
+            treeNode540.Text = "Chapter 40 - Restoration of Legislation Act";
             treeNode541.ImageIndex = 8;
-            treeNode541.Name = "monarchybill1";
+            treeNode541.Name = "6john1c41original";
             treeNode541.SelectedImageIndex = 8;
-            treeNode541.Text = "Bill C14 (1st reading)";
-            treeNode542.ImageIndex = 8;
-            treeNode542.Name = "monarchybill2";
-            treeNode542.SelectedImageIndex = 8;
-            treeNode542.Text = "Bill C16 (2nd reading)";
+            treeNode541.Text = "As originally enacted";
+            treeNode542.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(232)))), ((int)(((byte)(255)))));
+            treeNode542.ImageIndex = 6;
+            treeNode542.Name = "6john1c41";
+            treeNode542.SelectedImageIndex = 6;
+            treeNode542.Text = "Chapter 41 - Foreign Decorations (Armed Forces) Act";
             treeNode543.ImageIndex = 8;
-            treeNode543.Name = "monarchybill3";
+            treeNode543.Name = "6john1c42original";
             treeNode543.SelectedImageIndex = 8;
-            treeNode543.Text = "Bill C71 (3rd reading)";
-            treeNode544.ImageIndex = 8;
-            treeNode544.Name = "lordsappellantbill1";
-            treeNode544.SelectedImageIndex = 8;
-            treeNode544.Text = "Bill C6201 (1st reading)";
-            treeNode545.ImageIndex = 9;
-            treeNode545.Name = "lordsappellantbill";
-            treeNode545.SelectedImageIndex = 9;
-            treeNode545.Text = "Lords Appellant Bill";
-            treeNode546.ImageIndex = 3;
-            treeNode546.Name = "monarchybill";
-            treeNode546.SelectedImageIndex = 3;
-            treeNode546.Text = "Monarchy Bill";
+            treeNode543.Text = "As originally enacted";
+            treeNode544.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(202)))), ((int)(((byte)(255)))));
+            treeNode544.ImageIndex = 6;
+            treeNode544.Name = "6john1c42";
+            treeNode544.SelectedImageIndex = 6;
+            treeNode544.Text = "Chapter 42 - Aides-de-Camp (Commodores and Brigadiers) Act";
+            treeNode545.ImageIndex = 1;
+            treeNode545.Name = "6John1";
+            treeNode545.SelectedImageIndex = 0;
+            treeNode545.Text = "6 John 1";
+            treeNode546.ImageIndex = 8;
+            treeNode546.Name = "monarchybill1";
+            treeNode546.SelectedImageIndex = 8;
+            treeNode546.Text = "Bill C14 (1st reading)";
             treeNode547.ImageIndex = 8;
-            treeNode547.Name = "armedforcesbill1";
+            treeNode547.Name = "monarchybill2";
             treeNode547.SelectedImageIndex = 8;
-            treeNode547.Text = "Bill C6101 (1st reading)";
+            treeNode547.Text = "Bill C16 (2nd reading)";
             treeNode548.ImageIndex = 8;
-            treeNode548.Name = "armedforcesbill2";
+            treeNode548.Name = "monarchybill3";
             treeNode548.SelectedImageIndex = 8;
-            treeNode548.Text = "Bill L622 (2nd reading)";
-            treeNode549.ImageIndex = 9;
-            treeNode549.Name = "armedforcesbill";
-            treeNode549.SelectedImageIndex = 9;
-            treeNode549.Text = "Armed Forces Bill";
-            treeNode550.ImageIndex = 1;
-            treeNode550.Name = "bills";
-            treeNode550.SelectedImageIndex = 2;
-            treeNode550.Text = "Bills of Parliament";
+            treeNode548.Text = "Bill C71 (3rd reading)";
+            treeNode549.ImageIndex = 3;
+            treeNode549.Name = "monarchybill";
+            treeNode549.SelectedImageIndex = 3;
+            treeNode549.Text = "Monarchy Bill";
+            treeNode550.ImageIndex = 8;
+            treeNode550.Name = "armedforcesbill1";
+            treeNode550.SelectedImageIndex = 8;
+            treeNode550.Text = "Bill C6101 (1st reading)";
+            treeNode551.ImageIndex = 8;
+            treeNode551.Name = "armedforcesbill2";
+            treeNode551.SelectedImageIndex = 8;
+            treeNode551.Text = "Bill L622 (2nd reading)";
+            treeNode552.ImageIndex = 11;
+            treeNode552.Name = "armedforcesbill";
+            treeNode552.SelectedImageIndex = 11;
+            treeNode552.Text = "Armed Forces Bill";
+            treeNode553.ImageIndex = 1;
+            treeNode553.Name = "bills";
+            treeNode553.SelectedImageIndex = 0;
+            treeNode553.Text = "Bills of Parliament";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode7,
             treeNode75,
             treeNode293,
             treeNode377,
             treeNode456,
-            treeNode540,
-            treeNode550});
+            treeNode545,
+            treeNode553});
             this.treeView1.SelectedImageIndex = 0;
-            this.treeView1.Size = new System.Drawing.Size(503, 700);
+            this.treeView1.Size = new System.Drawing.Size(477, 700);
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
+            this.treeView1.Click += new System.EventHandler(this.treeView1_Click);
+            // 
+            // newIcons
+            // 
+            this.newIcons.ColorDepth = System.Windows.Forms.ColorDepth.Depth32Bit;
+            this.newIcons.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("newIcons.ImageStream")));
+            this.newIcons.TransparentColor = System.Drawing.Color.Transparent;
+            this.newIcons.Images.SetKeyName(0, "book");
+            this.newIcons.Images.SetKeyName(1, "book2");
+            this.newIcons.Images.SetKeyName(2, "openBook");
+            this.newIcons.Images.SetKeyName(3, "failed");
+            this.newIcons.Images.SetKeyName(4, "inForce");
+            this.newIcons.Images.SetKeyName(5, "repealed");
+            this.newIcons.Images.SetKeyName(6, "spent");
+            this.newIcons.Images.SetKeyName(7, "amended");
+            this.newIcons.Images.SetKeyName(8, "document");
+            this.newIcons.Images.SetKeyName(9, "destroyed");
+            this.newIcons.Images.SetKeyName(10, "document2");
+            this.newIcons.Images.SetKeyName(11, "pending");
+            // 
+            // displayTextBox
+            // 
+            this.displayTextBox.AcceptsTab = true;
+            this.displayTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.displayTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.displayTextBox.Location = new System.Drawing.Point(0, 74);
+            this.displayTextBox.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.displayTextBox.Name = "displayTextBox";
+            this.displayTextBox.ReadOnly = true;
+            this.displayTextBox.Size = new System.Drawing.Size(889, 626);
+            this.displayTextBox.TabIndex = 1;
+            this.displayTextBox.Text = "";
+            // 
+            // longCitation
+            // 
+            this.longCitation.Dock = System.Windows.Forms.DockStyle.Top;
+            this.longCitation.Font = new System.Drawing.Font("Segoe UI", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.longCitation.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.longCitation.Location = new System.Drawing.Point(0, 0);
+            this.longCitation.Margin = new System.Windows.Forms.Padding(6, 11, 4, 0);
+            this.longCitation.Name = "longCitation";
+            this.longCitation.Size = new System.Drawing.Size(889, 74);
+            this.longCitation.TabIndex = 0;
+            this.longCitation.Text = "The {0} chapter of the Statute of Parliament that sat\r\nduring the {1} Year of the" +
+    " Reign of King John.";
+            this.longCitation.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // listIcons
             // 
@@ -3707,36 +3782,9 @@
             this.listIcons.Images.SetKeyName(6, "spent.png");
             this.listIcons.Images.SetKeyName(7, "pending.png");
             this.listIcons.Images.SetKeyName(8, "opennew.png");
-            this.listIcons.Images.SetKeyName(9, "pending.png");
+            this.listIcons.Images.SetKeyName(9, "amended1.png");
             this.listIcons.Images.SetKeyName(10, "open.png");
-            this.listIcons.Images.SetKeyName(11, "amended1.png");
-            // 
-            // displayTextBox
-            // 
-            this.displayTextBox.AcceptsTab = true;
-            this.displayTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.displayTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.displayTextBox.Location = new System.Drawing.Point(0, 74);
-            this.displayTextBox.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.displayTextBox.Name = "displayTextBox";
-            this.displayTextBox.ReadOnly = true;
-            this.displayTextBox.Size = new System.Drawing.Size(863, 626);
-            this.displayTextBox.TabIndex = 1;
-            this.displayTextBox.Text = "";
-            // 
-            // longCitation
-            // 
-            this.longCitation.Dock = System.Windows.Forms.DockStyle.Top;
-            this.longCitation.Font = new System.Drawing.Font("Segoe UI", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.longCitation.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.longCitation.Location = new System.Drawing.Point(0, 0);
-            this.longCitation.Margin = new System.Windows.Forms.Padding(6, 11, 4, 0);
-            this.longCitation.Name = "longCitation";
-            this.longCitation.Size = new System.Drawing.Size(863, 74);
-            this.longCitation.TabIndex = 0;
-            this.longCitation.Text = "The {0} chapter of the Statute of Parliament that sat\r\nduring the {1} Year of the" +
-    " Reign of King John.";
-            this.longCitation.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.listIcons.Images.SetKeyName(11, "pending.png");
             // 
             // menuStrip1
             // 
@@ -3766,6 +3814,7 @@
             this.exportActiveDocumentToolStripMenuItem.Name = "exportActiveDocumentToolStripMenuItem";
             this.exportActiveDocumentToolStripMenuItem.Size = new System.Drawing.Size(200, 22);
             this.exportActiveDocumentToolStripMenuItem.Text = "Export active document";
+            this.exportActiveDocumentToolStripMenuItem.Click += new System.EventHandler(this.exportActiveDocumentToolStripMenuItem_Click);
             // 
             // viewToolStripMenuItem
             // 
@@ -3801,7 +3850,9 @@
             // 
             this.filterToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.inForceToolStripMenuItem,
-            this.repealedOrSpentToolStripMenuItem});
+            this.repealedToolStripMenuItem,
+            this.spentToolStripMenuItem,
+            this.allToolStripMenuItem});
             this.filterToolStripMenuItem.Name = "filterToolStripMenuItem";
             this.filterToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.filterToolStripMenuItem.Text = "Filter";
@@ -3810,17 +3861,32 @@
             // 
             this.inForceToolStripMenuItem.Image = global::ActViewer.Properties.Resources.in_force;
             this.inForceToolStripMenuItem.Name = "inForceToolStripMenuItem";
-            this.inForceToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
+            this.inForceToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.inForceToolStripMenuItem.Text = "In force";
             this.inForceToolStripMenuItem.Click += new System.EventHandler(this.inForceToolStripMenuItem_Click);
             // 
-            // repealedOrSpentToolStripMenuItem
+            // repealedToolStripMenuItem
             // 
-            this.repealedOrSpentToolStripMenuItem.Image = global::ActViewer.Properties.Resources.repealed;
-            this.repealedOrSpentToolStripMenuItem.Name = "repealedOrSpentToolStripMenuItem";
-            this.repealedOrSpentToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
-            this.repealedOrSpentToolStripMenuItem.Text = "Repealed or spent";
-            this.repealedOrSpentToolStripMenuItem.Click += new System.EventHandler(this.repealedOrSpentToolStripMenuItem_Click);
+            this.repealedToolStripMenuItem.Image = global::ActViewer.Properties.Resources.repealed;
+            this.repealedToolStripMenuItem.Name = "repealedToolStripMenuItem";
+            this.repealedToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
+            this.repealedToolStripMenuItem.Text = "Repealed";
+            this.repealedToolStripMenuItem.Click += new System.EventHandler(this.repealedToolStripMenuItem_Click);
+            // 
+            // spentToolStripMenuItem
+            // 
+            this.spentToolStripMenuItem.Image = global::ActViewer.Properties.Resources.spent;
+            this.spentToolStripMenuItem.Name = "spentToolStripMenuItem";
+            this.spentToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
+            this.spentToolStripMenuItem.Text = "Spent";
+            this.spentToolStripMenuItem.Click += new System.EventHandler(this.spentToolStripMenuItem_Click);
+            // 
+            // allToolStripMenuItem
+            // 
+            this.allToolStripMenuItem.Name = "allToolStripMenuItem";
+            this.allToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
+            this.allToolStripMenuItem.Text = "All/Reset";
+            this.allToolStripMenuItem.Click += new System.EventHandler(this.allToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 
@@ -3887,6 +3953,7 @@
             this.toolStripStatusLabel3.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripStatusLabel3.Name = "toolStripStatusLabel3";
             this.toolStripStatusLabel3.Size = new System.Drawing.Size(60, 17);
+            this.toolStripStatusLabel3.Click += new System.EventHandler(this.toolStripStatusLabel3_Click);
             // 
             // toolStripStatusLabel1
             // 
@@ -3907,7 +3974,7 @@
             // versionLabel
             // 
             this.versionLabel.Name = "versionLabel";
-            this.versionLabel.Size = new System.Drawing.Size(849, 17);
+            this.versionLabel.Size = new System.Drawing.Size(818, 17);
             this.versionLabel.Spring = true;
             this.versionLabel.Text = "Version {0}.{1}.{2}";
             // 
@@ -3932,6 +3999,16 @@
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
             this.toolStripStatusLabel2.Size = new System.Drawing.Size(23, 17);
             this.toolStripStatusLabel2.Click += new System.EventHandler(this.toolStripStatusLabel2_Click);
+            // 
+            // saveFileDialog1
+            // 
+            this.saveFileDialog1.CheckPathExists = false;
+            this.saveFileDialog1.DefaultExt = "rtf";
+            this.saveFileDialog1.Filter = "Rich text file (*.rtf)|*.rtf|Text file (*.txt)|*.txt|All files (*.*)|*.*";
+            this.saveFileDialog1.OkRequiresInteraction = true;
+            this.saveFileDialog1.RestoreDirectory = true;
+            this.saveFileDialog1.Title = "Export";
+            this.saveFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
             // 
             // Form1
             // 
@@ -3988,7 +4065,11 @@
         private ToolStripSplitButton toolStripSplitButton1;
         private ToolStripMenuItem filterToolStripMenuItem;
         private ToolStripMenuItem inForceToolStripMenuItem;
-        private ToolStripMenuItem repealedOrSpentToolStripMenuItem;
+        private ToolStripMenuItem repealedToolStripMenuItem;
         private ToolStripSeparator toolStripSeparator1;
+        private SaveFileDialog saveFileDialog1;
+        private ToolStripMenuItem spentToolStripMenuItem;
+        private ToolStripMenuItem allToolStripMenuItem;
+        private ImageList newIcons;
     }
 }

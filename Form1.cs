@@ -19,7 +19,7 @@ namespace ActViewer
 
         private static async Task UpdateApp(ToolStripSplitButton btn)
         {
-            using var mgr = new UpdateManager("https://baustralia.ca/ActViewer/app/");
+            using var mgr = new UpdateManager("https://www.baustralia.ca/ActViewer/app/");
             var newVersion = await mgr.UpdateApp();
 
             // optionally restart the app automatically, or ask the user if/when they want to restart
@@ -31,7 +31,12 @@ namespace ActViewer
             btn.Image = Resources.noupdates;
         }
 
-        string[] formats =
+        private static async void newUpdateApp(ToolStripSplitButton btn)
+        {
+            await UpdateApp(btn);
+        }
+
+            string[] formats =
                {"The {0} chapter of the Statute of Parliament that sat during the {1} Year of the Reign of King John, {2}.",
                  "Statute information",
                  "{0} c. {1}. Status: {2}",
@@ -39,8 +44,6 @@ namespace ActViewer
                  "\r\nThis chapter has been destroyed and shall be considered spent.",
                  "\r\nDestroyed and recreated from recovered information.\r\nVote counts and introductory information unavaliable."
                 };
-
-        string helpFilePath = String.Empty;
 
         TreeView defTree = new TreeView();
 
@@ -2356,7 +2359,7 @@ namespace ActViewer
                 #region 6 John 1
                 case "6john1":
                     longCitation.Text = formats[1];
-                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nParker ministry (Conservative, 2/40)\r\nBurgardt-Morris ministry (Coalition), 7/40)\r\nBurgardt ministry (Liberal), 10/40)\r\nDoig ministry (Conservative), 21/40)\r\n\r\n40 Acts of Parliament";
+                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nParker ministry (Conservative, 2/42)\r\nBurgardt-Morris ministry (Coalition), 7/42)\r\nBurgardt ministry (Liberal), 10/42)\r\nDoig ministry (Conservative), 23/42)\r\n\r\n42 Acts of Parliament";
                     selectionLabel.Text = "6 John 1";
                     break;
                 #region Chapter 1
@@ -2539,11 +2542,11 @@ namespace ActViewer
                 #endregion
                 #region Chapter 18
                 case "6john1c18original":
-                    formGen(18, "John 1", 6, "In force");
+                    formGen(18, "John 1", 6, "Amended");
                     displayTextBox.SelectedText = Resources._6john1_18_original;
                     break;
                 case "6john1c18amend1":
-                    formGen(18, "John 1", 6, "In force");
+                    formGen(18, "John 1", 6, "Amended");
                     displayTextBox.SelectedText = Resources._6john1_18_amend1;
                     break;
                 case "6john1c18":
@@ -2662,12 +2665,16 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 30
+                case "6john1c30amend1":
+                    formGen(30, "John 1", 6, "Amended");
+                    displayTextBox.SelectedText = Resources._6john1_30_amend1;
+                    break;
                 case "6john1c30original":
-                    formGen(30, "John 1", 6, "In force");
+                    formGen(30, "John 1", 6, "Amended");
                     displayTextBox.SelectedText = Resources._6john1_30_original;
                     break;
                 case "6john1c30":
-                    formGen(30, "John 1", 6, "In force");
+                    formGen(30, "John 1", 6, "Amended");
                     displayTextBox.SelectedText = "Elections Act\r\nBill citations: C6171.\r\nIntroduced by the Prime Minister, Sir Oliver Doig.\r\nRepeals:\r\n  2 John 1 c. 27\r\n  3 John 1 c. 97\r\nAmended by 6 John 1 c. 31.\r\n" + votes.details(selector.ToLower());
                     break;
                 #endregion
@@ -2708,17 +2715,21 @@ namespace ActViewer
                     break;
                 case "6john1c34":
                     formGen(34, "John 1", 6, "In force");
-                    displayTextBox.SelectedText = "Routes Act\r\nBill citations: T6141.\r\nBy command of the Sovereign, and Consent of the Commons.\r\n" + votes.details(selector.ToLower());
+                    displayTextBox.SelectedText = "Royal Bank of Baustralia Act\r\nBill citations: T6141.\r\nBy command of the Sovereign, and Consent of the Commons.\r\n" + votes.details(selector.ToLower());
                     break;
                 #endregion
                 #region Chapter 35
+                case "6john1c35amend1":
+                    formGen(35, "John 1", 6, "Amended");
+                    displayTextBox.SelectedText = Resources._6john1_35_amend1;
+                    break;
                 case "6john1c35original":
-                    formGen(35, "John 1", 6, "In force");
+                    formGen(35, "John 1", 6, "Amended");
                     displayTextBox.SelectedText = Resources._6john1_35_original;
                     break;
                 case "6john1c35":
-                    formGen(35, "John 1", 6, "In force");
-                    displayTextBox.SelectedText = "Constituencies (No. 2) Act\r\nBill citations: T6151.\r\nBy command of the Sovereign.";
+                    formGen(35, "John 1", 6, "Amended");
+                    displayTextBox.SelectedText = "Aides-de-Camp Act\r\nBill citations: T6151.\r\nBy command of the Sovereign.\r\nAmended by 6 John 1 c. 35 (Aides-de-Camp (Commodores and Brigadiers) Act).";
                     break;
                 #endregion
                 #region Chapter 36
@@ -2728,7 +2739,7 @@ namespace ActViewer
                     break;
                 case "6john1c36":
                     formGen(36, "John 1", 6, "In force");
-                    displayTextBox.SelectedText = "Colonial Routes (No. 2) Act\r\nBill citations: T6161\r\nBy command of the Sovereign, and Consent of the Commons.\r\n" + votes.details(selector.ToLower());
+                    displayTextBox.SelectedText = "Official Secrets Act\r\nBill citations: T6161\r\nBy command of the Sovereign, and Consent of the Commons.\r\n" + votes.details(selector.ToLower());
                     break;
                 #endregion
                 #region Chapter 37
@@ -2769,6 +2780,26 @@ namespace ActViewer
                 case "6john1c40":
                     formGen(40, "John 1", 6, "Spent");
                     displayTextBox.SelectedText = "Restoration of Legislation Act\r\nBill citations: T6191.\r\nBy command of the Sovereign.\r\nAmends 5 John 1 c. 7.";
+                    break;
+                #endregion
+                #region Chapter 41
+                case "6john1c41original":
+                    formGen(41, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_41_original;
+                    break;
+                case "6john1c41":
+                    formGen(41, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = "Foreign Decorations (Armed Forces) Act\r\nBill citations: C6211.\r\nIntroduced by the Member of Parliament for Gloucester, Micheal Johnson.\r\n" + votes.details(selector.ToLower());
+                    break;
+                #endregion
+                #region Chapter 42
+                case "6john1c42original":
+                    formGen(42, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_42_original;
+                    break;
+                case "6john1c42":
+                    formGen(42, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = "Aides-de-Camp (Commodores and Brigadiers) Act\r\nBill citations: T6201.\r\nBy command of the Sovereign.\r\nAmends 6 John 1 c. 35.";
                     break;
                 #endregion
                 #endregion
@@ -2889,21 +2920,27 @@ namespace ActViewer
             listIcons.Images[6] = Resources.spent;
             listIcons.Images[7] = Resources.amended;
             listIcons.Images[8] = Resources.opennew;
-            listIcons.Images[9] = Resources.pending;
+            listIcons.Images[9] = Resources.destroyed;
             listIcons.Images[10] = Resources.open;
-            #endregion
-            #region Extract help file to temp
-            helpFilePath = Path.Combine(Path.GetTempPath(), "helpFile.chm");
-            var Writer = new BinaryWriter(File.OpenWrite(helpFilePath));
-            Writer.Write(Resources.help);
-            Writer.Flush();
-            Writer.Close();
+            listIcons.Images[11] = Resources.pending;
+
+            newIcons.Images[0] = new Icon(Resources.Book1, new Size(16, 16)).ToBitmap();
+            newIcons.Images[1] = new Icon(Resources.Book1, new Size(16, 16)).ToBitmap();
+            newIcons.Images[2] = new Icon(Resources.book__1_, new Size(16, 16)).ToBitmap();
+            newIcons.Images[3] = Resources.f;
+            newIcons.Images[4] = Resources._if;
+            newIcons.Images[5] = Resources.r;
+            newIcons.Images[6] = Resources.s;
+            newIcons.Images[7] = Resources.a;
+            newIcons.Images[8] = new Icon(Resources.document, new Size(16, 16)).ToBitmap();
+            newIcons.Images[9] = Resources.d;
+            newIcons.Images[10] = new Icon(Resources.document, new Size(16, 16)).ToBitmap();
+            newIcons.Images[11] = Resources.p;
             #endregion
             var assembly = Assembly.GetExecutingAssembly();
-            versionLabel.Text = string.Format(versionLabel.Text, assembly.GetName().Version!.Major, assembly.GetName().Version!.Minor, assembly.GetName().Version!.Build);
+            versionLabel.Text = "Version " + assembly.GetName().Version!.Major + "." + assembly.GetName().Version!.Minor + "." + assembly.GetName().Version!.Build;
             SquirrelAwareApp.HandleEvents(onEveryRun: OnAppRun);
         }
-
         private void OnAppRun(SemanticVersion version, IAppTools tools, bool firstRun)
         {
             tools.SetProcessAppUserModelId();
@@ -2918,7 +2955,8 @@ namespace ActViewer
 
         private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, helpFilePath);
+            Form helpBox = new help();
+            helpBox.Show();
         }
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
@@ -2962,7 +3000,7 @@ namespace ActViewer
             treeView1.SelectedNode = treeView1.Nodes[0];
         }
 
-        private void repealedOrSpentToolStripMenuItem_Click(object sender, EventArgs e)
+        private void repealedToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Controls.Clear();
             this.InitializeComponent();
@@ -2970,7 +3008,7 @@ namespace ActViewer
             {
                 for (int i = nodes.Nodes.Count - 1; i >= 0; i--)
                 {
-                    if (nodes.Nodes[i].ImageIndex != 3 && nodes.Nodes[i].ImageIndex != 5 && nodes.Nodes[i].ImageIndex != 6 && nodes.Nodes[i].ImageIndex != 11)
+                    if (nodes.Nodes[i].ImageIndex != 3 && nodes.Nodes[i].ImageIndex != 5 && nodes.Nodes[i].ImageIndex != 11)
                     {
                         nodes.Nodes[i].Remove();
                     }
@@ -2994,7 +3032,95 @@ namespace ActViewer
 
         private void toolStripSplitButton1_ButtonClick(object sender, EventArgs e)
         {
-            UpdateApp(toolStripSplitButton1);
+            newUpdateApp(toolStripSplitButton1);
+        }
+
+        private void saveFileDialog1_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
+
+        private void exportActiveDocumentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveFileDialog1.FileName = toolStripTextBox1.Text + ".rtf";
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string file = Path.GetFullPath(saveFileDialog1.FileName);
+                int idx = saveFileDialog1.FilterIndex;
+                if (idx == 1)
+                {
+                    using (StreamWriter sw = new StreamWriter(file))
+                    {
+                        sw.Write(displayTextBox.Rtf);
+                    }
+                }
+                else
+                {
+                    using (StreamWriter sw = new StreamWriter(file))
+                    {
+                        sw.Write(displayTextBox.Text);
+                    }
+                }
+            }
+        }
+
+        private void spentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Controls.Clear();
+            this.InitializeComponent();
+            foreach (TreeNode nodes in treeView1.Nodes)
+            {
+                for (int i = nodes.Nodes.Count - 1; i >= 0; i--)
+                {
+                    if (nodes.Nodes[i].ImageIndex != 6)
+                    {
+                        nodes.Nodes[i].Remove();
+                    }
+                }
+            } /*Remove in force, etc. Acts of Parliament*/
+            for (int i = treeView1.Nodes.Count - 1; i >= 0; i--)
+            {
+                if (treeView1.Nodes[i].Nodes.Count == 0)
+                {
+                    treeView1.Nodes[i].Remove();
+                }
+            } /*Remove empty books*/
+            treeView1.SelectedNode = treeView1.Nodes[0];
+        }
+
+        private void allToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Controls.Clear();
+            this.InitializeComponent();
+        }
+
+        private void treeView1_Click(object sender, EventArgs e)
+        {
+            foreach (TreeNode node in treeView1.Nodes)
+            {
+                if (node.IsExpanded)
+                {
+                    node.ImageIndex = 2;
+                    node.SelectedImageIndex = 2;
+                }
+                else
+                {
+                    node.ImageIndex = 0;
+                    node.SelectedImageIndex = 0;
+                }
+            }
+        }
+
+        private void toolStripStatusLabel3_Click(object sender, EventArgs e)
+        {
+            if (treeView1.ImageList == listIcons)
+            {
+                treeView1.ImageList = newIcons;
+            }
+            else
+            {
+                treeView1.ImageList = listIcons;
+            }
         }
     }
 }

@@ -3994,6 +3994,22 @@ namespace ActViewer.Properties {
         /// a)   officers attached to the personal staff of a senior officer of His Majesty’s Baustralian Armed Forces,
         /// b)   and serve as a communi [rest of string was truncated]&quot;;.
         /// </summary>
+        internal static string _6john1_35_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-35-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 35 - AN ACT TO CODIFY THE STATUS OF AIDES-DE-CAMP, AND AIDES-DE-CAMP TO THE SOVEREIGN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///
+        ///1.   This Act shall be known as the Aides-de-Camp Act, 2023, Bill T6151.
+        ///2.   Aides-de-Camp, or also known in His Majesty’s Royal Navy as Flag Lieutenants, are
+        /// a)   officers attached to the personal staff of a senior officer of His Majesty’s Baustralian Armed Forces,
+        /// b)   and serve as a communi [rest of string was truncated]&quot;;.
+        /// </summary>
         internal static string _6john1_35_original {
             get {
                 return ResourceManager.GetString("6john1-35-original", resourceCulture);
@@ -4085,6 +4101,33 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 41 - AN ACT TO REDUCE THE FOREIGN DECORATIONS WORN IN THE BAUSTRALIAN ARMED FORCES
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act will be known as the Foreign Decorations (Armed Forces) Act, C6211, 2023.
+        ///2.   Vishwamitran stars shall be reduced to a by-approval basis, to reduce the amount of stars worn by junior officers and non-commissioned members.
+        ///3.   This Act shall only affect members of the Ba [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_41_original {
+            get {
+                return ResourceManager.GetString("6john1-41-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 42 - AN ACT TO AMEND THE THIRTY-FIFTH CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN, TO PROVIDE FOR THE FLAG LIEUTENANTS AND AIDES-DE-CAMP FOR COMMODORES AND BRIGADIERS
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act will be known as the Aides-de-Camp (Commodores and Brigadiers) Act, T6201, 2023.
+        ///2.   The following shall be inserted to the Thirty-Fifth Chapter of the Statute of Parliament that sat during the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_42_original {
+            get {
+                return ResourceManager.GetString("6john1-42-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 5 - AN ACT TO AUTHORIZE A REFERENDUM OF A FOURTH ARMORIAL ACHIEVEMENT OF THE KINGDOM OF BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
@@ -4156,9 +4199,39 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _if {
+            get {
+                object obj = ResourceManager.GetObject("_if", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap a {
+            get {
+                object obj = ResourceManager.GetObject("a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap about {
             get {
                 object obj = ResourceManager.GetObject("about", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap about1 {
+            get {
+                object obj = ResourceManager.GetObject("about1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4209,6 +4282,26 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon book__1_ {
+            get {
+                object obj = ResourceManager.GetObject("book__1_", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Book1 {
+            get {
+                object obj = ResourceManager.GetObject("Book1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap bookOpen {
@@ -4231,9 +4324,39 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap d {
+            get {
+                object obj = ResourceManager.GetObject("d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap destroyed {
             get {
                 object obj = ResourceManager.GetObject("destroyed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon document {
+            get {
+                object obj = ResourceManager.GetObject("document", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap f {
+            get {
+                object obj = ResourceManager.GetObject("f", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4355,6 +4478,16 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap p {
+            get {
+                object obj = ResourceManager.GetObject("p", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pending {
             get {
                 object obj = ResourceManager.GetObject("pending", resourceCulture);
@@ -4365,9 +4498,29 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap r {
+            get {
+                object obj = ResourceManager.GetObject("r", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap repealed {
             get {
                 object obj = ResourceManager.GetObject("repealed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap s {
+            get {
+                object obj = ResourceManager.GetObject("s", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
