@@ -423,6 +423,24 @@ public class votes
                 ,     "└─────────────────┴─────────────────┘"};
                 return string.Join("\r\n", results);
             #endregion
+            #region 6 John 1 c. 45
+            case "6john1c45":
+                results = new string[]
+                    { "┌─────────────────┬─────────────────┐"
+                ,     "│   CONSERVATIVE  │     LIBERAL     │"
+                ,     "├─────────────────┴─────────────────┤"
+                ,     "│                AYES               │"
+                ,     "├─────────────────┬─────────────────┤"
+                ,     "│M. Johnson       │A. Lacey-Scott   │"
+                ,     "│R. McPhail       │L. Perry-Ardens  │"
+                ,     "│Sir J. Gardner   │A. Calero        │"
+                ,     "│M. Prasetia      │C. Snyder        │"
+                ,     "│                 │S. FitzGibbons   │"
+                ,     "│                 │M. Hughes        │"
+                ,     "│                 │Sir C. Burgardt  │"
+                ,     "└─────────────────┴─────────────────┘"};
+                return string.Join("\r\n", results);
+            #endregion
 
             #region Monarchy Bill (1st Reading)
             case "monarchybill1":
@@ -532,19 +550,22 @@ public class votes
             #endregion
             /*#region Armed Forces Bill (3rd Reading)
             case "armedforcesbill3":
-                results = new string[]
+            results = new string[]
                     { "┌─────────────────┬─────────────────┐"
                 ,     "│   CONSERVATIVE  │     LIBERAL     │"
                 ,     "├─────────────────┴─────────────────┤"
-                ,     "│                NAYS               │"
+                ,     "│                AYES               │"
                 ,     "├─────────────────┬─────────────────┤"
-                ,     "│Sir N. Sullivan  │Sir C. Burgardt  │"
-                ,     "│Sir O. Doig      │                 │"
-                ,     "│Lady Flavora     │                 │"
-                ,     "│Lord Simpson     │                 │"
-                ,     "│Lord Wooler      │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
+                ,     "│                 │                 │"
                 ,     "└─────────────────┴─────────────────┘"};
-                return string.Join("\r\n", results);
+            return string.Join("\r\n", results);
             #endregion*/
             default:
                 return "";

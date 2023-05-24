@@ -1,0 +1,22 @@
+CHAPTER 36 - AN ACT REGARDING THE WORDMARKS USED BY THE OFFICES OF HIS MAJESTY’S ROYAL GOVERNMENT; REGARDING ELECTRONIC MEASUREMENTS OF THE WORDMARK; AND OTHER PURPOSES CONNECTED THEREWITH
+
+Be it enacted by His Most Excellent Majesty and with the consent of Commons as follows:-
+
+1.   This Act shall be known as the Communications (Office Wordmarks) Act, 2020.
+2.   Whereas His Majesty laid out that the current wordmarks by Order of Council as follows, it shall be amended as per paragraph 5 of this Act.
+ a)   A 40px bar in Baustralian Blue, i.e. #333366 in hexadecimal.
+ b)   A 40px transparent separation.
+ c)   The Shield of Arms crowned and circled with the Order of the Gadus.
+ d)   A 40px transparent separation.
+ e)   The wordmark spanning two lines in black Arial font.
+ f)   The right side of the image will be padded out with a 40px transparent separation.
+3.   Be it noted that all Offices may use their own variation of the Royal Arms provided it be granted use by His Majesty through and by the Communications Office.
+4.   The Office may also use a variation of the bar colour provided it be granted in the same way as paragraph 3.
+ a)   All Colonial Offices shall use #aa0000 as their bar colour.
+5.   The amendments are as follows:-
+ a)   A 40px bar in Baustralian Blue, i.e. #333366 in hexadecimal.
+ b)   A 40px transparent separation.
+ c)   The armorial achievement of His Royal Government, i.e. the Royal Arms in an oval-shaped escutcheon.
+ d)   A 40px transparent separation.
+ e)   The wordmark spanning two lines in black Arial font.
+ f)   The right side of the image will be padded out with a 40px transparent separation.

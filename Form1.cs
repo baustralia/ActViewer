@@ -219,6 +219,10 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 11
+                case "2john1c11amend2":
+                    displayTextBox.SelectedText = Resources._2john1_11_amend2;
+                    formGen(11, "John 1", 2, "Repealed");
+                    break;
                 case "2john1c11amend1":
                     displayTextBox.SelectedText = Resources._2john1_11_amend1;
                     formGen(11, "John 1", 2, "Repealed");
@@ -228,7 +232,7 @@ namespace ActViewer
                     formGen(11, "John 1", 2, "Repealed");
                     break;
                 case "2john1c11":
-                    displayTextBox.SelectedText = "Succession Law (Modifications, No. 2) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nRepeals 2 John 1 c. 4.\r\nAmends 2 John 1 c. 2.\r\nAmended by 3 John 1 c. 8 (Short Titles Act).\r\nRepealed by 6 John 1 c. 18 (Succession Law (Modifications, No. 1) Act).\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Succession Law (Modifications, No. 2) Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nRepeals 2 John 1 c. 4.\r\nAmends 2 John 1 c. 2.\r\nAmended by\r\n  3 John 1 c. 8 (Short Titles Act).\r\n  6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nRepealed by 6 John 1 c. 18 (Succession Law (Modifications, No. 1) Act).\r\nNo vote counts avaliable.";
                     formGen(11, "John 1", 2, "Repealed");
                     break;
                 #endregion
@@ -387,12 +391,16 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 27
+                case "2john1c27amend1":
+                    displayTextBox.SelectedText = Resources._2john1_27_amend1;
+                    formGen(27, "John 1", 2, "Repealed");
+                    break;
                 case "2john1c27original":
                     displayTextBox.SelectedText = Resources._2john1_27_original;
                     formGen(27, "John 1", 2, "Repealed");
                     break;
                 case "2john1c27":
-                    displayTextBox.SelectedText = "Fixed Terms Election Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nAmends 2 John 1 c. 2.\r\nRepealed by 6 John 1 c. 30 (Elections Act).\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Fixed Terms Election Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nAmends 2 John 1 c. 2.\r\nRepealed by 6 John 1 c. 30 (Elections Act).\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     formGen(27, "John 1", 2, "Repealed");
                     break;
                 #endregion
@@ -484,13 +492,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 6
+                case "3john1c6amend1":
+                    formGen(6, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_6_amend1;
+                    break;
                 case "3john1c6original":
-                    formGen(6, "John 1", 3, "In force");
+                    formGen(6, "John 1", 3, "Amended");
                     displayTextBox.SelectedText = Resources._3john1_6_original;
                     break;
                 case "3john1c6":
-                    formGen(6, "John 1", 3, "In force");
-                    displayTextBox.SelectedText = "National Symbols Act (Ostreum)\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nNo vote counts avaliable.";
+                    formGen(6, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = "National Symbols Act (Ostreum)\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 7
@@ -514,6 +526,10 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 9
+                case "3john1c9amend2":
+                    formGen(9, "John 1", 3, "Repealed");
+                    displayTextBox.SelectedText = Resources._3john1_9_amend2;
+                    break;
                 case "3john1c9amend1":
                     formGen(9, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_9_amend1;
@@ -524,7 +540,7 @@ namespace ActViewer
                     break;
                 case "3john1c9":
                     formGen(9, "John 1", 3, "Repealed");
-                    displayTextBox.SelectedText = "Union with Quebec Act (Baustralia)\r\nIntroduced by the Minister for Foreign Affairs, Lord Wooler.\r\nRepealed by 3 John 1 c. 18 (Union with Quebec (Repeal) Act (Baustralia)).\r\nAmended by 3 John 1 c. 13 (Union with Quebec (Modifications) Act (Baustralia)).\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Union with Quebec Act (Baustralia)\r\nIntroduced by the Minister for Foreign Affairs, Lord Wooler.\r\nRepealed by 3 John 1 c. 18 (Union with Quebec (Repeal) Act (Baustralia)).\r\nAmended by\r\n  3 John 1 c. 13 (Union with Quebec (Modifications) Act (Baustralia))\r\n  6 John 1 c. 45 (Statute Law (Revisions) Act)..\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 10
@@ -680,13 +696,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 24
+                case "3john1c24amend1":
+                    formGen(24, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_24_amend1;
+                    break;
                 case "3john1c24original":
                     formGen(24, "John 1", 3, "Spent");
                     displayTextBox.SelectedText = Resources._3john1_24_original;
                     break;
                 case "3john1c24":
                     formGen(24, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Whiskey Islands Act\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Whiskey Islands Act\r\nIntroduced by the Minister for Imperial Affairs, Sir Greg Watts.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 25
@@ -711,16 +731,16 @@ namespace ActViewer
                 #endregion
                 #region Chapter 27
                 case "3john1c27amend1":
-                    formGen(27, "John 1", 3, "Spent");
+                    formGen(27, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_27_amend1;
                     break;
                 case "3john1c27original":
-                    formGen(27, "John 1", 3, "Spent");
+                    formGen(27, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_27_original;
                     break;
                 case "3john1c27":
-                    formGen(27, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Mayhew (Claim) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nNo vote counts avaliable.";
+                    formGen(27, "John 1", 3, "Repealed");
+                    displayTextBox.SelectedText = "Mayhew (Claim) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nRepealed by 3 John 1 c. 29 (Mayhew (Annulment) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 28
@@ -734,13 +754,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 29
+                case "3john1c29amend1":
+                    formGen(29, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_29_amend1;
+                    break;
                 case "3john1c29original":
                     formGen(29, "John 1", 3, "Spent");
                     displayTextBox.SelectedText = Resources._3john1_29_original;
                     break;
                 case "3john1c29":
                     formGen(29, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Mayhew (Annulment) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Mayhew (Annulment) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nRepeals 3 John 1 c. 27.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 30
@@ -754,13 +778,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 31
+                case "3john1c31amend1":
+                    formGen(31, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_31_amend1;
+                    break;
                 case "3john1c31original":
                     formGen(31, "John 1", 3, "Spent");
                     displayTextBox.SelectedText = Resources._3john1_31_original;
                     break;
                 case "3john1c31":
                     formGen(31, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Baustralian News Network Act\r\nIntroduced by the Prime Minister, Aidan McGrath.\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Baustralian News Network Act\r\nIntroduced by the Prime Minister, Aidan McGrath.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 32
@@ -774,13 +802,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 33
+                case "3john1c33amend1":
+                    formGen(33, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_33_amend1;
+                    break;
                 case "3john1c33original":
-                    formGen(33, "John 1", 3, "In force");
+                    formGen(33, "John 1", 3, "Amended");
                     displayTextBox.SelectedText = Resources._3john1_33_original;
                     break;
                 case "3john1c33":
-                    formGen(33, "John 1", 3, "In force");
-                    displayTextBox.SelectedText = "Interpretation Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nNo vote counts avaliable.";
+                    formGen(33, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = "Interpretation Act\r\nIntroduced by the Prime Minister, Sir John Timpson.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 34
@@ -808,13 +840,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 36
+                case "3john1c36amend1":
+                    formGen(36, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = Resources._3john1_36_amend1;
+                    break;
                 case "3john1c36original":
-                    formGen(36, "John 1", 3, "In force");
+                    formGen(36, "John 1", 3, "Amended");
                     displayTextBox.SelectedText = Resources._3john1_36_original;
                     break;
                 case "3john1c36":
-                    formGen(36, "John 1", 3, "In force");
-                    displayTextBox.SelectedText = "Communications (Office Wordmarks) Act\r\nIntroduced by the Secretary of State for Spatial Exploration, Aidan McGrath.\r\nNo vote counts avaliable.";
+                    formGen(36, "John 1", 3, "Amended");
+                    displayTextBox.SelectedText = "Communications (Office Wordmarks) Act\r\nIntroduced by the Secretary of State for Spatial Exploration, Aidan McGrath.\r\nAmended by 6 John 1 c, 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 37
@@ -977,12 +1013,12 @@ namespace ActViewer
                 #endregion
                 #region Chapter 52
                 case "3john1c52original":
-                    formGen(52, "John 1", 3, "In force");
+                    formGen(52, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_52_original;
                     break;
                 case "3john1c52":
-                    formGen(52, "John 1", 3, "In force");
-                    displayTextBox.SelectedText = "Routes (Designation) Act\r\nIntroduced by the Secretary of State for Routes, Chase Lameroux.\r\nNo vote counts avaliable.";
+                    formGen(52, "John 1", 3, "Repealed");
+                    displayTextBox.SelectedText = "Routes (Designation) Act\r\nIntroduced by the Secretary of State for Routes, Chase Lameroux.\r\nRepealed by 5 John 1 c. 2 (National Routes Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 53
@@ -1080,13 +1116,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 62
+                case "3john1c62amend1":
+                    formGen(62, "John 1", 3, "Spent");
+                    displayTextBox.SelectedText = Resources._3john1_62_amend1;
+                    break;
                 case "3john1c62original":
                     formGen(62, "John 1", 3, "Spent");
                     displayTextBox.SelectedText = Resources._3john1_62_original;
                     break;
                 case "3john1c62":
                     formGen(62, "John 1", 3, "Spent");
-                    displayTextBox.SelectedText = "Colony (No. 2) Act\r\nIntroduced by the Prime Minister, Sir Nick Sullivan.\r\nAmends 3 John 1 c. 34\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Colony (No. 2) Act\r\nIntroduced by the Prime Minister, Sir Nick Sullivan.\r\nAmends 3 John 1 c. 34\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 63
@@ -1120,13 +1160,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 66
+                case "3john1c66amend1":
+                    formGen(66, "John 1", 3, "Repealed");
+                    displayTextBox.SelectedText = Resources._3john1_66_amend1;
+                    break;
                 case "3john1c66original":
                     formGen(66, "John 1", 3, "Repealed");
                     displayTextBox.SelectedText = Resources._3john1_66_original;
                     break;
                 case "3john1c66":
                     formGen(66, "John 1", 3, "Repealed");
-                    displayTextBox.SelectedText = "Fithiuania (Citizenship) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nRepealed by 4 John 1 c. 35 (Paloma Act).\r\nNo vote counts avaliable.";
+                    displayTextBox.SelectedText = "Fithiuania (Citizenship) Act\r\nIntroduced by the Secretary of State for Foreign Affairs, the Lord Wooler.\r\nRepealed by 4 John 1 c. 35 (Paloma Act).\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\nNo vote counts avaliable.";
                     break;
                 #endregion
                 #region Chapter 67
@@ -1658,12 +1702,12 @@ namespace ActViewer
                 #endregion
                 #region Chapter 16
                 case "4john1c16original":
-                    formGen(16, "John 1", 4, "In force");
+                    formGen(16, "John 1", 4, "Repealed");
                     displayTextBox.SelectedText = Resources._4john1_16_original;
                     break;
                 case "4john1c16":
-                    formGen(16, "John 1", 4, "In force");
-                    displayTextBox.SelectedText = "Official Secrets Act" + formats[5];
+                    formGen(16, "John 1", 4, "Repealed");
+                    displayTextBox.SelectedText = "Official Secrets Act\r\nRepealed by 6 John 1 c. 45 (Statute Law (Revisions) Act)." + formats[5];
                     break;
                 #endregion
                 #region Chapter 17
@@ -1783,13 +1827,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 31
+                case "4john1c31amend1":
+                    formGen(31, "John 1", 4, "Amended");
+                    displayTextBox.SelectedText = Resources._4john1_31_amend1;
+                    break;
                 case "4john1c31original":
-                    formGen(31, "John 1", 4, "In force");
+                    formGen(31, "John 1", 4, "Amended");
                     displayTextBox.SelectedText = Resources._4john1_31_original;
                     break;
                 case "4john1c31":
-                    formGen(31, "John 1", 4, "In force");
-                    displayTextBox.SelectedText = "Weights and Measures Act" + formats[5];
+                    formGen(31, "John 1", 4, "Amended");
+                    displayTextBox.SelectedText = "Weights and Measures Act\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act)." + formats[5];
                     break;
                 #endregion
                 #region Chapter 32
@@ -1947,7 +1995,7 @@ namespace ActViewer
                     break;
                 case "4john1c52":
                     formGen(52, "John 1", 4, "Repealed");
-                    displayTextBox.SelectedText = "Imperial Boundries Act\r\nRepealed by 5 John 1 c. 13 (Imperial Boundaries Act)." + formats[5];
+                    displayTextBox.SelectedText = "Imperial Boundries Act\r\nRepealed by 5 John 1 c. 13 (Imperial Boundaries Act).\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act)." + formats[5];
                     break;
                 #endregion
                 #region Chapter 53
@@ -1994,7 +2042,7 @@ namespace ActViewer
                     break;
                 case "5john1c2":
                     formGen(2, "John 1", 5, "Spent");
-                    displayTextBox.SelectedText = "National Routes Act" + formats[5];
+                    displayTextBox.SelectedText = "National Routes Act\r\nRepeals 3 John 1 c. 52." + formats[5];
                     break;
                 #endregion
                 #region Chapter 3
@@ -2359,7 +2407,7 @@ namespace ActViewer
                 #region 6 John 1
                 case "6john1":
                     longCitation.Text = formats[1];
-                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nParker ministry (Conservative, 2/42)\r\nBurgardt-Morris ministry (Coalition), 7/42)\r\nBurgardt ministry (Liberal), 10/42)\r\nDoig ministry (Conservative), 23/42)\r\n\r\n42 Acts of Parliament";
+                    displayTextBox.SelectedText = "6 John 1\r\n\r\n20 June 2022-19 June 2023\r\n\r\nParker ministry (Conservative, 2/45)\r\nBurgardt-Morris ministry (Coalition), 7/45)\r\nBurgardt ministry (Liberal), 10/45)\r\nDoig ministry (Conservative), 26/45)\r\n\r\n45 Acts of Parliament";
                     selectionLabel.Text = "6 John 1";
                     break;
                 #region Chapter 1
@@ -2531,13 +2579,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 17
+                case "6john1c17amend1":
+                    formGen(17, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_17_amend1;
+                    break;
                 case "6john1c17original":
                     formGen(17, "John 1", 6, "Spent");
                     displayTextBox.SelectedText = Resources._6john1_17_original;
                     break;
                 case "6john1c17":
                     formGen(17, "John 1", 6, "Spent");
-                    displayTextBox.SelectedText = "Secretaries of State (No. 2) Act\r\nBill citations: C661.\r\nIntroduced by the Secretary of State for the Economy, Ava Calero.\r\nAmends 6 John 1 c. 3.\r\n" + votes.details(selector.ToLower());
+                    displayTextBox.SelectedText = "Secretaries of State (No. 2) Act\r\nBill citations: C661.\r\nIntroduced by the Secretary of State for the Economy, Ava Calero.\r\nAmends 6 John 1 c. 3.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\n" + votes.details(selector.ToLower());
                     break;
                 #endregion
                 #region Chapter 18
@@ -2565,13 +2617,17 @@ namespace ActViewer
                     break;
                 #endregion
                 #region Chapter 20
+                case "6john1c20amend1":
+                    formGen(20, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_20_amend1;
+                    break;
                 case "6john1c20original":
                     formGen(20, "John 1", 6, "Spent");
                     displayTextBox.SelectedText = Resources._6john1_20_original;
                     break;
                 case "6john1c20":
                     formGen(20, "John 1", 6, "Spent");
-                    displayTextBox.SelectedText = "Highways (Stonia) Act\r\nBill citations: C6111.\r\nIntroduced by the Secretary of State for Routes, Lady Ella Parker.\r\n" + votes.details(selector.ToLower());
+                    displayTextBox.SelectedText = "Highways (Stonia) Act\r\nBill citations: C6111.\r\nIntroduced by the Secretary of State for Routes, Lady Ella Parker.\r\nAmended by 6 John 1 c. 45 (Statute Law (Revisions) Act).\r\n" + votes.details(selector.ToLower());
                     break;
                 #endregion
                 #region Chapter 21
@@ -2802,6 +2858,36 @@ namespace ActViewer
                     displayTextBox.SelectedText = "Aides-de-Camp (Commodores and Brigadiers) Act\r\nBill citations: T6201.\r\nBy command of the Sovereign.\r\nAmends 6 John 1 c. 35.";
                     break;
                 #endregion
+                #region Chapter 43
+                case "6john1c43original":
+                    formGen(43, "John 1", 6, "In force");
+                    displayTextBox.SelectedText = Resources._6john1_43_original;
+                    break;
+                case "6john1c43":
+                    formGen(43, "John 1", 6, "In force");
+                    displayTextBox.SelectedText = "Interpretation (Treaties and Conventions) Act\r\nBill citations: T6211.\r\nBy command of the Sovereign.";
+                    break;
+                #endregion
+                #region Chapter 44
+                case "6john1c44original":
+                    formGen(44, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_44_original;
+                    break;
+                case "6john1c44":
+                    formGen(44, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = "Routes (Establishing Proposals, No. 2) Act\r\nBill citations: T6231.\r\nBy command of the Sovereign.";
+                    break;
+                #endregion
+                #region Chapter 45
+                case "6john1c45original":
+                    formGen(45, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = Resources._6john1_45_original;
+                    break;
+                case "6john1c45":
+                    formGen(45, "John 1", 6, "Spent");
+                    displayTextBox.SelectedText = "Statute Law (Revisions) Act\r\nBill citations: T6221.\r\nBy command of the Sovereign, and Consent of the Commons.\r\nRepeals 4 John 1 c. 16\r\nAmends:\r\n  2 John 1 c. 11\r\n           c. 27\r\n  3 John 1 c. 6\r\n           c. 9\r\n           c. 24\r\n           c. 29\r\n           c. 31\r\n           c. 33\r\n           c. 36\r\n           c. 62\r\n           c. 66\r\n  4 John 1 c. 16\r\n           c. 31\r\n           c. 52\r\n  6 John 1 c. 17\r\n           c. 20\r\n" + votes.details(selector.ToLower());
+                    break;
+                #endregion
                 #endregion
                 #region Bills
                 case "bills":
@@ -2856,6 +2942,114 @@ namespace ActViewer
                                                   "\r\n2nd reading, bill L622, introduced by the Shadow Secretary of State for Defence, the Duke of Northumbria.\r\n" + votes.details("armedforcesbill2") +
                                                   "\r\n3rd reading pending.";
                     break;
+                #endregion
+                #endregion
+                #region Treaties
+                case "1john1ci": case "1john1cii":
+                case "2john1ci": case "2john1cii": case "2john1ciii":
+                case "3john1ci": case "3john1cii": case "3john1ciii": case "3john1civ": case "3john1cv": case "3john1cvi": case "3john1cvii": case "3john1cviii": case "3john1cix": case "3john1cx":
+                case "4john1ci": case "4john1cii": case "4john1ciii":
+                    longCitation.Text = "Treaties";
+                    displayTextBox.SelectedText = "This document is a treaty. It acts as a secondary piece of Baustralian legislation. It's status must be determined when the treaty in question is used, records are not kept.";
+                    selectionLabel.Text = "Treaty";
+                    break;
+                #region 1 John 1
+                case "concord17":
+                    longCitation.Text = string.Format("Treaty of Peace between Baustralia and Wangatangia, to end unprovoked aggravation from Wangatangia.");
+                    selectionLabel.Text = string.Format("Treaty of Concord (2017)");
+                    displayTextBox.SelectedText = Resources.concord17;
+                    break;
+                case "concord18":
+                    longCitation.Text = string.Format("Treaty of Peace between Baustralia and Nishlorpia, to end unprovoked aggravation from Nishlorpia.");
+                    selectionLabel.Text = string.Format("Treaty of Concord (2018)");
+                    displayTextBox.SelectedText = Resources.concord18;
+                    break;
+                #endregion
+                #region 2 John 1
+                case "trent":
+                    longCitation.Text = string.Format("Treaty of Trent to provide for the Separation of Rmhoania after a successful referendum.");
+                    selectionLabel.Text = string.Format("Treaty of Trent");
+                    displayTextBox.SelectedText = Resources.trent;
+                    break;
+                case "brighton":
+                    longCitation.Text = string.Format("Peace Treaty of Brighton to end Uprovoked Aggression from the Kingdom of Eureka.");
+                    selectionLabel.Text = string.Format("Treaty of Brighton");
+                    displayTextBox.SelectedText = Resources.brighton;
+                    break;
+                case "northumbria":
+                    longCitation.Text = string.Format("Agreement on the separation and cession of the territory of Northumbria from New Hesse, Gradonia to the Empire of Baustralia.");
+                    selectionLabel.Text = string.Format("Treaty of Northumbria");
+                    displayTextBox.SelectedText = Resources.northumbria;
+                    break;
+                #endregion
+                #region 3 John 1
+                case "wrythe":
+                    longCitation.Text = string.Format("The Wrythe Convention on the Prevention and Denouncing of Falsehoods Within the Community of Small States and Nations.");
+                    selectionLabel.Text = string.Format("Wrythe Convention");
+                    displayTextBox.SelectedText = Resources.wrythe;
+                    break;
+                case "gum":
+                    longCitation.Text = string.Format("The Wrythe Convention on the Prevention and Denouncing of Falsehoods Within the Community of Small States and Nations.");
+                    selectionLabel.Text = string.Format("Charter of the Grand Unified Micronational");
+                    displayTextBox.SelectedText = Resources.gum;
+                    break;
+                case "citadelle":
+                    longCitation.Text = string.Format("Treaty of Mutual Recognition between the Kingdom of Baustralia and the People’s Federation of Quebec.");
+                    selectionLabel.Text = string.Format("Treaty of Citadelle");
+                    displayTextBox.SelectedText = Resources.citadelle;
+                    break;
+                case "aenopia":
+                    longCitation.Text = string.Format("Treaty of Mutual Recognition between Baustralia and Aenopia.");
+                    selectionLabel.Text = string.Format("Treaty of Aenopia");
+                    displayTextBox.SelectedText = Resources.aenopia;
+                    break;
+                case "kapreburg":
+                    longCitation.Text = string.Format("Treaty of Relations and Mutual Recognition between the Kingdom of Baustralia and the Empire of Kapreburg.");
+                    selectionLabel.Text = string.Format("Treaty of Kapreburg");
+                    displayTextBox.SelectedText = Resources.kapreburg;
+                    break;
+                case "concord20":
+                    longCitation.Text = string.Format("A treaty to mutually agree to the borders of the Colony of Fox Islands.");
+                    selectionLabel.Text = string.Format("Treaty of Concord");
+                    displayTextBox.SelectedText = Resources.concord20;
+                    break;
+                case "belcity":
+                    longCitation.Text = string.Format("Treaty of Belcity.");
+                    selectionLabel.Text = string.Format("Treaty of Belcity");
+                    displayTextBox.SelectedText = Resources.belcity;
+                    break;
+                case "florina":
+                    longCitation.Text = string.Format("Treaty of Florina for Mutual Recognition between Baustralia and Ovrestlia.");
+                    selectionLabel.Text = string.Format("Treaty of Florina");
+                    displayTextBox.SelectedText = Resources.florina;
+                    break;
+                case "sansouci":
+                    longCitation.Text = string.Format("A Treaty of Mutual Recognition between the Kingdom of New Paloma and the Kingdom of Baustralia.");
+                    selectionLabel.Text = string.Format("Treaty of San Souci");
+                    displayTextBox.SelectedText = Resources.sansouci;
+                    break;
+                case "nuevoholdertona":
+                    longCitation.Text = string.Format("Treaty of Nuevo Holdertona for Mutual Recognition between Baustralia and Paloma.");
+                    selectionLabel.Text = string.Format("Treaty of Nuevo Holdertona");
+                    displayTextBox.SelectedText = Resources.nuevoholdertona;
+                    break;
+                #endregion
+                #region 4 John 1
+                case "cupertino":
+                    longCitation.Text = string.Format("Mission of the Cupertino Alliance.");
+                    selectionLabel.Text = string.Format("Mission of the Cupertino Alliance");
+                    displayTextBox.SelectedText = Resources.cupertino;
+                    break;
+                case "rajagriha":
+                    longCitation.Text = string.Format("Treaty of Rajagriha.");
+                    selectionLabel.Text = string.Format("Treaty of Rajagriha");
+                    displayTextBox.SelectedText = Resources.rajagriha;
+                    break;
+                case "palomacity":
+                    longCitation.Text = string.Format("An Agreement of Mutual Recognition between the Kingdom of Baustralia and her Empire, and the Free Socialist State of Paloma.");
+                    selectionLabel.Text = string.Format("Paloma City Agreement");
+                    displayTextBox.SelectedText = Resources.palomacity;
+                    break; 
                 #endregion
                 #endregion
                 default:
@@ -3120,6 +3314,20 @@ namespace ActViewer
             else
             {
                 treeView1.ImageList = listIcons;
+            }
+        }
+
+        private void eToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                MessageBox.Show(
+                    latexGen.parseText(displayTextBox.Text, treeView1.SelectedNode.Parent.Parent.Text, treeView1.SelectedNode.Index.Equals(0))
+                );
+            }
+            catch (NullReferenceException ex)
+            {
+                MessageBox.Show("An error occured while generating the LaTEX document.\r\nThis is likely due to the selected document is not an Act of Parliament. Please report to the Communications Office.\r\n" + ex.Message, "LaTEX error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

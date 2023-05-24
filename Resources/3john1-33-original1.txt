@@ -16,7 +16,7 @@ TERMS
   II.  Note the usage of small caps.
   III. Where small caps unavailable, assume 2a as the defaulting case unless stated.
   IV.  To find whether small caps are available, find ‘Be it enacted*’. If the phrase appears in small caps, they are available, if in normal caps, it is unavailable
-3.   ‘Be it enacted by His Most Gracious and Excellent Majesty as follows:-*’ shall be placed on any legislature written by His Majesty the King bypassing the Commons by virtue of the Monarchy Powers Act, 2019, 3 John 1 c. 14.
+3.   ‘Be it enacted by His Most Gracious and Excellent Majesty as follows:-*’ shall be placed on any legislature written by His Majesty the King bypassing the Commons by virtue of the Monarchy (Powers) Act, 2019, 3 John 1 c. 14.
 4.   ‘Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-*’ shall be placed on any legislature passing through Commons.
 5.   All legislation marked with be it enacted has received Royal Assent.
 6.   Legislation is any document made law through Parliament and His Majesty the King.

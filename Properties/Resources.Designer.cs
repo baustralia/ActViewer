@@ -196,6 +196,24 @@ namespace ActViewer.Properties {
         ///PREFACE
         ///
         ///1.   Whereas in the past, His Most Excellent and Gracious Majesty had put forth a bill barring Their Royal Highnesses from succession, he feels that it may be beneficial to revert to a standard law.
+        ///2.   This Act shall be known as the Succession Law (Modifications, No. 2) Act, 2019
+        ///
+        ///TERMS
+        ///
+        ///3.   Their Royal Highnesses may reign as King or Queen of the Baustralia [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _2john1_11_amend2 {
+            get {
+                return ResourceManager.GetString("2john1-11-amend2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 11 - AN ACT TO REPEAL THE MODIFICATIONS TO THE SUCCESSION LAW OF BAUSTRALIA AND REPLACE IT WITH A LESS RESTRICTIVE METHOD
+        ///
+        ///PREFACE
+        ///
+        ///1.   Whereas in the past, His Most Excellent and Gracious Majesty had put forth a bill barring Their Royal Highnesses from succession, he feels that it may be beneficial to revert to a standard law.
         ///2.   This Act shall be known as the Modification Act to the Succession Law of Baustralia, 2019
         ///
         ///TERMS
@@ -582,6 +600,25 @@ namespace ActViewer.Properties {
         internal static string _2john1_26_original {
             get {
                 return ResourceManager.GetString("2john1-26-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 27 - AN ACT REGARDING TERMS OF ELECTION
+        ///
+        ///PREFACE
+        ///
+        ///1.   Whereas by the Constitution, His Majesty will appoint a Prime Minister and his Cabinet through a quadrennial election, with this Act shall be changed to an annual election.
+        ///2.   This Act shall be known as the Fixed Terms Election Act.
+        ///
+        ///TERMS
+        ///
+        ///3.   Elections shall take place every year on the same date as before, 20 June.
+        ///4.   Paragraph 6 of the Legislature section of the Constitution Act, 2 John 1 c. 2, shall be amended to read: &quot;Terms [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _2john1_27_amend1 {
+            get {
+                return ResourceManager.GetString("2john1-27-amend1", resourceCulture);
             }
         }
         
@@ -1182,6 +1219,20 @@ namespace ActViewer.Properties {
         ///   Looks up a localized string similar to CHAPTER 24 - AN ACT REGARDING AND ESTABLISHING THE DOMINION OF WHISKEY ISLANDS
         ///
         ///Be it enacted by His Most Gracious and Excellency the following:-
+        ///1.   This Act shall be known as the Whiskey Islands Act, 2019.
+        ///2.   Established is the Dominion of Whiskey Islands.
+        ///3.   The Whiskey Islands shall be represented in Parliament by the Minister for Foreign Affairs..
+        /// </summary>
+        internal static string _3john1_24_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-24-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 24 - AN ACT REGARDING AND ESTABLISHING THE DOMINION OF WHISKEY ISLANDS
+        ///
+        ///Be it enacted by His Most Gracious and Excellency the following:-
         ///1.   Established is the Dominion of Whiskey Islands.
         ///2.   The Whiskey Islands shall be represented in Parliament by the Minister for Foreign Affairs..
         /// </summary>
@@ -1295,6 +1346,20 @@ namespace ActViewer.Properties {
         ///2.   The Mayhew Act, paragraph 3, shall read: “This Act shall be known as the Mayhew (Claim) Act, 2019.”
         ///3.   Whereas the government of Quebec has made an error in reporting the dissolution of all but Fithiuanian SR and  [rest of string was truncated]&quot;;.
         /// </summary>
+        internal static string _3john1_29_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-29-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 29 - AN ACT REGARDING THE COUNTY OF MAYHEW AND THE CLAIMS THEREON BY THE PEOPLES FEDERATION OF QUEBEC; TO AMEND THE MAYHEW ACTS SHORT TITLE
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Mayhew (Annulment) Act, 2019.
+        ///2.   The Mayhew Act, paragraph 3, shall read: This Act shall be known as the Mayhew (Claim) Act, 2019.
+        ///3.   Whereas the government of Quebec has made an error in reporting the dissolution of all but Fithiuanian SR and  [rest of string was truncated]&quot;;.
+        /// </summary>
         internal static string _3john1_29_original {
             get {
                 return ResourceManager.GetString("3john1-29-original", resourceCulture);
@@ -1342,6 +1407,20 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized string similar to CHAPTER 31 - AN ACT ESTABLISHING FORMALLY THE BAUSTRALIAN NEWS NETWORK
         ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty the following:
+        ///1.   Created and chartered is the Baustralian News Network
+        ///2.   Formed already, this Act serves to recognize it, and create it through legislature.
+        ///3.   This Act shall be known as the Baustralian News Network Act, 2019..
+        /// </summary>
+        internal static string _3john1_31_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-31-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT ESTABLISHING FORMALLY THE BAUSTRALIAN NEWS NETWORK
+        ///
         ///BE IT ENACTED by His Most Gracious and Excellent Majesty the follows:
         ///1.   Created and chartered is the Baustralian News Network
         ///2.   Formed already, this Act serves to recognize it, and create it through legislature.
@@ -1364,6 +1443,28 @@ namespace ActViewer.Properties {
         internal static string _3john1_32_original {
             get {
                 return ResourceManager.GetString("3john1-32-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NOTE, SMALL CAPITALS ARE NOT DISPLAYED HERE (*)
+        ///
+        ///CHAPTER 33 - AN ACT REGARDING THE INTERPRETATION OF BILLS AND ACTS OF THE PARLIAMENT OF BAUSTRALIA AND PURPOSES CONNECTED THEREWITH
+        ///
+        ///PREFACE
+        ///
+        ///Be it enacted* by His Most Gracious and excellent Majesty and the Commons assembled, the follows:-
+        ///
+        ///TERMS
+        ///
+        ///1.   This Act shall be known as the Interpretation Act, 2019.
+        ///2.   Interpretation of Bills and Acts are as follows:
+        /// a)   Act* shall refer to an Act of the Parliament of Baustralia.
+        /// b)   Act shall ref [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_33_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-33-amend1", resourceCulture);
             }
         }
         
@@ -1444,6 +1545,21 @@ namespace ActViewer.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to CHAPTER 36 - AN ACT REGARDING THE WORDMARKS USED BY THE OFFICES OF HIS MAJESTY’S ROYAL GOVERNMENT; REGARDING ELECTRONIC MEASUREMENTS OF THE WORDMARK; AND OTHER PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Excellent Majesty and with the consent of Commons as follows:-
+        ///
+        ///1.   This Act shall be known as the Communications (Office Wordmarks) Act, 2020.
+        ///2.   Whereas His Majesty laid out that the current wordmarks by Order of Council as follows, it shall be amended as per paragraph 5 of this Act.
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_36_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-36-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 36 - AN ACT REGARDING THE WORDMARKS USED BY THE OFFICES OF HIS MAJESTYS ROYAL GOVERNMENT; REGARDING ELECTRONIC MEASUREMENTS OF THE WORDMARK; AND OTHER PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted by His Most Excellent Majesty and with the consent of Commons as follows:-
         ///
@@ -1900,6 +2016,27 @@ namespace ActViewer.Properties {
         ///5.   The flag shall be treated with the same respect as the Baustralian flag.
         ///6.   The [rest of string was truncated]&quot;;.
         /// </summary>
+        internal static string _3john1_6_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-6-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 6 - AN ACT REGARDING THE NATIONAL SYMBOLS OF OSTREUM
+        ///
+        ///PREFACE
+        ///
+        ///1.   This Act, less section 5 shall extend to Ostreum only.
+        ///2.   Section 5 shall extend to the whole empire.
+        ///3.   This Act shall be known as the National Symbols Act (Ostreum), 2019.
+        ///
+        ///TERMS
+        ///
+        ///4.   The flag of Ostreum shall be a Baustralian red ensign, that is a red flag with the Baustralian flag in the canton, with the escutcheon in the fly.
+        ///5.   The flag shall be treated with the same respect as the Baustralian flag.
+        ///6.   The [rest of string was truncated]&quot;;.
+        /// </summary>
         internal static string _3john1_6_original {
             get {
                 return ResourceManager.GetString("3john1-6-original", resourceCulture);
@@ -1939,8 +2076,23 @@ namespace ActViewer.Properties {
         ///   Looks up a localized string similar to CHAPTER 62 - AN ACT TO DISSOLVE THE OFFICES AND POSITIONS OF ALL THE COLONIES AND REPLACE THEM WITH ONE OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
-        ///1.   This Bill shall be known as the Colony (No. 2) Bill
+        ///1.   This Act shall be known as the Colony (No. 2) Act.
         ///2.   The Colony Act, 3 John 1 c. 34, para. 1 will be amended to read: “This Act shall be known as the Colony (No. 1) Act.”
+        ///3.   These positions will be dissolved:
+        /// a)   Secretary of State for th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_62_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-62-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 62 - AN ACT TO DISSOLVE THE OFFICES AND POSITIONS OF ALL THE COLONIES AND REPLACE THEM WITH ONE OFFICE, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty and with the Consent of the Commons as follows:-
+        ///1.   This Bill shall be known as the Colony (No. 2) Bill
+        ///2.   The Colony Act, 3 John 1 c. 34, para. 1 will be amended to read: This Act shall be known as the Colony (No. 1) Act.
         ///3.   These positions will be dissolved:
         /// a)   Secretary of State for t [rest of string was truncated]&quot;;.
         /// </summary>
@@ -1995,6 +2147,20 @@ namespace ActViewer.Properties {
         internal static string _3john1_65_original {
             get {
                 return ResourceManager.GetString("3john1-65-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 66
+        ///AN ACT REGARDING THE CITIZENS OF OSTREUM AND FITHIUANIA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///BE IT ENACTED by His Most Gracious and Excellent Majesty, and the current Parliament assembled as follows:-
+        ///1.   To allow for governance in the Territory of Fithiuania, all residents that reside only in Fithiuania, and not in any other territory of Paloma are exempt from the Paloma (Citizenship) Act.
+        ///2.   This Act shall be known as the Fithiuania (Citizenship) Act, 2020..
+        /// </summary>
+        internal static string _3john1_66_amend1 {
+            get {
+                return ResourceManager.GetString("3john1-66-amend1", resourceCulture);
             }
         }
         
@@ -2372,13 +2538,26 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized string similar to CHAPTER 9 - AN ACT REGARDING THE UNION OF THE CROWNS OF THE KINGDOM OF BAUSTRALIA AND THE SECOND KINGDOM OF QUEBEC AND VERSAILLES; REGARDING THE TERMS OF MERGING; REGARDING THE TERMS OF SEPARATION; REGARDING LAW OF SUCCESSION; REGARDING TERMS OF THE KING OF QUEBEC AND VERSAILLES	
         ///
-        ///Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows:— 
+        ///Be it enacted by the Kings most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows: 
         ///
         ///1.   This Act extends to Baustralia  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string _3john1_9_amend1 {
             get {
                 return ResourceManager.GetString("3john1-9-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 9 - AN ACT REGARDING THE UNION OF THE CROWNS OF THE KINGDOM OF BAUSTRALIA AND THE SECOND KINGDOM OF QUEBEC AND VERSAILLES; REGARDING THE TERMS OF MERGING; REGARDING THE TERMS OF SEPARATION; REGARDING LAW OF SUCCESSION; REGARDING TERMS OF THE KING OF QUEBEC AND VERSAILLES	
+        ///
+        ///Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Commons, in this present Parliament assembled, and by the authority of the same, as follows:— 
+        ///
+        ///1.   This Act extends to Baustralia  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _3john1_9_amend2 {
+            get {
+                return ResourceManager.GetString("3john1-9-amend2", resourceCulture);
             }
         }
         
@@ -2770,7 +2949,21 @@ namespace ActViewer.Properties {
         ///
         ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
         ///1.   This Act shall be known as the Weights and Measures Act, c. 31.
-        ///2.   The British Imperial System of Units shall be adopted as Baustralia’s national weights and measures, and shall be used anywhere possible..
+        ///2.   The British Imperial System of Units shall be adopted as Baustralia’s national weights and measures, and shall be used anywhere possible.
+        ///3.   Speed limits posted on the Baustralian highways shall be marked in  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_31_amend1 {
+            get {
+                return ResourceManager.GetString("4john1-31-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 31 - AN ACT REGARDING WEIGHTS AND MEASURES IN BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Weights and Measures Act, c. 31.
+        ///2.   The British Imperial System of Units shall be adopted as Baustralias national weights and measures, and shall be used anywhere possible..
         /// </summary>
         internal static string _4john1_31_original {
             get {
@@ -2902,6 +3095,27 @@ namespace ActViewer.Properties {
         internal static string _4john1_50_original {
             get {
                 return ResourceManager.GetString("4john1-50-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 52 - AN ACT REGARDING THE IMPERIAL BOUNDARIES IN BAUSTRALIA
+        ///
+        ///Be it enacted by His Most Gracious Majesty, and with the Consent of the Current Commons assembled, after the destruction of the original Act, the following:
+        ///1.   This Act shall be known as the Imperial Boundaries Act, c. 52.
+        ///2.   Baustralia shall be divided into the following:-
+        /// a)   Holderton
+        ///  I.   Holderton County
+        ///   i)   Holderton County
+        ///   ii)  Tremur
+        ///  II.  Concord County
+        ///   i)   Cascadia
+        ///   ii)  Concord
+        ///  III. Smithfield [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _4john1_52_amend1 {
+            get {
+                return ResourceManager.GetString("4john1-52-amend1", resourceCulture);
             }
         }
         
@@ -3693,6 +3907,19 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 17 - AN ACT TO AMEND THE THIRD CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///1.   This Act shall be referred to as the Secretaries of State (No. 2) Act, 2022, C661.
+        ///2.   The first Section of the Third Chapter of the Statute of Parliament that sat during the Sixth Year of the Reign of [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_17_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-17-amend1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 17 - AN ACT TO FORM AND DEFINE THE EQUALITY AND ECONOMIC INCLUSION OFFICE FROM THE ECONOMY OFFICE, TO FORM THE POSITION OF SECRETARY OF STATE FOR EQUALITY AND ECONOMIC INCLUSION FROM THE POSITION OF SECRETARY OF STATE FOR THE ECONOMY, TO AMEND THE THIRD CHAPTER OF THE STATUTE OF PARLIAMENT THAT SAT DURING THE SIXTH YEAR OF THE REIGN OF KING JOHN, AND FOR PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, th [rest of string was truncated]&quot;;.
@@ -3755,6 +3982,20 @@ namespace ActViewer.Properties {
         internal static string _6john1_2_original {
             get {
                 return ResourceManager.GetString("6john1-2-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 20 - AN ACT TO ESTABLISH THE HIGHWAY PROPOSALS IN THE MUNICIPALITY OF STONIA, WITHIN THE COUNTY OF VIENNA, AND FOR PURPOSES CONNECTED THEREWITH
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the current Commons assembled, the following:-
+        ///1.   This Act shall be referred to as the Highways (Stonia) Act, C6111.
+        ///2.   The proposed designation for Highway 101 along Canal Road will be established. 
+        ///3.   The proposed designation for Highway 102 along Shore Road will  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_20_amend1 {
+            get {
+                return ResourceManager.GetString("6john1-20-amend1", resourceCulture);
             }
         }
         
@@ -4128,6 +4369,52 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Be it enacted by His Most Gracious and Excellent Majesty as follows:-
+        ///1.   This Act shall be known as the Interpretation (Treaties and Conventions) Act, 2023, Bill T6211.
+        ///2.   Treaties, conventions, and other like agreements, will be published after primary legislation, and are to be considered secondary legislation.
+        ///3.   These treaties, et cetera, shall follow similar citation rules to Acts of Parliament:
+        /// a)   Regnal year as described in the Calendar Act, 3 John 1 c. 30.
+        /// b)   Chapter number, in uppe [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_43_original {
+            get {
+                return ResourceManager.GetString("6john1-43-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHAPTER 44 - AN ACT TO ESTABLISH HIGHWAY 6, HIGHWAY 10, HIGHWAY 11, HIGHWAY 19. HIGHWAY 20, HIGHWAY 21 AND HIGHWAY 22
+        ///
+        ///Be it enacted by His Most Gracious and Excellent Majesty, the following:-
+        ///1.   This Act shall be known as the Routes (Establishing Proposals, No. 2) Act, 2023, T6231.
+        ///2.   Any territorial references in this Act shall refer to the County of Pittsburgh.
+        ///3.   Highway 6 will be the portion of Accomodation Road which runs through Baustralia.
+        ///4.   Highway 10 shall be the gravel path from Hi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_44_original {
+            get {
+                return ResourceManager.GetString("6john1-44-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Be it enacted by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
+        ///
+        ///1.   This Act shall be known as the Statute Law (Revisions) Act, 2023, T6221.
+        ///
+        ///REVISIONS
+        ///
+        ///2.   The following shall be inserted to 2 John 1 c. 11:
+        /// 6.   The Succession Law section of the Constitution Act, 2 John 1 c. 2, shall be amended to read:
+        ///  -    The succession to the throne of Baustralia shall follow male-preference primogeniture. Kin, less descendants of John I, sh [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string _6john1_45_original {
+            get {
+                return ResourceManager.GetString("6john1-45-original", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHAPTER 5 - AN ACT TO AUTHORIZE A REFERENDUM OF A FOURTH ARMORIAL ACHIEVEMENT OF THE KINGDOM OF BAUSTRALIA, AND FOR PURPOSES CONNECTED THEREWITH
         ///
         ///Be it enacted, by His Most Gracious and Excellent Majesty, and with the Consent of the Current Commons assembled, the following:-
@@ -4237,6 +4524,21 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed, October 23rd 2019
+        ///
+        ///This Treaty of Mutual Recognition is between the nations of the Kingdom of Baustralia and Empire of Aenopia. This treaty is written to ensure political, economic and diplomatic cooperation between the two nations. The treaty may be automatically voided if a nation is dissolved or breaks one of the To-be-mentioned Objects of the Treaty.
+        ///
+        ///Article I: Objects of the Treaty
+        ///1.   Kingdom of Baustralia recognizes the chosen political status and sovereignty of Empire of Aenopia
+        ///2.   [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string aenopia {
+            get {
+                return ResourceManager.GetString("aenopia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap amended {
@@ -4268,6 +4570,22 @@ namespace ActViewer.Properties {
         internal static string armedforcesbill2 {
             get {
                 return ResourceManager.GetString("armedforcesbill2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Concord, 27 March 2020
+        ///
+        ///The Emperor of Baustralia, John I, and the President of Belcity, Lorenzo Colina, accept the official mutual recognization [sic, read recognition] de iure and de facto.
+        ///
+        ///The following conditions will be observed:
+        ///1.   There will be no wars or similar clashes between the two sides.
+        ///2.   In case of creation of organizations by one State, the other State will have to be invited.
+        ///3.   Exchanges of goods or persons with citizenship of one of the two States in the territori [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string belcity {
+            get {
+                return ResourceManager.GetString("belcity", resourceCulture);
             }
         }
         
@@ -4322,6 +4640,109 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed at Brighton, Ontario, Canada, 12 June 2019
+        ///
+        ///1.   Whereas the Kingdom of Eureka and the Empire of Baustralia were at a state of war, this treaty serves to end this.
+        ///2.   Resolved are the relations between Eureka and Baustralia, and the two parties shall become military allies.
+        ///
+        ///BAUSTRALIAN REPARITION
+        ///
+        ///3.   Joshua the First shall give John the First territory measuring one square metre from the first and original land claim [of Eureka].
+        ///4.   If, in the case the Kingdom of Rmhoania, that is the  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string brighton {
+            get {
+                return ResourceManager.GetString("brighton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Citadelle, PFQ, former Province of Taylor, 18 October 2019
+        ///
+        ///1.   Quebec shall view Baustralia as a sovereign nation.
+        ///2.   Baustralia shall view Quebec as a sovereign nation.
+        ///3.   Quebec and Baustralia shant engage in war explicitly declared by both nations.
+        ///4.   In the case of war, this treaty is null and void, less sections 1 and 2.
+        ///5.   Aidan McGrath of Quebec is banned from entering Baustralia without authorization from HM the King.
+        ///6.   Section 5 is considered null and void if Baustrali [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string citadelle {
+            get {
+                return ResourceManager.GetString("citadelle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Concord, HM District, Baustralia, December 27 2017
+        ///
+        ///Text for the treaty is lost.
+        ///
+        ///It provided for the end of battle between the Kingdom of Baustralia and the Republic of Wangatangia, for the republic&apos;s recognition of their unprovoked attack, and for the status of Wangtangia to become a Dominion of Baustralia.
+        ///
+        ///It was signed by King John and Jacob Mayjames, now the Viscount Mayjames..
+        /// </summary>
+        internal static string concord17 {
+            get {
+                return ResourceManager.GetString("concord17", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Concord, HM District, Baustralia, January 09 2018
+        ///
+        ///NISHLORPIAN REPARATION
+        ///
+        ///1.   The government of Nishlorpia must not provoke war again with Baustralia, the 2nd Kingdom of Flavora, Wangatangia or Tentacion. Secondly, they must issue a formal handshake to His Majesty John, and the Duke of Cascadia.
+        ///
+        ///PART II - BAUSTRALIAN REPARATION
+        ///
+        ///2.   The government of Nishlorpia wishes full recognition from the Kingdom and its Commonwealth and their member states.
+        ///
+        ///Part III - Signatures
+        ///
+        ///(Signed Joh [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string concord18 {
+            get {
+                return ResourceManager.GetString("concord18", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Concord, 26 January 2020.
+        ///
+        ///Whereas, the Sacrée Republic has granted the Kingdom of Baustralia the Fox Islands, which conflicts with the land claims of Kapreburg, the group of two islands shall be split equally between the northern and southern halves.
+        ///
+        ///1.   Baustralia shall use the northern island as their colony, and Kapreburg the southern half
+        ///2.   These land claims are agreed to by both parties, who both recognize that claiming the other half is an Act of War, and is annexation
+        ///
+        ///Signed,
+        ///(John I [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string concord20 {
+            get {
+                return ResourceManager.GetString("concord20", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Cupertino Alliance shall be an inter-micronational development alliance aimed to:
+        ///-    Promote cooperation between micronations
+        ///-    Promote peace within citizens
+        ///-    Offer the services of reliable freedom, and trustable security and justice to citizens
+        ///-    Promote activity within member nations
+        ///-    Promote development of member nations through information, projects, and other
+        ///Members of the Cupertino Alliance shall promote these values:
+        ///-    Respect and protection of humans and their rights
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string cupertino {
+            get {
+                return ResourceManager.GetString("cupertino", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap d {
@@ -4372,6 +4793,34 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed at Florina, 24 April 2020
+        ///
+        ///1.   This treaty serves to provide mutual recognition between the Empire of Baustralia and the Empire of Ovrestlia (“the nations concerned”).
+        ///2.   The nations concerned will recognize each other in accordance with international law.
+        ///3.   The nations concerned agree to not engage in warfare and agree to defend each other if need be.
+        ///
+        ///Signed,
+        ///  John I.R.I.
+        ///  Alcibiades I of Ionia, Imperator of the Eagle, Co-Emperor of Ovrestlia, Grand Duke of Paionia
+        ///  Aggelos I
+        ///  T [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string florina {
+            get {
+                return ResourceManager.GetString("florina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The most recent version is avaliable here: https://docs.google.com/document/d/1sys3Z22cNV8sJJm7LbnKMe9KmYsuTzROf8PbIgooVzg/edit.
+        /// </summary>
+        internal static string gum {
+            get {
+                return ResourceManager.GetString("gum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] help {
@@ -4388,6 +4837,16 @@ namespace ActViewer.Properties {
             get {
                 object obj = ResourceManager.GetObject("in_force", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On January 16, in the year two-thousand twenty, the Kingdom of Baustralia and the Empire of Kapreburg shall enter into formal mutual relations between both nation-states.
+        ///1.   Once both parties have signed this document, the Kingdom of Baustralia and the Empire of Kapreburg will officially recognize each other as an independent, sovereign nation-state, free from their macronations rule. Both parties will also unilaterally endorse the governments of each nation to show camaraderie in time of turmoil and unr [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string kapreburg {
+            get {
+                return ResourceManager.GetString("kapreburg", resourceCulture);
             }
         }
         
@@ -4446,12 +4905,42 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed at Concord, 10 June 2019
+        ///
+        ///1.   WHEREAS, the territory held by the Federated State of Gradonia known as New Hesse has been divided into two territories, the second being Northumbria.
+        ///2.   WHEREAS, the Gradonian and Baustralian governments agree in the cession of the Gradonian territory of Northumbria to the Empire of Baustralia as the Dukedom of Northumbria.
+        ///3.   RESOLVED, the previous clauses are enacted through legal means determined by both parties, this agreement is satisfied and fulfilled.
+        ///4 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string northumbria {
+            get {
+                return ResourceManager.GetString("northumbria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap noupdates {
             get {
                 object obj = ResourceManager.GetObject("noupdates", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Taylor, 5 May 2020
+        ///
+        ///1.   This treaty serves to provide mutual recognition between the Empire of Baustralia and the Free Socialist State of Paloma (“the nations concerned”). 
+        ///2.   The nations concerned will recognize each other in accordance with international law.
+        ///3.   The nations concerned agree to defend each other if need be.
+        ///Signed,
+        ///  John I.R.I.
+        ///  Aidan McGrath.
+        /// </summary>
+        internal static string nuevoholdertona {
+            get {
+                return ResourceManager.GetString("nuevoholdertona", resourceCulture);
             }
         }
         
@@ -4486,6 +4975,24 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed at Paloma City, Paloma and Concord, Baustralia, 29 December 2020
+        ///
+        ///DEFINITIONS
+        ///
+        ///The ‘Baustralian Empire’ shall refer to the Kingdom of Baustralia, her other colonies, realms, and protectorates, as well as any states which join the Empire in the future.
+        ///The ‘nautical mile’ shall be defined as one arcminute of latitude along a degree of longitude.
+        ///
+        ///AGREEMENT OF RECOGNITION
+        ///
+        ///The Baustralian Empire, agrees to recognize the Free Socialist State of Paloma, and likewise, the Free Socialist State of  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string palomacity {
+            get {
+                return ResourceManager.GetString("palomacity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap pending {
@@ -4502,6 +5009,15 @@ namespace ActViewer.Properties {
             get {
                 object obj = ResourceManager.GetObject("r", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Text for the treaty is lost. It provided for mutual recognition between the Kingdom of Baustralia and the State of Vishwamitra..
+        /// </summary>
+        internal static string rajagriha {
+            get {
+                return ResourceManager.GetString("rajagriha", resourceCulture);
             }
         }
         
@@ -4526,6 +5042,21 @@ namespace ActViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Signed 24 April 2020
+        ///
+        ///The Kingdom of New Paloma (KNP) and the Kingdom of Baustralia hereby agree to the following terms:
+        ///1.   The KNP shall recognize the territorial sovereignty of the Kingdom of Baustralia.
+        ///2.   Baustralia shall recognize the territorial sovereignty of the KNP.
+        ///3.   The governments of both nations shall establish embassies (physical or virtual) to facilitate diplomatic relations.
+        ///4.   The KNP and Baustralia shall collectively work to improve diplomatic ties between their two communit [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string sansouci {
+            get {
+                return ResourceManager.GetString("sansouci", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap spent {
@@ -4538,10 +5069,66 @@ namespace ActViewer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap t {
+            get {
+                object obj = ResourceManager.GetObject("t", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signed at Trenton, Ontario, Canada, 28 November 2018
+        ///
+        ///PREFACE
+        ///
+        ///1.   Do know that His Majesty hath defineth the Province of London as the house of Captain Reagan Greenson, HRN. It was also defined that the population at the time of separation numbered four.
+        ///2.   Whereas Captain Reagan Greenson, HRN, and Commander Mecca Thompson, HRN, hath runneth a referendum to separate the province of London into a sovereign state, the Kingdom of Rmhoania, they shall be referred to as Their Majesties the Queens of Rmh [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string trent {
+            get {
+                return ResourceManager.GetString("trent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap updates {
             get {
                 object obj = ResourceManager.GetObject("updates", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wm {
+            get {
+                object obj = ResourceManager.GetObject("wm", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wmsm {
+            get {
+                object obj = ResourceManager.GetObject("wmsm", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Done at Wrythe, 15 September 2018
+        ///(Signed by Baustralia, 10 July 2019)
+        ///
+        ///Within the community of unrecognised small states, independence movements, and &quot;micronations&quot;, there has often been a place for humorous aspects of culture, tongue-in-cheek embellishments, and legendary histories. However, we currently find ourselves in a situation whereby some persons are intentionally misrepresenting the facts regarding their projects in order to gain for themselves undeserved esteem and advantage. As this practice [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string wrythe {
+            get {
+                return ResourceManager.GetString("wrythe", resourceCulture);
             }
         }
     }
